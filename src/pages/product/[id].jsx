@@ -1,38 +1,7 @@
 import { useRouter } from 'next/router'
 
 
-const products = [
-  {
-    "Product ID": 1,
-    "Active (0/1)": 1,
-    "Name *": "Ampolleta 600w SHP Gro&Flo - Agrolite",
-    "Price tax excluded": "20252,000",
-    "Tax rules ID": 1,
-    "Reference #": "BOMBIL3",
-    "Manufacturer": "Agrolite",
-    "Quantity": 100,
-    "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">Las <strong>bombillas</strong> de sodio de alta presión (SHP) de Agrolite son idóneas para el cultivo. Estas lámparas, que tienen una rosca E-40, son apropiadas para el crecimiento y la floración del follaje, puesto que espectro de color contiene poco azul, pero una gran cantidad de amarillo y naranja que las hace muy brillantes. Son un tipo de luminarias de espectro corregido y larga vida.<br>Vatios: 600 W<br>Lúmenes: 20.000 lm<br>Vida: 15.000 h<br>Color: 2.100 Kº<br></div>",
-    "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Las bombillas de sodio de alta presión (SHP) de Agrolite son idóneas para el cultivo. Estas lámparas, que tienen una rosca E-40, son apropiadas para el crecimiento y la floración del follaje, puesto que espectro de color contiene poco azul, pero una gran cantidad de amarillo y naranja que las hace muy brillantes. Son un tipo de luminarias de espectro corregido y larga vida.<br>Vatios: 600 W<br>Lúmenes: 20.000 lm<br>Vida: 15.000 h<br>Color: 2.100 Kº<br></div>",
-    "Meta description": "",
-    "Image URLs": "http://siembratienda.com/20-large_default/bombilla-agrolite-600w-shp-groflo-25-uds-x-caja.jpg",
-    "Category": "Ampolletas;Iluminación;"
-  },
-  {
-    "Product ID": 2,
-    "Active (0/1)": 1,
-    "Name *": "Ampolleta 250w SHP Gro&Flo - Agrolite",
-    "Price tax excluded": "9244,000",
-    "Tax rules ID": 1,
-    "Reference #": "BOMBIL4",
-    "Manufacturer": "Agrolite",
-    "Quantity": 100,
-    "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">Las bombillas de sodio de alta presión (SHP) de Agrolite son idóneas para el cultivo. Estas lámparas, que tienen una rosca E-40, son apropiadas para el crecimiento y la floración del follaje, puesto que espectro de color contiene poco azul, pero una gran cantidad de amarillo y naranja que las hace muy brillantes. Son un tipo de luminarias de espectro corregido y larga vida. Vatios: 250 W Lúmenes: 20.000 lm Vida: 15.000 h Color: 2.100 Kº</div>",
-    "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Las bombillas de sodio de alta presión (SHP) de Agrolite son idóneas para el cultivo. Estas lámparas, que tienen una rosca E-40, son apropiadas para el crecimiento y la floración del follaje, puesto que espectro de color contiene poco azul, pero una gran cantidad de amarillo y naranja que las hace muy brillantes. Son un tipo de luminarias de espectro corregido y larga vida. Vatios: 250 W Lúmenes: 20.000 lm Vida: 15.000 h Color: 2.100 Kº</div>",
-    "Meta description": "",
-    "Image URLs": "http://siembratienda.com/18-large_default/bombilla-agrolite-250w-shp-groflo-25-uds-x-caja.jpg",
-    "Category": "Ampolletas;Iluminación;"
-  }
-]
+const products = require('../../products.json')
 
 // This function gets called at build time
 export async function getStaticPaths() {
