@@ -1,7 +1,13 @@
+import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/router'
 import Link from 'next/link'
 
 import useSWR from 'swr'
+
+import dynamic from 'next/dynamic'
+const TextEditor = dynamic(import('../../components/texteditor/TextEditor'), {
+  ssr: false
+})
 
 const fetcher = async (url) => {
   const res = await fetch(url)
@@ -18,15 +24,38 @@ const Product = ({ product }) => {
 
   const router = useRouter()
   const { id } = router.query
-  let prev = parseInt(id)-1 
-  let next = parseInt(id)+1
+  const [summary, setSummary] = useState([''])
+  const [description, setDescription] = useState([''])
+  const prev = (id == 1) ? 138 :parseInt(id) - 1
+  const next = (id == 138) ? 0 : parseInt(id) + 1
 
-  if(id == 1) prev = id
-  
+
+  if (id == 1) prev = id
+
   const { data, error } = useSWR(
     () => id && `/api/products/${id}`,
     fetcher, { refreshInterval: 2 }
   )
+
+  
+  useEffect(() => {
+    
+    if (data)
+    {
+      setSummary(data['Summary'])
+      setDescription(data['Description'])
+    }
+   
+   }, [data])
+
+  function onChangeSummary(code) {
+    setSummary(code);
+  }
+
+  function onChangeDescription(code) {
+    setDescription(code);
+  }
+  
 
   if (error) return <div>{error.message}</div>
   if (!data) return <div>Loading...</div>
@@ -36,11 +65,12 @@ const Product = ({ product }) => {
 
       <div className="container">
         <div className="row">
-          <div className="col-sm-12">
+          <div className="col-sm-12 text-right">
+            <h1>Producto: {id}</h1>{' '}
             <Link href={`/product/${prev}`}>
-              <a className="prev">Prev</a> 
+              <a className="prev">Prev</a>
             </Link>{' '}
-            |{ ' ' }
+            |{' '}
             <Link href={`/product/${next}`}>
               <a className="next">Next</a>
             </Link>
@@ -102,9 +132,17 @@ const Product = ({ product }) => {
                   </div>
                       <strong>SHORT DESCRIPTION:</strong>
                     </div>
-                    <div id="product-description-short" itemProp="description" dangerouslySetInnerHTML={{ __html: data['Summary'] }}>
-                      {/* PRODUCT SHORT DESCRIPTION dangerouslySetInnerHTML={{ __html: data['Summary']}} */}
+                    <div id="product-description-short" itemProp="description" dangerouslySetInnerHTML={{ __html: summary }}>
+                      {/* PRODUCT SHORT DESCRIPTION dangerouslySetInnerHTML={{ __html: summary}} */}
                     </div>
+                    <TextEditor
+                      mode='javascript'
+                      theme="monokai"
+                      onChange={onChangeSummary}
+                      name={`summary-${id}`}
+                      value={summary}
+                      height='200px'
+                    />
                   </div>
                 </div>
               </div>
@@ -114,9 +152,17 @@ const Product = ({ product }) => {
                   <div id="tab-content">
                     <div id="description" role="tabpanel">
                       <strong>LARGE DESCRIPTION:</strong>
-                      <div className="product-description" dangerouslySetInnerHTML={{ __html: data['Description'] }}>
-                        {/* PRODUCT LARGE DESCRIPTION dangerouslySetInnerHTML={{ __html: data['Description']}} */}
+                      <div className="product-description" dangerouslySetInnerHTML={{ __html: description }}>
+                        {/* PRODUCT LARGE DESCRIPTION dangerouslySetInnerHTML={{ __html: description}} */}
                       </div>
+                      <TextEditor
+                        mode='javascript'
+                        theme="monokai"
+                        onChange={onChangeDescription}
+                        name={`description-${id}`}
+                        value={description}
+                        height='800px'
+                      />
 
                     </div>
                   </div>
