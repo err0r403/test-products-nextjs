@@ -1,7 +1,6 @@
 {
   "name": "test-products-nextjs",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
@@ -17,5 +16,14 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "sass": "^1.30.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/err0r403/test-products-nextjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/err0r403/test-products-nextjs/issues"
+  },
+  "homepage": "https://github.com/err0r403/test-products-nextjs#readme",
+  "description": ""
 }
