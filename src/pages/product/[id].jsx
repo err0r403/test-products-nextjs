@@ -29,9 +29,6 @@ const Product = ({ product }) => {
   const prev = (id == 1) ? 138 :parseInt(id) - 1
   const next = (id == 138) ? 0 : parseInt(id) + 1
 
-
-  if (id == 1) prev = id
-
   const { data, error } = useSWR(
     () => id && `/api/products/${id}`,
     fetcher, { refreshInterval: 2 }
