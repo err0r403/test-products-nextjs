@@ -1,11 +1,14 @@
-// import brace from 'brace';
-// import 'brace/mode/javascript';
-// import 'brace/mode/c_cpp';
-// import 'brace/theme/twilight';
-// import 'brace/theme/xcode';
+import brace from 'brace';
+import 'brace/mode/html';
+import 'brace/mode/c_cpp';
+import 'brace/theme/twilight';
+import 'brace/theme/xcode';
+import 'brace/ext/searchbox';
+import 'brace/snippets/html';
+import 'brace/ext/language_tools';
 import AceEditor from 'react-ace';
 
-import "ace-builds/src-noconflict/mode-javascript";
+import "ace-builds/src-noconflict/mode-html";
 import "ace-builds/src-noconflict/theme-monokai";
 
 const TextEditor = (props) => (

@@ -133,7 +133,7 @@ const Product = ({ product }) => {
                       {/* PRODUCT SHORT DESCRIPTION dangerouslySetInnerHTML={{ __html: summary}} */}
                     </div>
                     <TextEditor
-                      mode='javascript'
+                      mode='html'
                       theme="monokai"
                       onChange={onChangeSummary}
                       name={`summary-${id}`}
@@ -153,7 +153,7 @@ const Product = ({ product }) => {
                         {/* PRODUCT LARGE DESCRIPTION dangerouslySetInnerHTML={{ __html: description}} */}
                       </div>
                       <TextEditor
-                        mode='javascript'
+                        mode='html'
                         theme="monokai"
                         onChange={onChangeDescription}
                         name={`description-${id}`}
