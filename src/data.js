@@ -1,19 +1,19 @@
 export const products = [
   {
     "Product ID": 1,
-  "Active (0/1)": 1,
-  "Name *": "Ampolleta 600w SHP Gro&Flo - Agrolite",
-  "Price tax excluded": "20252,000",
-  "Tax rules ID": 1,
-  "Reference #": "BOMBIL3",
-  "Manufacturer": "Agrolite",
-  "Quantity": 100,
-  "Summary": "<p>Las bombillas de sodio de alta presión (SHP) de Agrolite son idóneas para el cultivo.</p>",
+    "Active (0/1)": 1,
+    "Name *": "Ampolleta 600w SHP Gro&Flo - Agrolite",
+    "Price tax excluded": "20252,000",
+    "Tax rules ID": 1,
+    "Reference #": "BOMBIL3",
+    "Manufacturer": "Agrolite",
+    "Quantity": 100,
+    "Summary": "<p>Las bombillas de sodio de alta presión (SHP) de Agrolite son idóneas para el cultivo.</p>",
     "Description": "<p>Las <strong>bombillas de sodio de alta presión (SHP) de Agrolite</strong> son idóneas para el cultivo. Estas lámparas, que tienen una rosca E-40, son apropiadas para el crecimiento y la floración del follaje, puesto que espectro de color contiene poco azul, pero una gran cantidad de amarillo y naranja que las hace muy brillantes. Son un tipo de luminarias de espectro corregido y larga vida.</p><ul><li>Vatios: 600 W</li><li>Lúmenes: 20.000 lm</li><li>Vida: 15.000 h</li><li>Color: 2.100 Kº</li></ul>",
-  "Meta description": "",
-  "Image URLs": "http://siembratienda.com/20-large_default/bombilla-agrolite-600w-shp-groflo-25-uds-x-caja.jpg",
-  "Category": "Ampolletas;Iluminación;"
-   
+    "Meta description": "",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/bombilla-agrolite-600w-shp-groflo-25-uds-x-caja.jpg",
+    "Category": "Ampolletas;Iluminación;"
+    
   },
   {
     "Product ID": 2,
@@ -27,7 +27,7 @@ export const products = [
     "Summary": "<p>Las bombillas de sodio de alta presión (SHP) de Agrolite son idóneas para el cultivo.</p>",
     "Description": "<p>Las <strong>bombillas de sodio de alta presión (SHP) de Agrolite</strong> son idóneas para el cultivo. Estas lámparas, que tienen una rosca E-40, son apropiadas para el crecimiento y la floración del follaje, puesto que espectro de color contiene poco azul, pero una gran cantidad de amarillo y naranja que las hace muy brillantes. Son un tipo de luminarias de espectro corregido y larga vida.</p><ul><li>Vatios: 250 W</li><li>Lúmenes: 20.000 lm</li><li>Vida: 15.000 h</li><li>Color: 2.100 Kº</li></ul>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/18-large_default/bombilla-agrolite-250w-shp-groflo-25-uds-x-caja.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/bombilla-agrolite-250w-shp-groflo-25-uds-x-caja.jpg",
     "Category": "Ampolletas;Iluminación;"
   },
   {
@@ -42,7 +42,7 @@ export const products = [
     "Summary": "<p>Las bombillas de sodio de alta presión (SHP) de Agrolite son idóneas para el cultivo.</p>",
     "Description": "<p>Las <strong>bombillas de sodio de alta presión (SHP) de Agrolite</strong> son idóneas para el cultivo. Estas lámparas, que tienen una rosca E-40, son apropiadas para el crecimiento y la floración del follaje, puesto que espectro de color contiene poco azul, pero una gran cantidad de amarillo y naranja que las hace muy brillantes. Son un tipo de luminarias de espectro corregido y larga vida.</p><ul><li>Vatios: 150 W</li><li>Lúmenes: 20.000 lm</li><li>Vida: 15.000 h</li><li>Color: 2.100 Kº</li></ul>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/423-large_default/bombilla-agrolite-150w-shp-groflo-25-uds-x-caja.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/bombilla-agrolite-150w-shp-groflo-25-uds-x-caja.jpg",
     "Category": "Ampolletas;Iluminación;"
   },
   {
@@ -57,7 +57,7 @@ export const products = [
     "Summary": "<p>Las bombillas de sodio de alta presión (SHP) de Agrolite son idóneas para el cultivo.</p>",
     "Description": "<p>Las <strong>bombillas de sodio de alta presión (SHP) de Agrolite</strong> son idóneas para el cultivo. Estas lámparas, que tienen una rosca E-40, son apropiadas para el crecimiento y la floración del follaje, puesto que espectro de color contiene poco azul, pero una gran cantidad de amarillo y naranja que las hace muy brillantes. Son un tipo de luminarias de espectro corregido y larga vida.</p><ul><li>Vatios: 400 W</li><li>Lúmenes: 20.000 lm</li><li>Vida: 15.000 h</li><li>Color: 2.100 Kº</li></ul>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/19-large_default/bombilla-agrolite-400w-shp-groflo-25-uds-x-caja.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/bombilla-agrolite-400w-shp-groflo-25-uds-x-caja.jpg",
     "Category": "Ampolletas;Iluminación;"
   },
   {
@@ -72,7 +72,7 @@ export const products = [
     "Summary": "<p>Los fluorescentes compactos Agrolite están especialmente diseñados para dar un aporte suplementario de luz a sus plantas de interior.</p>",
     "Description": "<p>Los fluorescentes compactos Agrolite están especialmente diseñados para dar un aporte suplementario de luz a sus plantas de interior. Dando un rendimiento 70-75 lúmenes por vatio.( Azul Para planta verde o en fase de crecimiento).</p><ul><li>Vatios: 150 W</li><li>Vida: 8.000 h</li><li>Color: 6.400 Kº</li></ul>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/4-large_default/fluorescente-compacto-agrolite-150-w-crecimiento-20-x-caja.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/fluorescente-compacto-agrolite-150-w-crecimiento-20-x-caja.jpg",
     "Category": "Ampolletas;Iluminación;"
   },
   {
@@ -87,7 +87,7 @@ export const products = [
     "Summary": "<p>Los fluorescentes compactos Agrolite están especialmente diseñados para dar un aporte suplementario de luz a sus plantas de interior.</p>",
     "Description": "<p>Los fluorescentes compactos Agrolite están especialmente diseñados para dar un aporte suplementario de luz a sus plantas de interior. Dando un rendimiento 70-75 lúmenes por watio.( Azul Para planta verde o en fase de crecimiento).</p><ul><li>Vatios: 200 W</li><li>Vida: 8.000 h</li><li>Color: 6.400 Kº</li></ul>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/5-large_default/fluorescente-compacto-agrolite-200w-crecimiento-10-x-caja.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/fluorescente-compacto-agrolite-200w-crecimiento-10-x-caja.jpg",
     "Category": "Ampolletas;Iluminación;"
   },
   {
@@ -102,7 +102,7 @@ export const products = [
     "Summary": "<p>Halógeno de alta potencia con un filtro especialmente diseñado para trabajar en invernaderos y cultivos de interior durante las horas de oscuridad.</p>",
     "Description": "<p>Halógeno <strong>de alta potencia</strong> con un filtro especialmente diseñado para trabajar en invernaderos y cultivos de interior durante las horas de oscuridad, permitiendo la visión humana y respetando al máximo el ciclo vital de las plantas.</p>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/1045-large_default/bombilla-agrolite-100w-dark-night.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/bombilla-agrolite-100w-dark-night.jpg",
     "Category": "Ampolletas;Iluminación;"
   },
   {
@@ -117,7 +117,7 @@ export const products = [
     "Summary": "<p>Fertilizante desarrollado específicamente para utilizar con plantas autoflorecientes de rápido crecimiento.</p> ",
     "Description": "<p>Fertilizante desarrollado específicamente para utilizar con plantas autoflorecientes de rápido crecimiento, basado en un solo producto para los dos ciclos, combina con gran maestría la cantidad idónea para las necesidades de este tipo de plantas que deben desarrollarse en un ciclo muy corto, con B.A.C.. Fast Food tendrás todo lo que la planta necesita para tener un buen sistema radicular que sea capaz de aportar los nutrientes necesarios a la masa foliar necesaria para conseguir una buena floración.</p>",
     "Meta description": "Fertilizante desarrollado específicamente para utilizar con plantas autoflorecientes de rápido crecimiento, basado en un solo producto para los dos ciclos, combina con gran maestría la cantidad idónea para las necesidades de este tipo de plantas que deben desarrollarse en un ciclo muy corto, con B.A.C.. Fast Food tendrás todo lo que la planta necesita para tener un buen sistema radicular que sea capaz de aportar los nutrientes necesarios a la masa foliar necesaria para conseguir una buena floración.",
-    "Image URLs": "http://siembratienda.com/74-large_default/fast-food-organico-750ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/fast-food-organico-750ml.jpg",
     "Category": "B.A.C.;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -132,7 +132,7 @@ export const products = [
     "Summary": "<p>Fertilizante desarrollado específicamente para su uso con plantas autoflorecientes.</p>",
     "Description": "<p>Fertilizante desarrollado <strong>específicamente para su uso con plantas autoflorecientes</strong>, un solo producto para los dos ciclos crecimiento y floración en una sola botella, fórmula magistral para obtener un buen sistema radicular y una exuberante masa foliar, apto para tierra, coco e hidropónicos, el pH se debe ajustar de 5,8 a 6 para obtener una mejor absorción de los nutrientes.</p",
     "Meta description": "Fertilizante desarrollado específicamente para su uso con plantas autoflorecientes, un solo producto para los dos ciclos crecimiento y floración en una sola botella, fórmula magistral para obtener un buen sistema radicular y una exuberante masa foliar, apto para tierra, coco e hidropónicos, el pH se debe ajustar de 5,8 a 6 para obtener una mejor absorción de los nutrientes.",
-    "Image URLs": "http://siembratienda.com/70-large_default/fast-food-mineral-750ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/fast-food-mineral-750ml.jpg",
     "Category": "B.A.C.;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -147,7 +147,7 @@ export const products = [
     "Summary": "<p>Protege tu cultivo interior de los insectos con esta malla para intractores, de fácil montaje y limpieza.</p>",
     "Description": "<p><strong>Protege tu cultivo interior</strong> de los insectos con esta malla para intractores, de fácil montaje y limpieza. Podrás acoplarla cómodamente a tu extractor gracias a su sistema de cierre ajustable con cordón. Por los conductos de intracción pueden acceder al cultivo insectos, con las mallas anti-insectos Bug Blocker lograrás un filtro muy efectivo sin limitar la ventilación.</p>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/1041-large_default/malla-bug-bloquer-o-125-mm.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/malla-bug-bloquer-o-125-mm.jpg",
     "Category": "Cultivo;Accesorios para Cultivo;Ventilación y Extracción;Control de Clima;"
   },
   {
@@ -162,7 +162,7 @@ export const products = [
     "Summary": "<p>Plastic flange 127mm para 1500-2600 9000 CAN-FILTERS</p>",
     "Description": "<p>Plastic flange 127mm para 1500-2600 9000 CAN-FILTERS</p>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/251-large_default/plastic-flange-127mm-para-15002600-9000-canfilters.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/plastic-flange-127mm-para-15002600-9000-canfilters.jpg",
     "Category": "Filtros de Carbono;Control de Olor;Herramientas y Accesorios;Varios;"
   },
   {
@@ -177,7 +177,7 @@ export const products = [
     "Summary": "<p>Este abono 100% orgánico provee los nutrientes esenciales que tu planta necesita en su fase de floración.Este abono 100% orgánico provee los nutrientes esenciales que tu planta necesita en su fase de floración.</p>",
     "Description": "<p>Este abono <strong>100% orgánico</strong> provee los nutrientes esenciales que tu planta necesita en su fase de   floración.</p><p>A base de extracto de lúpulo y otras materias primas de primera calidad, Canna Bio   Flores mejora la calidad de tus cogollos, aumentando su tamaño y producción de resina con muy poco esfuerzo,   obteniendo resultados increíbles ya sea en cultivos de exterior o interior.</p><p>El material fermentado de este fertilizante también contiene sustancias tales como la betaína y gran cantidad de aminoácidos   que proporcionan a la planta una fuerza extra para su floración.</p><h4>Modo de uso</h4><ul><li>Agitar la botella muy bien antes de usar.</li><li>Disolver 40 ml del concentrado en 10 litros de agua (1:250).</li>   <li>Según el tamaño de la maceta y de la planta: Añadir 1 a 3 veces por semana al agua de riego.</li>   <li>La solución diluida no necesita ser acidulada.</li>   <li>Gastar la solución diluida en un plazo de 24 horas.</li>   <li>Suministrar a través de sistemas de goteo: seguidamente, dejar correr agua por los conductos para evitar substrucción.</li>  </ul>      <h4>Detalle del producto</h4>   <ul> <li>Referencia: 51510</li>   <li>Fabricante: Canna</li>   <li>Tipo: fertilizante de floración</li>   <li>Formato: 1 bidón de 500mL</li>   <li>Composición NPK (%): 2/2/5</li>   <li>Dosis recomendada: 4ml por 1L de agua</li>   <li>Alto: 22cm</li>   <li>Ancho: 12cm</li>   <li>Profundidad:5cm</li>   <li>Peso: 0,6kg</li>  </ul>",
     "Meta description": "Este abono 100% orgánico provee los nutrientes esenciales que tu planta necesita en su fase de floración....",
-    "Image URLs": "https://notorious.cl/7110-large_default/biocanna-flores-05-l.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/biocanna-flores-05-l.jpg",
     "Category": "Canna;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -192,7 +192,7 @@ export const products = [
     "Summary": "Terra Vega de Canna es un fertilizante completo para la fase de crecimiento que aporta los nutrientes imprescindibles para que tus plantas crezcan sanas y fuertes en sustrato de tierra.Terra Vega de Canna es un fertilizante completo para la fase de crecimiento que aporta los nutrientes imprescindibles para que tus plantas crezcan sanas y fuertes en sustrato de tierra....",
     "Description": "<p>Terra Vega de Canna es <strong>abono base de crecimiento</strong> que aporta   nutrientes imprescindibles para que tus plantas crezcan sanas y fuertes en sustratos   orgánicos con nutrientes como la tierra. Tus plantas experimentarán un exuberante   desarrollo vegetativo que prepara nuestro cultivo para una floración muy productiva.  </p>     <p>Los ingredientes de primera calidad de origen mineral que lo componen son   completamente solubles en agua y 100% asimilables por tus plantas. Garantiza un correcto desarrollo   de tus plantas, sin carencias durante la fase vegetativa.  </p>    <p>Terra Vega de Canna puede utilizarse en cualquier sistema de riego por goteo, sin   miedo a obstrucciones en las tuberías.  </p>    <p>Se suele combinar con otros aditivos que estimulan el crecimiento de las raíces,   como Rhizotonic de Canna y productos que estimulan la vida del suelo, como Canna   Boost Accelerator, o reconvierten la materia orgánica presente en el sustrato,   como Cannazym, para maximizar el rendimiento de tus cosechas.  </p>    <p>Conseguirás enormes ejemplares de un verde radiante con muy poco esfuerzo. Consulta   la estudiada tabla de cultivo que proporciona el fabricante para obtener resultados   profesionales cuando hagas la cosecha.  </p>    <h4>Dosis y modo de empleo de Terra Vega de Canna:</h4>    <ul>   <li>Añadir a partir de que la planta tenga 3 pares de hojas.</li>   <li>Añadiremos de 4 a 5ml por litro de agua de tu solución de nutrientes.</li>   <li>Suminístralo a tus plantas alternando con riegos sólo con agua, sin fertilizantes, durante el proceso de   crecimiento de nuestras plantas.</li>  </ul>    <p>Se puede usar en combinación con otros aditivos como Rhizotonic de canna.</p>  <h4>Composición de Terra Vega de Canna:</h4>  <p>NPK 3-1-3</p>    <ul>   <li>3% Nitrógeno.</li>   <li>1% Fósforo.</li>   <li>3% Potasio.</li>   <li>1% Magnesio.</li>   <li>0,7% Azufre.</li>   <li>0,005% Boro.</li>   <li>0,0006% Cobre.</li>   <li>0,014% Hierro.</li>   <li>0,01% Manganeso.</li>   <li>0,0013% Molibdeno.</li>   <li>0,005% Zinc.</li>  </ul>",
     "Meta description": "Terra Vega de Canna es un fertilizante completo para la fase de crecimiento que aporta los nutrientes imprescindibles para que tus plantas crezcan sana...",
-    "Image URLs": "https://notorious.cl/9511-large_default/canna-terra-vega-5lt.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/canna-terra-vega-5lt.jpg",
     "Category": "Canna;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -206,7 +206,7 @@ export const products = [
     "Quantity": 100,
     "Summary": "<p>Terra Vega de Canna es un fertilizante base profesional indispensable para el periodo vegetativo de las plantas.</p>",
     "Description": "<p>Terra Vega de Canna es un <strong>fertilizante base profesional</strong> indispensable para el periodo vegetativo de las plantas, sus compuestos nitrogenados de rápida absorción le entregan los nutrientes necesarios para el desarrollo radicular y el crecimiento de las plantas.</p>",
-    "Image URLs": "https://astrogrowshop.cl/1175-large_default/canna-terra-flores-500ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/canna-terra-flores-500ml.jpg",
     "Category": "Canna;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -221,7 +221,7 @@ export const products = [
     "Summary": "<p>Terra Vega de Canna es un fertilizante base profesional indispensable para el periodo vegetativo de las plantas.</p>",
     "Description": "<p>Terra Vega de Canna es un <strong>fertilizante base profesional</strong> indispensable para el periodo vegetativo de las plantas, sus compuestos nitrogenados de rápida absorción le entregan los nutrientes necesarios para el desarrollo radicular y el crecimiento de las plantas.</p>",
     "Meta description": "Terra Vega es un fertilizante profesional indispensable para el periodo vegetativo de las plantas, contiene compuestos nitrogenados de rápida absorción.",
-    "Image URLs": "https://astrogrowshop.cl/5572-medium_default/canna-terra-vega-500ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/canna-terra-vega-500ml.jpg",
     "Category": "Canna;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -236,7 +236,7 @@ export const products = [
     "Summary": "<p>Rhizotonic de Canna es un enraizante 100% vegetal para fortalecer las raíces de las plantas.</p>",
     "Description": "<p>Rhizotonic de Canna <strong>es un enraizante 100% vegetal</strong> para fortalecer las raíces de las plantas, incrementa el crecimiento radicular y aumenta la resistencia frente a enfermedades.</p>",
     "Meta description": "Rhizotonic es un estimulante radicular 100% vegetal para fortalecer las raíces de las plantas, incrementa su desarrollo y las protege de enfermedades.",
-    "Image URLs": "https://astrogrowshop.cl/6104-large_default/canna-rhizotonic-1-lt.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/canna-rhizotonic-1-lt.jpg",
     "Category": "Canna;Marca;Enraizantes;Fertilizantes y Abonos;"
   },
   {
@@ -251,7 +251,7 @@ export const products = [
     "Summary": "<p>Terra Flores de Canna es un fertilizante profesional indispensable para la etapa de floración.</p>",
     "Description": "<p>Terra Flores de Canna <strong>es un fertilizante profesional</strong> indispensable para la etapa de floración, contiene nutrientes que potencian la producción de flores, destaca el sabor característico de cada cepa y le aporta los nutrientes esenciales.</p>",
     "Meta description": "Terra Flores es un fertilizante profesional para la etapa de floración, contiene nutrientes que potencian la producción de flores y destacan el sabor.",
-    "Image URLs": "https://astrogrowshop.cl/9195-large_default/friendly-url-autogeneration-failed.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/friendly-url-autogeneration-failed.jpg",
     "Category": "Canna;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -266,7 +266,7 @@ export const products = [
     "Summary": "<p>PK 13/14 de Canna es un aditivo de alta concentración de macronutrientes indispensables para la etapa de floración.</p>",
     "Description": "<p>PK 13/14 de Canna <strong>es un aditivo de alta concentración de macronutrientes</strong> indispensables para la etapa de floración como el Fósforo (P) y el Potasio (K) de alta calidad, que estimularán el transporte de alimentos y la producción de flores y azúcares.</p>",
     "Meta description": "PK 13/14 es un aditivo de alta concentración de Fósforo (P) y Potasio (K) que le aporta los nutrientes indispensables para la etapa de floración.",
-    "Image URLs": "https://astrogrowshop.cl/9199-large_default/canna-pk-1314-5-lt.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/canna-pk-1314-5-lt.jpg",
     "Category": "Canna;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -281,7 +281,7 @@ export const products = [
     "Summary": "<p>CannaBoost Accelerator de Canna es un aditivo mineral que potencia la floración estimulando el desarrollo de nuevas flores.</p>",
     "Description": "<p>CannaBoost Accelerator de Canna <strong>es un aditivo mineral que potencia la floración</strong> estimulando el desarrollo de nuevas flores, aumentando el rendimiento y la calidad de tus cosechas, resaltando los sabores naturales de la planta.</p>",
     "Meta description": "CannaBoost es un aditivo que estimula la producción de flores, entregando la energía necesaria para su desarrollo, resaltando sus aromas y sabores",
-    "Image URLs": "https://astrogrowshop.cl/983-large_default/canna-boost-1-lt.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/canna-boost-1-lt.jpg",
     "Category": "Canna;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -296,7 +296,7 @@ export const products = [
     "Summary": "<p>Cannazym de Canna es un aditivo mineral de enzimas de alta calidad.</p>",
     "Description": "<p>Cannazym de Canna <strong>es un aditivo mineral de enzimas de alta calidad</strong> que transforma las raíces muertas en azúcares y minerales. Previene la descomposición y la formación de hongos y bacterias dañinas para las plantas.</p>",
     "Meta description": "CannaZym es un aditivo enzimático de alta calidad que transforma las raíces muertas en azúcares y minerales, previene la formación de hongos y bacterias.",
-    "Image URLs": "https://astrogrowshop.cl/7193-large_default/canna-cannazym-1-lt.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/canna-cannazym-1-lt.jpg",
     "Category": "Canna;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -311,7 +311,7 @@ export const products = [
     "Summary": "<p>Bio Vega de Canna es un fertilizante orgánico.</p>",
     "Description": "<p>Bio Vega de Canna <strong>es un fertilizante orgánico con nutrientes esenciales</strong> para estimular el crecimiento en el periodo vegetativo de las plantas. Su fórmula rica en nitrógeno de betaína se libera lentamente de acuerdo a las necesidades de la planta optimizando la absorción de nutrientes.</p>",
     "Meta description": "Bio Vega es un fertilizante para el periodo vegetativo con nutrientes orgánicos esenciales para estimular el crecimiento de las plantas.",
-    "Image URLs": "https://astrogrowshop.cl/5168-medium_default/canna-bio-vega-500-ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/canna-bio-vega-500-ml.jpg",
     "Category": "Canna;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -326,7 +326,7 @@ export const products = [
     "Summary": "<p>PK 13/14 de Canna es un aditivo de alta concentración de macronutrientes.</p>",
     "Description": "<p>PK 13/14 de Canna <strong>es un aditivo de alta concentración de macronutrientes</strong> indispensables para la etapa de floración como el Fósforo (P) y el Potasio (K) de alta calidad, que estimularán el transporte de alimentos y la producción de flores y azúcares.</p>",
     "Meta description": "PK 13/14 es un aditivo de alta concentración de Fósforo (P) y Potasio (K) que le aporta los nutrientes indispensables para la etapa de floración.",
-    "Image URLs": "https://astrogrowshop.cl/984-large_default/canna-pk-13-14-1-lt.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/canna-pk-13-14-1-lt.jpg",
     "Category": "Canna;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -341,7 +341,7 @@ export const products = [
     "Summary": "<p>Bio Rhizotonic de Canna es un enraizante orgánico con vitaminas.</p>",
     "Description": "<p>Bio Rhizotonic de Canna <strong>es un enraizante orgánico</strong> con vitaminas que estimulan el desarrollo de pelos radiculares para una mayor absorción de nutrientes y mayor resistencia de la planta.</p>",
     "Meta description": "Bio Rhizotonic de Canna es un enraizante orgánico con vitaminas que estimulan el desarrollo de pelos radiculares para una mayor absorción de nutrientes y mayor resistencia de la planta.",
-    "Image URLs": "https://astrogrowshop.cl/7766-large_default/canna-bio-rhizotonic-250ml-estimulante-radicular.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/canna-bio-rhizotonic-250ml-estimulante-radicular.jpg",
     "Category": "Canna;Marca;Enraizantes;Fertilizantes y Abonos;"
   },
   {
@@ -356,7 +356,7 @@ export const products = [
     "Summary": "<p>Está especialmente diseñado para obtener el máximo porte de las plantas de cannabis en fase de crecimiento.</p>",
     "Description": "<p>Está especialmente diseñado para <strong>obtener el máximo porte de las plantas de cannabis</strong> en fase de crecimiento, consolidando un perfecto sistema radicular y adecuando el cultivo hacia la idónea floración y fructificación.</div>",
     "Meta description": "Está especialmente diseñado para obtener el máximo porte de las plantas de cannabis en fase de crecimiento, consolidando un perfecto sistema radicular y adecuando el cultivo hacia la idónea floración y fructificación.",
-    "Image URLs": "http://siembratienda.com/118-large_default/delta-8-crecimiento-500-ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/delta-8-crecimiento-500-ml.jpg",
     "Category": "Cannabiogen;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -371,7 +371,7 @@ export const products = [
     "Summary": "<p>Es un revolucionario producto para mejorar la cosecha en los cultivos de marihuana.</p>",
     "Description": "<p>Es un revolucionario producto para <strong>mejorar la cosecha en los cultivos de marihuana</strong>. Estimula la floración temprana y aporta nutrientes y otros compuestos para dar volumen, peso y aroma. Se utiliza cada 10 días desde el principio de la Floración hasta que las flores empiezan a engordar exageradamente.</div>",
     "Meta description": "Es un revolucionario producto para mejorar la cosecha en los cultivos de marihuana. Estimula la floración temprana y aporta nutrientes y otros compuestos para dar volumen, peso y aroma. Se utiliza cada 10 días desde el principio de la Floración hasta que las flores empiezan a engordar exageradamente.",
-    "Image URLs": "http://siembratienda.com/119-large_default/delta9-abono-floracion-150-ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/delta9-abono-floracion-150-ml.jpg",
     "Category": "Cannabiogen;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -386,7 +386,7 @@ export const products = [
     "Summary": "<p>Es un revolucionario producto para mejorar la cosecha en los cultivos de marihuana.</p>",
     "Description": "<p>Es un revolucionario producto para <strong>mejorar la cosecha en los cultivos de marihuana</strong>. Estimula la floración temprana y aporta nutrientes y otros compuestos para dar volumen peso y aroma. Se utiliza cada 10 días desde el principio de la Floración hasta que las flores empiezan a engordar exageradamente.</div>",
     "Meta description": "Es un revolucionario producto para mejorar la cosecha en los cultivos de marihuana. Estimula la floración temprana y aporta nutrientes y otros compuestos para dar volumen peso y aroma. Se utiliza cada 10 días desde el principio de la Floración hasta que las flores empiezan a engordar exageradamente.",
-    "Image URLs": "http://siembratienda.com/120-large_default/delta9-abono-floracion-500-ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/delta9-abono-floracion-500-ml.jpg",
     "Category": "Cannabiogen;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -401,7 +401,7 @@ export const products = [
     "Summary": "<p>Es un fertilizante natural con el que conseguiremos una buena formación de las flores.</p>",
     "Description": "<p>Es un fertilizante natural con el que conseguiremos <strong>una buena formación de las flores y un engorde total de nuestros cogollos</strong> los cuales se verán beneficiados por micro-elementos que mejoran los procesos de la planta. Al tener una planta saludable que se alimenta bien y buenos nutrientes disponibles en la tierra, conseguiremos mejorar tanto la producción como la calidad final de la cosecha.</div>",
     "Meta description": "Es un fertilizante natural con el que conseguiremos una buena formación de las flores y un engorde total de nuestros cogollos los cuales se verán beneficiados por micro-elementos que mejoran los procesos de la planta. Al tener una planta saludable que se alimenta bien y buenos nutrientes disponibles en la tierra, conseguiremos mejorar tanto la producción como la calidad final de la cosecha.",
-    "Image URLs": "http://siembratienda.com/117-large_default/delta-10-floracion-500ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/delta-10-floracion-500ml.jpg",
     "Category": "Cannabiogen;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -416,7 +416,7 @@ export const products = [
     "Summary": "<p>humidificador HUMI6N, hecho de plástico reciclable. Puede funcionar ininterrumpidamente durante 16 horas.</p>",
     "Description": "<p>El humidificador HUMI6N está hecho de plástico reciclable. <strong>Puede funcionar ininterrumpidamente durante 16 horas.</strong> Sus principales características son que produce una suave niebla refrescante, permite ahorrar energía, es silencioso,      tiene apagado automático y una larga vida útil.</p>    <p>Por medio de la vibración de ondas ultrasónicas, el humidificador divide las gotas de agua en partículas de 1 a 5 µm.      Después las partículas son difundidas por medio de un ventilador.</p>    <p>Durante este proceso, se producen y difunden una gran cantidad de aniones. De este modo el HUMI6N      humidifica y refresca el aire.</p>        <h4>Descripción</h4>    <ul>      <li> 220-240V ~ 50Hz</li>      <li> Potencia: 25W</li>      <li> Tanque de agua: 6 Litros</li>      <li> Máximo: 350 ml / h</li>    </ul>",
     "Meta description": "DescriptionVoltaje: 220-240V ~ 50HzPotencia: 25WTanque de agua: 6 LitrosM&aacute;ximo: 350 ml / hEl humidificador HUMI6N est&aacute; hecho de pl&aacute;stico reciclable. Puede funcionar ininterrumpidamente durante 16 horas. Sus principales caracter&iacute;sticas son que produce una suave niebla refrescante, permite ahorrar energ&iacute;a, es silencioso, tiene apagado autom&aacute;tico y una larga vida &uacute;til.Por medio de la vibraci&oacute;n de ondas ultras&oacute;nicas, el humidificador divide l...",
-    "Image URLs": "http://siembratienda.com/2220-large_default/humidificador-6-l-naranja-ce-6uc.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/humidificador-6-l-naranja-ce-6uc.jpg",
     "Category": "Cornwall Electronics;Control de Clima;Temperatura y Humedad;"
   },
   {
@@ -431,7 +431,7 @@ export const products = [
     "Summary": "<p>El humidificador HUMI9 está hecho de plástico reciclable.  Puede funcionar ininterrumpidamente durante 24 horas.",
     "Description": "<p>El humidificador HUMI9 <strong>está hecho de plástico reciclable.  Puede funcionar ininterrumpidamente durante 24 horas.</strong> Sus principales características son que produce una suave niebla  refrescante, permite ahorrar energía, es silencioso, tiene apagado automático y una larga vida útil.</p> <p>Por medio de la vibración de ondas ultrasónicas, el humidificador divide las gotas de agua en partículas de 1 a 5 µm.  Después  las partículas son difundidas por medio de un ventilador. Durante este proceso, se producen y difunden una gran  cantidad de aniones. De este modo el HUMI9 humidifica y refresca el aire.</p>  <h4>ESPECIFICACIONES:</h4> <ul>  <li>Voltaje: 220-240V /~ 50Hz</li>  <li>Potencia: 30W</li>  <li>Tanque de agua: 9 Litros</li>  <li>Máximo: 350 ml / h</li> </ul>",
     "Meta description": "DescriptionESPECIFICACIONES:Voltaje: 220-240V ~ 50HzPotencia: 30WTanque de agua: 9 LitrosM&aacute;ximo: 350 ml / hEl humidificador HUMI9 est&aacute; hecho de pl&aacute;stico reciclable. Puede funcionar ininterrumpidamente durante 24 horas. Sus principales caracter&iacute;sticas son que produce una suave niebla refrescante, permite ahorrar energ&iacute;a, es silencioso, tiene apagado autom&aacute;tico y una larga vida &uacute;til.Por medio de la vibraci&oacute;n de ondas ultras&oacute;nicas, el humidi...",
-    "Image URLs": "http://siembratienda.com/1783-large_default/humidificador-9l-cornwall-electronics-4udscaja.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/humidificador-9l-cornwall-electronics-4udscaja.jpg",
     "Category": "Cornwall Electronics;Control de Clima;Temperatura y Humedad;"
   },
   {
@@ -446,7 +446,7 @@ export const products = [
     "Summary": "<p>Permite controlar un extractor en función del grado de humedad relativa seleccionado.</p>",
     "Description": "<p><strong>Permite controlar un extractor en función del grado de humedad relativa seleccionado</strong>. Dispone de dos funciones, modo control humidificador y modo control deshumidificador, y cualquiera de los dos dispositivos puede ser conectado al controlador. Es digital y visualiza la lectura de la humedad de la estancia, pudiendo ejercer un control eficaz del humidificador/deshumidificador que esté conectado en ese momento.</p>",
     "Meta description": "Permite controlar un extractor en función del grado de humedad relativa seleccionado. Dispone de dos funciones, modo control humidificador y modo control deshumidificador, y cualquiera de los dos dispositivos puede ser conectado al controlador. Es digital y visualiza la lectura de la humedad de la estancia, pudiendo ejercer un control eficaz del humidificador/deshumidificador que esté conectado en ese momento.",
-    "Image URLs": "http://siembratienda.com/812-large_default/controlador-de-humedad-dual-pp-cornwall.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/controlador-de-humedad-dual-pp-cornwall.jpg",
     "Category": "Cornwall Electronics;Control de Clima;Temperatura y Humedad;"
   },
   {
@@ -461,7 +461,7 @@ export const products = [
     "Summary": "<p>Extractor TT 150 Smart Dual (405-520 m3/h) de Cornwall Electronics con botón de doble velocidad y cable de corriente incorporado.</p>",
     "Description": "<p>Extractor TT 150 Smart Dual (405-520 m3/h) de Cornwall Electronics <strong>con botón de doble velocidad y cable de corriente incorporado</strong>. Está fabricado con plástico ABS muy resistente y de máxima calidad. Extractor ideal para extracción de aire.</div>",
     "Meta description": "Extractor TT 150 Smart Dual (405-520 m3/h) de Cornwall Electronics con bot&oacute;n de doble velocidad y cable de corriente incorporado. Est&aacute; fabricado con pl&aacute;stico ABS muy resistente y de m&aacute;xima calidad. Extractor ideal para extracci&oacute;n de aire.",
-    "Image URLs": "http://siembratienda.com/2394-large_default/extractor-tt-150-smart-dual-405520m3h-cornwall.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/extractor-tt-150-smart-dual-405520m3h-cornwall.jpg",
     "Category": "Cornwall Electronics;Control de Clima;Ventilación y Extracción;"
   },
   {
@@ -476,7 +476,7 @@ export const products = [
     "Summary": "<p>Extractor tubular vk100 mm ideal para el desarraigo del cultivo.</p>",
     "Description": "<p><strong>Liberarte de los olores molestos para los que estén a tu alrededor ya no será un problema,</strong> para ello existe el extractor tubular vk100 mm ideal para el desarraigo del cultivo. Este artículo está diseñado especialmente para succionar el humo por el centro del e incitándolo a su salida determinada sin expulsar olores desagradables a tu alrededor.</div>",
     "Meta description": "Liberarte de los olores molestos para los que estén a tu alrededor ya no será un problema, para ello existe el extractor tubular vk100 mm ideal para el desarraigo del cultivo. Este artículo está diseñado especialmente para succionar el humo por el centro del e incitándolo a su salida determinada sin expulsar olores desagradables a tu alrededor.",
-    "Image URLs": "http://siembratienda.com/1444-large_default/extractor-centrifugo-vk-plastico-o100250m3hcornwall.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/extractor-centrifugo-vk-plastico-o100250m3hcornwall.jpg",
     "Category": "Cornwall Electronics;Control de Clima;Ventilación y Extracción;"
   },
   {
@@ -491,7 +491,7 @@ export const products = [
     "Summary": "<p>Extractor tubular vk125 mm ideal para el desarraigo del cultivo.</p>",
     "Description": "<p><strong>Liberarte de los olores molestos para los que estén a tu alrededor ya no será un problema,</strong> para ello existe el extractor tubular vk125 mm ideal para el desarraigo del cultivo. Este artículo está diseñado especialmente para succionar el humo por el centro del e incitándolo a su salida determinada sin expulsar olores desagradables a tu alrededor.</div>",
     "Meta description": "Liberarte de los olores molestos para los que estén a tu alrededor ya no será un problema, para ello existe el extractor tubular vk125 mm ideal para el desarraigo del cultivo. Este artículo está diseñado especialmente para succionar el humo por el centro del e incitándolo a su salida determinada sin expulsar olores desagradables a tu alrededor.",
-    "Image URLs": "http://siembratienda.com/1445-large_default/extractor-centrifugo-wk-plastico-o125430m3h-cornwall.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/extractor-centrifugo-wk-plastico-o125430m3h-cornwall.jpg",
     "Category": "Cornwall Electronics;Control de Clima;Ventilación y Extracción;"
   },
   {
@@ -506,7 +506,7 @@ export const products = [
     "Summary": "<p>Ventilador Multifan Turbo 35W de bajo gasto Cornwall Electronics ayuda a la transformación del aire en los cultivo de interiores.</p>",
     "Description": "<P>Ventilador Multifan Turbo 35W de bajo gasto Cornwall Electronics <strong>ayuda a la transformación del aire en los cultivo de interiores,</strong> suministrando una temperatura adecuada para nuestros cultivos de marihuana, lo cual hará que crezcan más fuertes. Características: Las aspas que posee son sumamente resistentes y potentes, están hechas con materiales de gama alta. Cuenta con 3 velocidades. Un Control Manual. Posee una Sobremesa, la cual nos permite tenerlo tanto en el suelo como ser ubicado en un lugar alto, como la pared. Posee Inclinación regulable, lo cual hace que sea muy adaptable a cualquier entorno. Sus Medidas son de entre 28 x 27,5 x 12,5 cm.</P>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/359-large_default/ventilador-multifan-35w-20cm-cornwall-electronics.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/ventilador-multifan-35w-20cm-cornwall-electronics.jpg",
     "Category": "Cornwall Electronics;Control de Clima;Ventilación y Extracción;"
   },
   {
@@ -521,7 +521,7 @@ export const products = [
     "Summary": "<p>Ventilador fijo, regulación manual, con soporte y pinza.</p>",
     "Description": "<p>Ventilador fijo, <strong>regulación manual</strong>, con soporte y pinza.</p>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/358-large_default/ventilador-pinza-15w-15-cm-cornwall-electronics.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/ventilador-pinza-15w-15-cm-cornwall-electronics.jpg",
     "Category": "Cornwall Electronics;Control de Clima;Ventilación y Extracción;"
   },
   {
@@ -536,7 +536,7 @@ export const products = [
     "Summary": "<p>Temporizador económico y fiable, muy fácil de usar para cualquier cultivador.</p>",
     "Description": "<p><strong>Controla el fotoperiodo de tus plantas o tu sistema de ventilación</strong> con este temporizador económico y fiable, muy fácil de usar para cualquier cultivador. Programa 24 horas, Programa 48 ON/OF, Precisión en su funcionamiento. Fracción mínima 15 min.</p>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/384-large_default/temporizador-analogico-cornwall.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/temporizador-analogico-cornwall.jpg",
     "Category": "Cornwall Electronics;Temporizadores;Medición y Control;Herramientas y Accesorios;Medidores;"
   },
   {
@@ -551,7 +551,7 @@ export const products = [
     "Summary": "Si eres un experto en cultivos indoor, y tienes ganas de llevar tu cultivo al siguiente nivel y demostrar todos tus conocimientos, Cropbox tiene la carpa de tamaño grande con las medidas 120X120X200 CMS, para que saques el mayor provecho a tu cultivo.",
     "Description": "",
     "Meta description": "Si eres un experto en cultivos indoor, y tienes ganas de llevar tu cultivo al siguiente nivel y demostrar todos tus conocimientos, Cropbox tiene la carpa de tamaño grande con las medidas 120X120X200 CMS, para que saques el mayor provecho a tu cultivo.",
-    "Image URLs": "https://astrogrowshop.cl/11062-medium_default/carpa-cropbox-120x120x200.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/carpa-cropbox-120x120x200.jpg",
     "Category": "Cultivo;Carpas;Kits;Kit 120;"
   },
   {
@@ -566,7 +566,7 @@ export const products = [
     "Summary": "",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "https://astrogrowshop.cl/11755-medium_default/galaxy-grinder-mars-4-partes-55mm.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/galaxy-grinder-mars-4-partes-55mm.jpg",
     "Category": "Galaxy;Moledores;"
   },
   {
@@ -581,7 +581,7 @@ export const products = [
     "Summary": "Los balastros digitales regulables LUMAXPRO son la solución de iluminación más avanzada para horticultura. Pequeño, compacto y completamente en silencio, estos balastros electrónicos pueden proporcionar un tensión de salida controlada precisa a la lámpara asegurando que se logren niveles óptimos de PAR....",
     "Description": "<div class=\"h5 text-uppercase index_title\"><span>Descripción</span></div><div class=\"product-description\"><p  ><span  >Los balastros digitales regulables LUMAXPRO son la solución de iluminación más avanzada para horticultura. Pequeño, compacto y completamente en silencio, estos balastros electrónicos pueden proporcionar un tensión de salida controlada precisa a la lámpara asegurando que se logren niveles óptimos de PAR.</span></p> <p  ><span  >Potencia: dimiable (250w-600w)</span></p> <p  ><span  >Dimensiones: 28 cm x 11 cm x 7,5 cm</span></p> <p  ><span  >Peso: 2 kg</span></p></div>",
     "Meta description": "Los balastros digitales regulables LUMAXPRO son la solución de iluminación más avanzada para horticultura. Pequeño, compacto y completamente en silenci...",
-    "Image URLs": "https://notorious.cl/9722-large_default/garden-highpro-lumaxpro-balastro-digital-600w.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/garden-highpro-lumaxpro-balastro-digital-600w.jpg",
     "Category": "Iluminación;Balastros;"
   },
   {
@@ -596,7 +596,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">HUMIDIFICADOR ESTÁNDAR<br>Panel digital de control LED<br>Doble boquilla de rotación 360º<br>4 litros de capacidad</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">HUMIDIFICADOR ESTÁNDAR<br>Panel digital de control LED<br>Doble boquilla de rotación 360º<br>4 litros de capacidad<br></div>",
     "Meta description": "HUMIDIFICADOR EST&Aacute;NDARPanel digital de control LEDDoble boquilla de rotaci&oacute;n 360&ordm;4 litros de capacidad",
-    "Image URLs": "http://siembratienda.com/2289-large_default/humipro-4l-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/humipro-4l-garden-highpro.jpg",
     "Category": "Control de Clima;Temperatura y Humedad;"
   },
   {
@@ -611,7 +611,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">PROFAN TT EXTRACTOR FAN<br>Super Power<br>100% copper engine / more efficient</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">PROFAN TT EXTRACTOR FAN<br>Super Power<br>100% copper engine / more efficient</div>",
     "Meta description": "PROFAN TT EXTRACTOR FANSuper Power100% copper engine / more efficient",
-    "Image URLs": "http://siembratienda.com/2343-large_default/profan-tt-extractor-fan-125-tt-125mm-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/profan-tt-extractor-fan-125-tt-125mm-garden-highpro.jpg",
     "Category": "Control de Clima;Ventilación y Extracción;"
   },
   {
@@ -626,7 +626,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">VENTILADOR PROFESIONAL DE CLIP OSCILANTE<br>Motor de CA de 20 W<br>2 velocidades + parada<br>Motor de cobre 100% para una vida útil más larga<br>Clip fuerte para mayor estabilidad</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">VENTILADOR PROFESIONAL DE CLIP OSCILANTE<br>Motor de CA de 20 W<br>2 velocidades + parada<br>Motor de cobre 100% para una vida útil más larga<br>Clip fuerte para mayor estabilidad</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2333-large_default/clip-fan-25cm-20w-eu-oscillating-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/clip-fan-25cm-20w-eu-oscillating-garden-highpro.jpg",
     "Category": "Control de Clima;Ventilación y Extracción;"
   },
   {
@@ -641,7 +641,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">LAMPARAS DE SODIO PROFESIONAL<br>Espectro optimizado para la fotosíntesis<br>Funciona con balasto electromagnético y<br>balastros digitales</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">LAMPARAS DE SODIO PROFESIONAL<br>Espectro optimizado para la fotosíntesis<br>Funciona con balasto electromagnético y<br>balastros digitales</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2325-large_default/hps-mixed-bulbs-250w-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/hps-mixed-bulbs-250w-garden-highpro.jpg",
     "Category": "Ampolletas;Iluminación;"
   },
   {
@@ -656,7 +656,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">LAMPARAS DE SODIO PROFESIONAL<br>Espectro optimizado para la fotosíntesis<br>Funciona con balasto electromagnético y<br>balastros digitales</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">LAMPARAS DE SODIO PROFESIONAL<br>Espectro optimizado para la fotosíntesis<br>Funciona con balasto electromagnético y<br>balastros digitales</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2327-large_default/hps-mixed-bulbs-400w-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/hps-mixed-bulbs-400w-garden-highpro.jpg",
     "Category": "Ampolletas;Iluminación;"
   },
   {
@@ -671,7 +671,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">REFLECTOR DE COUBTUBO PROTUBE<br>Aluminio marcado con tecnología Pearl Adaptador de bombilla de<br>aluminio convencional Prime<br>E-40<br>Caja de conexión de cable segura<br>Adaptada para bombillas HPS de 400W - 600W</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">REFLECTOR DE COUBTUBO PROTUBE<br>Aluminio marcado con tecnología Pearl Adaptador de bombilla de<br>aluminio convencional Prime<br>E-40<br>Caja de conexión de cable segura<br>Adaptada para bombillas HPS de 400W - 600W</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2309-large_default/protube-125-l-no-cable-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/protube-125-l-no-cable-garden-highpro.jpg",
     "Category": "Reflectores;Iluminación;"
   },
   {
@@ -686,7 +686,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">Description<br>Reflector de diseño tubular que ofrece la máxima reflexión, aprovechando toda la luz ofrecida por la bombilla, gracias a unas alas de aluminio estucado.<br>El cristal que cierra el cilindro es térmico, grueso y muy resistente, y la caja de conexiones es completamente estanca, protegiendo las conexiones ante salpicaduras y humedades.<br>Reduce la temperatura de tu cultivo en hasta 4ºC. Incluye cable Plug and Play.</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Description<br>Reflector de diseño tubular que ofrece la máxima reflexión, aprovechando toda la luz ofrecida por la bombilla, gracias a unas alas de aluminio estucado.<br>El cristal que cierra el cilindro es térmico, grueso y muy resistente, y la caja de conexiones es completamente estanca, protegiendo las conexiones ante salpicaduras y humedades.<br>Reduce la temperatura de tu cultivo en hasta 4ºC. Incluye cable Plug and Play.</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2311-large_default/protube-150l-no-cable-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/protube-150l-no-cable-garden-highpro.jpg",
     "Category": "Reflectores;Iluminación;"
   },
   {
@@ -701,7 +701,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">REFLECTOR DE COUBTUBO PROTUBE<br>Aluminio marcado con tecnología Pearl Adaptador de bombilla de<br>aluminio convencional Prime<br>E-40<br>Caja de conexión de cable segura<br>Adaptada para bombillas HPS de 400W - 600W</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">REFLECTOR DE COUBTUBO PROTUBE<br>Aluminio marcado con tecnología Pearl Adaptador de bombilla de<br>aluminio convencional Prime<br>E-40<br>Caja de conexión de cable segura<br>Adaptada para bombillas HPS de 400W - 600W</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2307-large_default/protube-125-m-no-cable-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/protube-125-m-no-cable-garden-highpro.jpg",
     "Category": "Reflectores;Iluminación;"
   },
   {
@@ -716,7 +716,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">PROCESO COMPLEMENTO DE RAQUETA<br>Se adapta a todo tipo de tubos de hasta 5 cm de diámetro<br>Capacidad de suspensión ultra fuerte de hasta 84 kg / par<br>Ideal para asegurar reflectores pesados ??y filtros de carbón</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">PROCESO COMPLEMENTO DE RAQUETA<br>Se adapta a todo tipo de tubos de hasta 5 cm de diámetro<br>Capacidad de suspensión ultra fuerte de hasta 84 kg / par<br>Ideal para asegurar reflectores pesados ??y filtros de carbón</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2269-large_default/procufs-pairs-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/procufs-pairs-garden-highpro.jpg",
     "Category": "Cultivo;Accesorios para Cultivo;Poleas;Herramientas y Accesorios;"
   },
   {
@@ -731,7 +731,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">POLEAS DE PLÁSTICO LIGERO<br>Más fácil de usar que las poleas convencionales.<br>Regulan al mínimo la altura.<br>Fijación de poleas de hasta 5 kg de capacidad.<br>Longitud de cable de 1,5 m (3,4 pies)</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">POLEAS DE PLÁSTICO LIGERO<br>Más fácil de usar que las poleas convencionales.<br>Regulan al mínimo la altura.<br>Fijación de poleas de hasta 5 kg de capacidad.<br>Longitud de cable de 1,5 m (3,4 pies)</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2385-large_default/lighthangers-pairs-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/lighthangers-pairs-garden-highpro.jpg",
     "Category": "Cultivo;Accesorios para Cultivo;Poleas;Herramientas y Accesorios;"
   },
   {
@@ -746,7 +746,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">TIJERAS DE PODA PROCUT<br>100% inox y cuchillas extra afiladas<br>Disponibles versiones de cuchillas rectas y curvas<br>Especialmente diseñadas para un uso confortable</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">TIJERAS DE PODA PROCUT<br>100% inox y cuchillas extra afiladas<br>Disponibles versiones de cuchillas rectas y curvas<br>Especialmente diseñadas para un uso confortable</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2271-large_default/procut-straight-blades-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/procut-straight-blades-garden-highpro.jpg",
     "Category": "Tijeras y Manicuradores;Herramientas y Accesorios;"
   },
   {
@@ -761,7 +761,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">PROHANGER XL RATCHET CARABINER XL<br>Poleas fuertes y ultra resistentes Mosquetones<br>XL que se ajustan a la estructura<br>Fijación de poleas de hasta 48 kg de capacidad<br>Longitud de cable de 1,5 m (4,3 pies)</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">PROHANGER XL RATCHET CARABINER XL<br>Poleas fuertes y ultra resistentes Mosquetones<br>XL que se ajustan a la estructura<br>Fijación de poleas de hasta 48 kg de capacidad<br>Longitud de cable de 1,5 m (4,3 pies)</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2386-large_default/prohanger-xl-pairs-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/prohanger-xl-pairs-garden-highpro.jpg",
     "Category": "Cultivo;Accesorios para Cultivo;Poleas;Herramientas y Accesorios;"
   },
   {
@@ -776,7 +776,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">SISTEMA DE SECADO PRIME PRODRY<br>Red de secado con rejillas extraíbles<br>Banda estabilizadora que conecta cada rejilla<br>Clips fuertes para una mayor duración<br>Tejido microperforado de alta calidad</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">SISTEMA DE SECADO PRIME PRODRY<br>Red de secado con rejillas extraíbles<br>Banda estabilizadora que conecta cada rejilla<br>Clips fuertes para una mayor duración<br>Tejido microperforado de alta calidad</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2293-large_default/prodry-vi-75cm-6-removable-levels-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/prodry-vi-75cm-6-removable-levels-garden-highpro.jpg",
     "Category": "Cultivo;Accesorios para Cultivo;Varios;Herramientas y Accesorios;"
   },
   {
@@ -791,7 +791,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">PROPOTE LAS MAQUINAS DE TELA ACTIVAS<br><br>Cuadrado muy fuerte y reutilizable para optimizar el espacio de crecimiento<br>Ideal para cultivo interior y exterior<br>Las raíces pueden respirar correctamente</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">PROPOTE LAS MAQUINAS DE TELA ACTIVAS<br><br>Cuadrado muy fuerte y reutilizable para optimizar el espacio de crecimiento<br>Ideal para cultivo interior y exterior<br>Las raíces pueden respirar correctamente</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2257-large_default/propot-11l-sin-mango-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/propot-11l-sin-mango-garden-highpro.jpg",
     "Category": "Geotextiles;Macetas;Cultivo;"
   },
   {
@@ -806,7 +806,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">PROPOTE LAS MAQUINAS DE TELA ACTIVAS<br><br>Cuadrado muy fuerte y reutilizable para optimizar el espacio de crecimiento<br>Ideal para cultivo interior y exterior<br>Las raíces pueden respirar correctamente</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">PROPOTE LAS MAQUINAS DE TELA ACTIVAS<br><br>Cuadrado muy fuerte y reutilizable para optimizar el espacio de crecimiento<br>Ideal para cultivo interior y exterior<br>Las raíces pueden respirar correctamente</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2255-large_default/propot-7l-sin-mango-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/propot-7l-sin-mango-garden-highpro.jpg",
     "Category": "Geotextiles;Macetas;Cultivo;"
   },
   {
@@ -821,7 +821,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">PROPOTE LAS MAQUINAS DE TELA ACTIVAS<br><br>Cuadrado muy fuerte y reutilizable para optimizar el espacio de crecimiento<br>Ideal para cultivo interior y exterior<br>Las raíces pueden respirar correctamente</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">PROPOTE LAS MAQUINAS DE TELA ACTIVAS<br><br>Cuadrado muy fuerte y reutilizable para optimizar el espacio de crecimiento<br>Ideal para cultivo interior y exterior<br>Las raíces pueden respirar correctamente</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2259-large_default/propot-15l-con-mango-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/propot-15l-con-mango-garden-highpro.jpg",
     "Category": "Geotextiles;Macetas;Cultivo;"
   },
   {
@@ -836,7 +836,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">PROPOTE LAS MAQUINAS DE TELA ACTIVAS<br><br>Cuadrado muy fuerte y reutilizable para optimizar el espacio de crecimiento<br>Ideal para cultivo interior y exterior<br>Las raíces pueden respirar correctamente</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">PROPOTE LAS MAQUINAS DE TELA ACTIVAS<br><br>Cuadrado muy fuerte y reutilizable para optimizar el espacio de crecimiento<br>Ideal para cultivo interior y exterior<br>Las raíces pueden respirar correctamente</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2261-large_default/propot-20l-con-mango-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/propot-20l-con-mango-garden-highpro.jpg",
     "Category": "Geotextiles;Macetas;Cultivo;"
   },
   {
@@ -851,7 +851,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">PROHYGRO HYGROTHERMO BASIC<br>Termómetro interior con higrómetro<br>Precisión ± 1º C HR ± 5%<br>Rango higrómetro interior 25% HR a 90%<br>Rango de temperatura: 0º - 50º / 32º - 122º F</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">PROHYGRO HYGROTHERMO BASIC<br>Termómetro interior con higrómetro<br>Precisión ± 1º C HR ± 5%<br>Rango higrómetro interior 25% HR a 90%<br>Rango de temperatura: 0º - 50º / 32º - 122º F</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2281-large_default/prohygro-hygrothermo-basic-ta138-cste14022511-garden-hi.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/prohygro-hygrothermo-basic-ta138-cste14022511-garden-hi.jpg",
     "Category": "Accesorios para Cultivo;Cultivo;Termohigrometros;Medición y Control;"
   },
   {
@@ -866,7 +866,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">PROHYGRO HYGROTHERMO PRO<br>Termómetro interior con higrómetro<br>Componentes japoneses para mediciones precisas<br>Rango de higrómetro interior 25% HR a 90%<br>Rango de temperatura: 0º - 50º / 32º - 122º F</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">PROHYGRO HYGROTHERMO PRO<br>Termómetro interior con higrómetro<br>Componentes japoneses para mediciones precisas<br>Rango de higrómetro interior 25% HR a 90%<br>Rango de temperatura: 0º - 50º / 32º - 122º F</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2285-large_default/prohygrohygrothermo-projapanese-componentsgree-garden-hig.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/prohygrohygrothermo-projapanese-componentsgree-garden-hig.jpg",
     "Category": "Accesorios para Cultivo;Cultivo;Termohigrometros;Medición y Control;"
   },
   {
@@ -881,7 +881,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">VERSIÓN BÁSICA PROBOX 80<br>80 x 80 x 160 cm<br>Tejido resistente y resistente Nylon 420D<br>Estructura patentada, resistente y estable<br>Reflexión de mylar de primera calidad 97%<br>Certificada para plantas de mylar amigable<br>Cremalleras resistentes y a prueba de luz Zócalos de<br>tela doblada y suave</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">VERSIÓN BÁSICA PROBOX 80<br>80 x 80 x 160 cm<br>Tejido resistente y resistente Nylon 420D<br>Estructura patentada, resistente y estable<br>Reflexión de mylar de primera calidad 97%<br>Certificada para plantas de mylar amigable<br>Cremalleras resistentes y a prueba de luz Zócalos de<br>tela doblada y suave</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2235-large_default/probox-basic-80-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/probox-basic-80-garden-highpro.jpg",
     "Category": "Carpas;Cultivo;"
   },
   {
@@ -896,7 +896,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">VERSIÓN BÁSICA PROBOX 120<br>120 x 120 x 200 cm<br>Tejido resistente y resistente Nylon 420D<br>Estructura patentada, resistente y estable<br>Reflexión de mylar de primera calidad 97%<br>Certificada para plantas de mylar amigable<br>Cremalleras resistentes y a prueba de luz Zócalos de<br>tela doblada y suave</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">VERSIÓN BÁSICA PROBOX 120<br>120 x 120 x 200 cm<br>Tejido resistente y resistente Nylon 420D<br>Estructura patentada, resistente y estable<br>Reflexión de mylar de primera calidad 97%<br>Certificada para plantas de mylar amigable<br>Cremalleras resistentes y a prueba de luz Zócalos de<br>tela doblada y suave</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/2237-large_default/probox-basic-120-garden-highpro.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/probox-basic-120-garden-highpro.jpg",
     "Category": "Carpas;Cultivo;"
   },
   {
@@ -911,7 +911,7 @@ export const products = [
     "Summary": "",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "https://astrogrowshop.cl/11834-large_default/garden-highpro-proactiv-100mm250m3h.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/garden-highpro-proactiv-100mm250m3h.jpg",
     "Category": "Control de Olor;Filtros de Carbono;"
   },
   {
@@ -926,7 +926,7 @@ export const products = [
     "Summary": "",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "https://astrogrowshop.cl/11831-large_default/garden-highpro-proactiv-150mm460m3h.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/garden-highpro-proactiv-150mm460m3h.jpg",
     "Category": "Control de Olor;Filtros de Carbono;"
   },
   {
@@ -941,7 +941,7 @@ export const products = [
     "Summary": "",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "https://astrogrowshop.cl/11832-large_default/garden-highpro-proactiv-125mm460m3h.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/garden-highpro-proactiv-125mm460m3h.jpg",
     "Category": "Control de Olor;Filtros de Carbono;"
   },
   {
@@ -956,7 +956,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">Soquetes de cerámica (E40) que proporcionan una gran resistencia a altas temperaturas.</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Soquetes de cerámica (E40) que proporcionan una gran resistencia a altas temperaturas.</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/109-large_default/soquete-de-ceramica.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/soquete-de-ceramica.jpg",
     "Category": "Varios;Herramientas y Accesorios;"
   },
   {
@@ -971,7 +971,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">La Tijera pinza dispone de un diseño ergonómico y de una fina punta que facilitan el manicurado de las plantas.</div>",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/1103-large_default/tijeras-pinza-x12-unds.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/tijeras-pinza-x12-unds.jpg",
     "Category": "Tijeras y Manicuradores;Herramientas y Accesorios;"
   },
   {
@@ -986,7 +986,7 @@ export const products = [
     "Summary": "",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/1449-large_default/tutor-plastico-12x1500-mm-100-udsfardo.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/tutor-plastico-12x1500-mm-100-udsfardo.jpg",
     "Category": "Accesorios para Cultivo;Cultivo;Varios;Herramientas y Accesorios;"
   },
   {
@@ -1001,7 +1001,7 @@ export const products = [
     "Summary": "",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/799-large_default/tutor-plastico-8x700-mm-100-udsfardo.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/tutor-plastico-8x700-mm-100-udsfardo.jpg",
     "Category": "Accesorios para Cultivo;Cultivo;Varios;Herramientas y Accesorios;"
   },
   {
@@ -1016,7 +1016,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">Son etiquetas plastificadas amarillas en forma de flecha en paquetes, las cuales te servirán para ponerles nombre a tus queridas plantas, pinchándolas en el sustrato.</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Son etiquetas plastificadas amarillas en forma de flecha en paquetes, las cuales te servirán para ponerles nombre a tus queridas plantas, pinchándolas en el sustrato.</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/260-large_default/etiquetas-picar-1612-amarilla-500-u.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/etiquetas-picar-1612-amarilla-500-u.jpg",
     "Category": "Accesorios para Cultivo;Cultivo;"
   },
   {
@@ -1031,7 +1031,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">Este líquido de pH 4.01 de la casa Hanna sirve para calibrar medidores digitales y conseguir que sus mediciones siempre sean exactas. Es obligatorio para un correcto funcionamiento del medidor, calibrarlo como mínimo una vez al mes.</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Este líquido de pH 4.01 de la casa Hanna sirve para calibrar medidores digitales y conseguir que sus mediciones siempre sean exactas. Es obligatorio para un correcto funcionamiento del medidor, calibrarlo como mínimo una vez al mes.</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/261-large_default/liquido-calibrador-401-20-ml-sobres.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/liquido-calibrador-401-20-ml-sobres.jpg",
     "Category": "Calibradores;Medición y Control;"
   },
   {
@@ -1046,7 +1046,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">El líquido de pH 7.01 sirve para calibrar medidores digitales de pH y conseguir que sus mediciones siempre sean exactas. Es obligatorio para un correcto funcionamiento del medidor, calibrarlo como mínimo una vez al mes.</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">El líquido de pH 7.01 sirve para calibrar medidores digitales de pH y conseguir que sus mediciones siempre sean exactas. Es obligatorio para un correcto funcionamiento del medidor, calibrarlo como mínimo una vez al mes.</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/262-large_default/liquido-calibrador-701-20-ml-sobres.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/liquido-calibrador-701-20-ml-sobres.jpg",
     "Category": "Calibradores;Medición y Control;"
   },
   {
@@ -1061,7 +1061,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">Solución de calibración para medidores digitales de conductividad eléctrica, con valor de 1.413 ms/cm. Una solución muy práctica que le asegura una buena calibración y así poder mantener el medidor en perfectas condiciones para realizar mediciones exactas.</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Solución de calibración para medidores digitales de conductividad eléctrica, con valor de 1.413 ms/cm. Una solución muy práctica que le asegura una buena calibración y así poder mantener el medidor en perfectas condiciones para realizar mediciones exactas.</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/115-large_default/liquido-calibrador-ec-1413-20-ml-sobres.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/liquido-calibrador-ec-1413-20-ml-sobres.jpg",
     "Category": "Calibradores;Medición y Control;"
   },
   {
@@ -1076,7 +1076,7 @@ export const products = [
     "Summary": "<h4><span  ><strong>Pro Silicate</strong> de Grotek es un producto especialmente desarrollado para cultivos sin suelo y medios hidropónicos, su fórmula contiene una alta concentración de sílice que fortalece las paredes celulares de la planta, ayuda a las plantas a ser más resistentes al estrés y a plagas.</span></h4>",
     "Description": "",
     "Meta description": "Pro Silicate de Grotek es un producto especialmente desarrollado para cultivos sin suelo y medios hidropónicos, su fórmula contiene una alta concentración de sílice que fortalece las paredes celulares de la planta, ayuda a las plantas a ser más resistentes al estrés y a plagas.",
-    "Image URLs": "https://astrogrowshop.cl/3162-large_default/grotek-pro-silicate-500-ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/grotek-pro-silicate-500-ml.jpg",
     "Category": "Grotek;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1091,7 +1091,7 @@ export const products = [
     "Summary": "Micro Pack de Grotek es un pack básico con fertilizantes base de alta calidad con los nutrientes esenciales para todo la etapa de cultivo, contiene Solo-Tek Grow 250ml, Solo-Tek Bloom 250ml y Monster Bloom 20g",
     "Description": "",
     "Meta description": "Micro Pack de Grotek es un pack básico de fertilizantes base de alta calidad, contiene Solo-Tek Grow 250ml, Solo-Tek Bloom 250ml y Monster Bloom 20g.",
-    "Image URLs": "https://astrogrowshop.cl/4378-large_default/friendly-url-autogeneration-failed.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/friendly-url-autogeneration-failed.jpg",
     "Category": "Grotek;Marca;Packs;Fertilizantes y Abonos;"
   },
   {
@@ -1106,7 +1106,7 @@ export const products = [
     "Summary": "<p>Hesi Boost contiene enzimas de frutas, azúcares vegetales, minerales orgánicos y oligoelementos. Ofrece unos excelentes resultados con una sorprendente producción, flores más densas y más grandes con una mejor calidad.</p>",
     "Description": "<h2>Descripción</h2> <p>El uso de HESI BOOST mejora las condiciones de la planta, permitiéndole ser menos susceptible a factores externos y estimulándola para que aumente la densidad de las hojas, puesto que los cogollos crecerán más juntos, así como las ramas secundarias, la resistencia y la densidad de las flores. Además aumenta el contenido de azúcar que mejorará el resultado final de la cosecha.<br> HESI BOOST, ofrece un mayor nivel de floración y maduración, si se añade al agua de riego o se aplica a nivel foliar ayudará a las plantas durante la etapa de floración cuando sus exigencias energéticas son mayores. Altamente concentrado, 1 litro es suficiente para preparar 500 litros de agua de riego. No altera los valores de <span  > PH y EC </span> del agua de riego y se puede utilizar con otros fertilizantes. Se recomienda para todas las plantas que estén en floración y para todo tipo de medio de cultivo (tierra, hidro y coco).</p> <p>HESI BOOST, es un activador de la floración que también se puede usar como abono foliar en las primeras semanas de floración.</p>",
     "Meta description": "Hesi Boost contiene enzimas de frutas, azúcares vegetales, minerales orgánicos y oligoelementos. Ofrece unos excelentes resultados con una sorprendente producción, flores más densas y más grandes con una mejor calidad.",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Hesi-Boost-500mL-HESI.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Hesi-Boost-500mL-HESI.jpg",
     "Category": "Hesi;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1121,7 +1121,7 @@ export const products = [
     "Summary": "<p>Hesi Boost contiene enzimas de frutas, azúcares vegetales, minerales orgánicos y oligoelementos. Ofrece unos excelentes resultados con una sorprendente producción, flores más densas y más grandes con una mejor calidad.</p>",
     "Description": "<h2>Descripción</h2> <p>El uso de HESI BOOST mejora las condiciones de la planta, permitiéndole ser menos susceptible a factores externos y estimulándola para que aumente la densidad de las hojas, puesto que los cogollos crecerán más juntos, así como las ramas secundarias, la resistencia y la densidad de las flores. Además aumenta el contenido de azúcar que mejorará el resultado final de la cosecha.<br> HESI BOOST, ofrece un mayor nivel de floración y maduración, si se añade al agua de riego o se aplica a nivel foliar ayudará a las plantas durante la etapa de floración cuando sus exigencias energéticas son mayores. Altamente concentrado, 1 litro es suficiente para preparar 500 litros de agua de riego. No altera los valores de <span  > PH y EC </span> del agua de riego y se puede utilizar con otros fertilizantes. Se recomienda para todas las plantas que estén en floración y para todo tipo de medio de cultivo (tierra, hidro y coco).</p> <p>HESI BOOST, es un activador de la floración que también se puede usar como abono foliar en las primeras semanas de floración.</p>",
     "Meta description": "Hesi Boost contiene enzimas de frutas, azúcares vegetales, minerales orgánicos y oligoelementos. Ofrece unos excelentes resultados con una sorprendente producción, flores más densas y más grandes con una mejor calidad.",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Hesi-Boost-500mL-HESI.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Hesi-Boost-500mL-HESI.jpg",
     "Category": "Hesi;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1136,7 +1136,7 @@ export const products = [
     "Summary": "<p>El <strong>Complejo de Floración HESI para Tierra </strong>está compuesto por potenciadores de energía de las plantas y garantizan una elevada actividad microbiológica del suelo.</p>",
     "Description": "<h2>Descripción</h2> <p>El Complejo de Floración es un producto elaborado con las materias primas naturales, libres de sustancias tóxicas o dañinas para el medio ambiente</p> <p>DOSIS: 5mL/L de agua .Este abono incorpora un corrector de acidez que modifica el grado de acidez del agua potable a un valor ligeramente ácido óptimo par las plantas.Administrar en el período de floración junto con los abonos de floración Hesi Fósforo Plus.</p> <p>COMPOSICIÓN: Nitrógeno 4%, fósforo 3%, potasio 5%, magnesio, calcio, sulfato y los oligoelementos hierro, manganeso, zinc, cobre, boro, molibdeno, yodo y cobalto en forma de compuestos ligados, más las vitaminas B1, B2, B6, B12 y azúcares vegetales y aminoácidos.</p>",
     "Meta description": "El Complejo de Floración HESI para Tierra está compuesto por potenciadores de energía de las plantas y garantizan una elevada actividad microbiológica del suelo.",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Complejo-de-Floracin-500mL-HESI.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Complejo-de-Floracin-500mL-HESI.jpg",
     "Category": "Hesi;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -1151,7 +1151,7 @@ export const products = [
     "Summary": "<p>El <strong>Complejo de Floración HESI para Tierra </strong>está compuesto por potenciadores de energía de las plantas y garantizan una elevada actividad microbiológica del suelo.</p>",
     "Description": "<h2>Descripción</h2> <p>El Complejo de Floración es un producto elaborado con las materias primas naturales, libres de sustancias tóxicas o dañinas para el medio ambiente</p> <p>DOSIS: 5mL/L de agua .Este abono incorpora un corrector de acidez que modifica el grado de acidez del agua potable a un valor ligeramente ácido óptimo par las plantas.Administrar en el período de floración junto con los abonos de floración Hesi Fósforo Plus.</p> <p>COMPOSICIÓN: Nitrógeno 4%, fósforo 3%, potasio 5%, magnesio, calcio, sulfato y los oligoelementos hierro, manganeso, zinc, cobre, boro, molibdeno, yodo y cobalto en forma de compuestos ligados, más las vitaminas B1, B2, B6, B12 y azúcares vegetales y aminoácidos.</p>",
     "Meta description": "El Complejo de Floración HESI para Tierra está compuesto por potenciadores de energía de las plantas y garantizan una elevada actividad microbiológica del suelo.",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Complejo-de-Floracin-500mL-HESI.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Complejo-de-Floracin-500mL-HESI.jpg",
     "Category": "Hesi;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -1166,7 +1166,7 @@ export const products = [
     "Summary": "<p>El <strong>Complejo de Floración HESI para Tierra </strong>está compuesto por potenciadores de energía de las plantas y garantizan una elevada actividad microbiológica del suelo.</p>",
     "Description": "<h2>Descripción</h2> <p>El Complejo de Floración es un producto elaborado con las materias primas naturales, libres de sustancias tóxicas o dañinas para el medio ambiente</p> <p>DOSIS: 5mL/L de agua .Este abono incorpora un corrector de acidez que modifica el grado de acidez del agua potable a un valor ligeramente ácido óptimo par las plantas.Administrar en el período de floración junto con los abonos de floración Hesi Fósforo Plus.</p> <p>COMPOSICIÓN: Nitrógeno 4%, fósforo 3%, potasio 5%, magnesio, calcio, sulfato y los oligoelementos hierro, manganeso, zinc, cobre, boro, molibdeno, yodo y cobalto en forma de compuestos ligados, más las vitaminas B1, B2, B6, B12 y azúcares vegetales y aminoácidos.</p>",
     "Meta description": "El Complejo de Floración HESI para Tierra está compuesto por potenciadores de energía de las plantas y garantizan una elevada actividad microbiológica del suelo.",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Complejo-de-Floracin-500mL-HESI.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Complejo-de-Floracin-500mL-HESI.jpg",
     "Category": "Hesi;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -1181,7 +1181,7 @@ export const products = [
     "Summary": "<p><span data-sheets-value='{\"1\":2,\"2\":\"Complejo Radicular - Hesi\"}' data-sheets-userformat='{\"2\":513,\"3\":{\"1\":0},\"12\":0}'>Complejo Radicular de Hesi</span></p>",
     "Description": "",
     "Meta description": "Complejo Radicular de Hesi",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2020/08/hesi-complejo-radicular.png",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/hesi-complejo-radicular.png",
     "Category": "Hesi;Marca;Enraizantes;Fertilizantes y Abonos;"
   },
   {
@@ -1196,7 +1196,7 @@ export const products = [
     "Summary": "<p><span data-sheets-value='{\"1\":2,\"2\":\"Complejo Radicular - Hesi\"}' data-sheets-userformat='{\"2\":513,\"3\":{\"1\":0},\"12\":0}'>Complejo Radicular de Hesi</span></p>",
     "Description": "",
     "Meta description": "Complejo Radicular de Hesi",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2020/08/hesi-complejo-radicular.png",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/hesi-complejo-radicular.png",
     "Category": "Hesi;Marca;Enraizantes;Fertilizantes y Abonos;"
   },
   {
@@ -1211,7 +1211,7 @@ export const products = [
     "Summary": "<p>Complejo TNT es un producto potente para tus plantas, ya que el nitrógeno es 100 % orgánico.</p>",
     "Description": "<h2>Descripción</h2> <p>El nitrógeno orgánico asegura que las plantas disponen de un mínimo de sales ideales para plantas jóvenes. Las uniones de nitrógeno orgánicas no tienen valor de EC porque no son sales, pero tienen un alto porcentaje de nitrógeno. Esto hace que las plantas jóvenes se carguen con un mínimo de sales, lo que les proporciona condiciones de crecimiento ideales. El Complejo TNT tiene así un valor de EC aparentemente bajo pero con un alto grado de efecto.</p> <p>Las plantas cultivadas con TNT Complex tienen muchos brotes y un color verde intenso. No sobrepases las dosis con TNT ya que la planta crecerá demasiado. Este producto está enriquecido con componentes especiales para un crecimiento sano y vigoroso</p>",
     "Meta description": "Complejo TNT es un producto potente para tus plantas, ya que el nitrógeno es 100 % orgánico.",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Complejo-TNT-Crecimiento-1L-HESI-1.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Complejo-TNT-Crecimiento-1L-HESI-1.jpg",
     "Category": "Hesi;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -1226,7 +1226,7 @@ export const products = [
     "Summary": "<p>Complejo TNT es un producto potente para tus plantas, ya que el nitrógeno es 100 % orgánico.</p>",
     "Description": "<h2>Descripción</h2> <p>El nitrógeno orgánico asegura que las plantas disponen de un mínimo de sales ideales para plantas jóvenes. Las uniones de nitrógeno orgánicas no tienen valor de EC porque no son sales, pero tienen un alto porcentaje de nitrógeno. Esto hace que las plantas jóvenes se carguen con un mínimo de sales, lo que les proporciona condiciones de crecimiento ideales. El Complejo TNT tiene así un valor de EC aparentemente bajo pero con un alto grado de efecto.</p> <p>Las plantas cultivadas con TNT Complex tienen muchos brotes y un color verde intenso. No sobrepases las dosis con TNT ya que la planta crecerá demasiado. Este producto está enriquecido con componentes especiales para un crecimiento sano y vigoroso</p>",
     "Meta description": "Complejo TNT es un producto potente para tus plantas, ya que el nitrógeno es 100 % orgánico.",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Complejo-TNT-Crecimiento-1L-HESI-1.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Complejo-TNT-Crecimiento-1L-HESI-1.jpg",
     "Category": "Hesi;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -1241,7 +1241,7 @@ export const products = [
     "Summary": "<p>El Fertilizante Hesi Pack 850mL sirve para cultivo indoor y exterior, incluye Complejo TNT, Complejo de Floración, Fósforo plus y Hesi Boost</p>",
     "Description": "<h2>Descripción</h2> <p>El Fertilizante Hesi Pack 850 mL agrupa los 4 mejores productos de Hesi, que incluye estos  abonos  organo-minerales:</p> <ul> <li>Hesi Complejo TNT 250 mL</li> <li>Hesi Complejo de Floración 250 mL</li> <li>Hesi Fósforo Plus 250 mL</li> <li>Hesi Boost 100 mL</li> </ul> <p><strong>Complejo TNT</strong> de<strong> Hesi</strong> es un fertilizante de crecimiento con el que obtendremos plantas grandes y fuertes desde el principio. Con todos los elementos esenciales para que tus plantas tengan un correcto crecimiento desde semillas o esquejes. Gracias a que su nitrógeno es<strong> 100% orgánico no afecta los niveles de EC.</strong></p> <p>Plantas rápidas y fuertes, dispuestas a entrar a floración con las mejores ramas y troncos. Tus plantas se prepararán para una floración abundante y construirán las estructuras necesarias para aguantar el peso de los cogollos.</p> <p>Complejo TNT de Hesi se compone de los mejores minerales para que tus plantas los asimilen completamente y multipliquen sus células a un ritmo muy rápido. Ganaremos tiempo y producción, con plantas con unos troncos gordos y robustos, por donde pasarán los nutrientes disponibles a todas las partes de las plantas.</p> <p><strong>Dosis y modo de empleo</strong> de Complejo TNT de Hesi:</p> <ul> <li>Añade 2,5ml por litro de agua de riego en plantas madre, riego sí riego no, para mantenerlas en crecimiento sin excederse con las sales en el suelo.</li> <li>Aplicar 2,5ml/L en el riego en plantas jóvenes, esquejes pequeños y subir progresivamente hasta 5 ml/L cuando son adultas.</li> </ul> <p><strong>Composición</strong> de Complejo TNT de Hesi:</p> <p><strong>NPK 3-2-3</strong></p> <ul> <li>2,8% Nitrógeno.</li> <li>2,2% Fósforo.</li> <li>3,1% Potasio.</li> <li>Vitamina b1.</li> <li>Vitamina b2.</li> <li>Vitamina b6.</li> <li>Aminoácidos.</li> </ul> <p><strong>Complejo de Floración</strong> de <strong>Hesi </strong>es un fertilizante de floración que combinaremos con los estimulantes y complementos para conseguir unas flores de primera calidad. Este producto ha sido adaptado para el cultivo en tierra, teniendo en cuenta los nutrientes presentes de forma natural en el sustrato para evitar sobre-fertilizar tus plantas.</p> <p>Sus ingredientes de excelente calidad constituyen una dieta equilibrada para las plantas en tierra. Suelen combinarse con un estimulante para acelerar la floración, y con un complemento con altas dosis de fósforo y potasio para que las flores aumenten en número y tamaño.</p> <p>Complejo de Floración de Hesi es una mezcla de macro-nutrientes y micro-elementos creada especialmente para nuestras plantas. Con todos los minerales, libre de residuos, totalmente asimilables por nuestras plantas. Tendrán una floración exuberante usando el Complejo de Floración como base y el resto de nutrientes Hesi para esta etapa del cultivo.</p> <p> </p> <p><strong>NPK 3-3-4</strong></p> <ul> <li>3% Nitrógeno.</li> <li>2,6% Fósforo.</li> <li>3,6% Potasio.</li> <li>Manganeso.</li> <li>Zinc.</li> <li>Vitamina b1.</li> <li>Vitamina b2.</li> <li>Vitamina b6.</li> <li>Azúcares vegetales.</li> <li>Aminoácidos.</li> </ul> <p><strong>Fósforo Plus</strong> de <strong>Hesi</strong> les darás fósforo y potasio en el periodo de engorde de tus cogollos, justo cuando más lo necesitan. Verás cómo crecen los cogollos al tiempo que se hacen duros y apretados. Cuando las plantas ya han desarrollado las flores, es cuando más cantidad de fósforo y potasio necesitan, con lo que les daremos un aporte de estos nutrientes en la fase de final de la floración.</p> <p>Fósforo Plus es un aditivo que se usa en combinación con Complejo de Floración, el fertilizante básico para conseguir una floración exuberante. Las paredes celulares de tus plantas se harán más rígidas y las flores tendrán una mayor densidad, consiguiendo mejorar los rendimientos de la cosecha.</p> <p>Es un fertilizante para el engorde de los cogollos que ha sido formulado expresamente para utilizar con sustrato de tierra. Las proporciones de nutrientes han sido cuidadosamente ajustadas teniendo en cuenta que el sustrato ya aportará una cantidad importante de alimento a las plantas. De esta manera nos aseguramos de proteger a nuestras plantas contra la sobre-fertilización.</p> <p>Al contener únicamente ingredientes 100% solubles en agua puede utilizarse en sistemas de riego por goteo sin problemas de obstrucciones.</p> <p><strong>Dosis y modo de empleo</strong> de Fósforo Plus:</p> <ul> <li>Añade 2,5 ml por litro de agua de riego en conjunto con el Complejo de Floración.</li> </ul> <p><strong>Composición</strong> de Fósforo Plus de Hesi:</p> <ul> <li>7,2% Fósforo.</li> <li>5,1% Potasio.</li> </ul> <p> <strong>Boost</strong> de <strong>Hesi</strong>  es un potente estimulador de la floración que <strong>acelera los procesos metabólicos</strong> de las plantas, por lo que tus plantas necesitarán una mayor cantidad de riego. Al consumir mayor cantidad de nutrientes tus plantas formarán antes las flores, consiguiendo acortar el tiempo total del cultivo.</p> <p>Las flores creadas a toda velocidad y en forma de Zig Zag colmarán tu planta de cogollos de arriba a abajo. El periodo de floración comenzará lo antes posible y tus internudos serán recortados como nunca habías visto; compactando tu planta y haciendo que las ramas sean largas colas de flores.</p> <p>Boost se puede usar desde el principio con un riego al final de la fase de crecimiento, preparándola para la floración desde los primeros días y que no se nos estire mucho cuando la pasemos a 12/12h. Después lo añadiremos cada semana para engordar paulatinamente las flores.</p> <p>Se recomienda utilizar en combinación con un fertilizante para la fase de floración como el Complejo de Floración. Además puedes añadir también SuperVit y PK 13/14 de Hesi para multiplicar la cantidad de flores y su concentración de resina.</p> <p><strong>Dosis y modo de empleo</strong> de Boost de Hesi:</p> <ul> <li>Usar 2ml por litro en el Único riego en crecimiento, antes de pasarla a la fase de floración.</li> <li>Usar 2ml por litro en riego o 1ml por litro pulverizado cuando comience la floración y cuando esté en la fase avanzada de floración para acelerar la madurez de nuestras plantas.</li> </ul> <p>Consulta la completa tabla de cultivo de Hesi para aplicarles un régimen profesional a tus plantas.</p> <p><strong>Composición</strong> de Boost de Hesi:</p> <ul> <li>1% fósforo.</li> <li>1% potasio.</li> <li>Magnesio.</li> <li>Calcio.</li> <li>Hierro.</li> <li>Extractos florales (galactol y otros).</li> <li>Azúcares vegetales (melitosa y otros).</li> <li>Ácido algínico (y otros ácidos).</li> <li>Y otros oligoelementos de origen natural.</li> </ul>",
     "Meta description": "El Fertilizante Hesi Pack 850mL sirve para cultivo indoor y exterior, incluye Complejo TNT, Complejo de Floración, Fósforo plus y Hesi Boost",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Hesi-pack-850mL.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Hesi-pack-850mL.jpg",
     "Category": "Hesi;Marca;Packs;Fertilizantes y Abonos;"
   },
   {
@@ -1256,7 +1256,7 @@ export const products = [
     "Summary": "<p>Se recomienda la aplicación de Fósforo Plus en la segunda mitad del periodo de floración junto con el Complejo de Floración.</p>",
     "Description": "<h2>Descripción</h2> <p>Fósforo Plus es un fertilizante creado para suelo, aportando una óptima nutrición y manteniendo los niveles de sales bajo control en todo momento. Con Fósforo Plus damos a las plantas los medios adecuados en el momento adecuado: fósforo para una mejor formación de flores y potasio para un rápido transporte a las mismas</p>",
     "Meta description": "Se recomienda la aplicación de Fósforo Plus en la segunda mitad del periodo de floración junto con el Complejo de Floración.",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Fosforo-Plus-500mL-HESI-e1482031991355.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Fosforo-Plus-500mL-HESI-e1482031991355.jpg",
     "Category": "Hesi;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1271,7 +1271,7 @@ export const products = [
     "Summary": "<p>Se recomienda la aplicación de Fósforo Plus en la segunda mitad del periodo de floración junto con el Complejo de Floración.</p>",
     "Description": "<h2>Descripción</h2> <p>Fósforo Plus es un fertilizante creado para suelo, aportando una óptima nutrición y manteniendo los niveles de sales bajo control en todo momento. Con Fósforo Plus damos a las plantas los medios adecuados en el momento adecuado: fósforo para una mejor formación de flores y potasio para un rápido transporte a las mismas</p>",
     "Meta description": "Se recomienda la aplicación de Fósforo Plus en la segunda mitad del periodo de floración junto con el Complejo de Floración.",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Fosforo-Plus-500mL-HESI-e1482031991355.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Fosforo-Plus-500mL-HESI-e1482031991355.jpg",
     "Category": "Hesi;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1286,7 +1286,7 @@ export const products = [
     "Summary": "<p>Este Pack Starter Box contiene todos los nutrientes y estimuladores necesarios para un cultivo completo con Hesi.</p>",
     "Description": "<h2>Descripción</h2> <p>El Pack Starter Box  de HESI está compuesto por (dependiendo formato Hidro/Suelo/Coco):</p> <ul> <li>500 mL de Complejo TNT ó Crecimiento Hidro</li> <li>1 L de Complejo de Floración ó Floración Hidro ó Bloom Coco</li> <li>1 L de Fósforo Plus ó PK 13/14</li> <li>500mL de Complejo Radicular</li> <li>500mL de Power Zyme</li> <li>10mL de Super Vit</li> <li>100 mL Hesi Boost</li> <li>1 Ficha de cultivo en suelo, Hidro o Coco</li> </ul> <p> </p>",
     "Meta description": "Este Pack Starter Box contiene todos los nutrientes y estimuladores necesarios para un cultivo completo con Hesi.",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2016/12/Hesi-pack-Starter.png",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Hesi-pack-Starter.png",
     "Category": "Hesi;Marca;Packs;Fertilizantes y Abonos;"
   },
   {
@@ -1301,7 +1301,7 @@ export const products = [
     "Summary": "<p>Las plantas en el periodo de floración necesitan más cantidad de fósforo y potasio, estas necesidades son cubiertas en el momento adecuado con Hesi PK 13-14</p>",
     "Description": "<h2>Descripción</h2> <p>La fase de floración es la parte álgida de la vida de la planta. Produce más enzimas, la producción de resina aumenta y el volumen de la planta aumenta espectacularmente.</p> <p>Para asegurar que las plantas no se queman por exceso de sales, aplica PK 13-14 en la segunda mitad del periodo de floración.</p>",
     "Meta description": "Las plantas en el periodo de floración necesitan más cantidad de fósforo y potasio, estas necesidades son cubiertas en el momento adecuado con Hesi PK 13-14",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/PK-13-14-500mL-HESI.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/PK-13-14-500mL-HESI.jpg",
     "Category": "Hesi;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1316,7 +1316,7 @@ export const products = [
     "Summary": "<p>POWER-Zyme es un extracto de enzimas para plantas que estimula la actividad microbiológica del suelo y el crecimiento radical</p>",
     "Description": "<h2>Descripción</h2> <p>POWER-Zyme incrementa la resistencia de la planta. Elimina del medio los compuestos dañinos. Activa los microorganismos beneficiosos en el sustrato. Acelera la absorción de nutrientes. Apto para uso en tierra, coco e hidro.<br> Las raíces de las plantas renuevan su parte externa constantemente, repeliendo viejas células y sustituyéndolas por células nuevas. Cuanto más crece una raíz, mayor cantidad de células muertas se depositan en el medio. Este material es mayoritariamente celulosa.</p> <p>Solo algunos microorganismos especiales pueden sintetizar la celulosa y la convierten en azúcares asimilables por la planta; por lo que la planta los usa como alimento. De este modo, un producto inservible se reutiliza de forma óptima no solo para las plantas sino también para una micro-flora sana.</p> <p>Usando Powerzyme no se producen pudriciones ya que la fuente de estos problemas se transforma y reutiliza. Las partes de las plantas en putrefacción consumen oxígeno, pero con Powerzyme se mantiene el nivel máximo de oxígeno en el sustrato.</p>",
     "Meta description": "POWER-Zyme es un extracto de enzimas para plantas que estimula la actividad microbiológica del suelo y el crecimiento radical",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Powerzyme-500mL-HESI-1.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Powerzyme-500mL-HESI-1.jpg",
     "Category": "Hesi;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1331,7 +1331,7 @@ export const products = [
     "Summary": "<p>POWER-Zyme es un extracto de enzimas para plantas que estimula la actividad microbiológica del suelo y el crecimiento radical</p>",
     "Description": "<h2>Descripción</h2> <p>POWER-Zyme incrementa la resistencia de la planta. Elimina del medio los compuestos dañinos. Activa los microorganismos beneficiosos en el sustrato. Acelera la absorción de nutrientes. Apto para uso en tierra, coco e hidro.<br> Las raíces de las plantas renuevan su parte externa constantemente, repeliendo viejas células y sustituyéndolas por células nuevas. Cuanto más crece una raíz, mayor cantidad de células muertas se depositan en el medio. Este material es mayoritariamente celulosa.</p> <p>Solo algunos microorganismos especiales pueden sintetizar la celulosa y la convierten en azúcares asimilables por la planta; por lo que la planta los usa como alimento. De este modo, un producto inservible se reutiliza de forma óptima no solo para las plantas sino también para una micro-flora sana.</p> <p>Usando Powerzyme no se producen pudriciones ya que la fuente de estos problemas se transforma y reutiliza. Las partes de las plantas en putrefacción consumen oxígeno, pero con Powerzyme se mantiene el nivel máximo de oxígeno en el sustrato.</p>",
     "Meta description": "POWER-Zyme es un extracto de enzimas para plantas que estimula la actividad microbiológica del suelo y el crecimiento radical",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Powerzyme-500mL-HESI-1.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Powerzyme-500mL-HESI-1.jpg",
     "Category": "Hesi;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1346,7 +1346,7 @@ export const products = [
     "Summary": "<p>POWER-Zyme es un extracto de enzimas para plantas que estimula la actividad microbiológica del suelo y el crecimiento radical</p>",
     "Description": "<h2>Descripción</h2> <p>POWER-Zyme incrementa la resistencia de la planta. Elimina del medio los compuestos dañinos. Activa los microorganismos beneficiosos en el sustrato. Acelera la absorción de nutrientes. Apto para uso en tierra, coco e hidro.<br> Las raíces de las plantas renuevan su parte externa constantemente, repeliendo viejas células y sustituyéndolas por células nuevas. Cuanto más crece una raíz, mayor cantidad de células muertas se depositan en el medio. Este material es mayoritariamente celulosa.</p> <p>Solo algunos microorganismos especiales pueden sintetizar la celulosa y la convierten en azúcares asimilables por la planta; por lo que la planta los usa como alimento. De este modo, un producto inservible se reutiliza de forma óptima no solo para las plantas sino también para una micro-flora sana.</p> <p>Usando Powerzyme no se producen pudriciones ya que la fuente de estos problemas se transforma y reutiliza. Las partes de las plantas en putrefacción consumen oxígeno, pero con Powerzyme se mantiene el nivel máximo de oxígeno en el sustrato.</p>",
     "Meta description": "POWER-Zyme es un extracto de enzimas para plantas que estimula la actividad microbiológica del suelo y el crecimiento radical",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Powerzyme-500mL-HESI-1.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Powerzyme-500mL-HESI-1.jpg",
     "Category": "Hesi;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1361,7 +1361,7 @@ export const products = [
     "Summary": "<p>Es una mezcla <strong>altamente</strong> concentrada de vitaminas y aminoácidos que mejora de forma inmediata el metabolismo y la condición general de la planta.</p>",
     "Description": "<h2>Descripción</h2> <p>Esto resulta en un crecimiento fuerte y una floración abundante.</p> <p>SuperVit es apto para todas las plantas y aplicaciones porque incrementa la floración y la formación de resina, activa la floración y las hormonas de crecimiento, mejora la capacidad de la planta para absorber la luz y acelera el metabolismo.</p> <p>Está compuesto por 15 vitaminas y 10 aminoácidos que intervienen de forma decisiva en el metabolismo de las plantas.</p>",
     "Meta description": "Es una mezcla altamente concentrada de vitaminas y aminoácidos que mejora de forma inmediata el metabolismo y la condición general de la planta.",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Super-Vit-10mL-HESI.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Super-Vit-10mL-HESI.jpg",
     "Category": "Hesi;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1376,7 +1376,7 @@ export const products = [
     "Summary": "<p>Es una mezcla <strong>altamente</strong> concentrada de vitaminas y aminoácidos que mejora de forma inmediata el metabolismo y la condición general de la planta.</p>",
     "Description": "<h2>Descripción</h2> <p>Esto resulta en un crecimiento fuerte y una floración abundante.</p> <p>SuperVit es apto para todas las plantas y aplicaciones porque incrementa la floración y la formación de resina, activa la floración y las hormonas de crecimiento, mejora la capacidad de la planta para absorber la luz y acelera el metabolismo.</p> <p>Está compuesto por 15 vitaminas y 10 aminoácidos que intervienen de forma decisiva en el metabolismo de las plantas.</p>",
     "Meta description": "Es una mezcla altamente concentrada de vitaminas y aminoácidos que mejora de forma inmediata el metabolismo y la condición general de la planta.",
-    "Image URLs": "https://andinotech.cl/wp-content/uploads/2018/11/Super-Vit-10mL-HESI.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/Super-Vit-10mL-HESI.jpg",
     "Category": "Hesi;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1391,7 +1391,7 @@ export const products = [
     "Summary": "Algen Extract de House & Garden contiene un muy alto porcentaje de materia seca de Ascophyllum Nodosum. Este extracto de algas marinas de Noruega es rico en ambos macro nutrientes (como N, P, K, Ca, Mg & S) y micronutrientes (Mn, Cu, Fe y Zn). Algen Extract de House & Garden contiene un muy alto porcentaje de materia seca de Ascophyllum Nodosum. Este extracto de algas marinas de Noruega es rico en ambos macro nutrientes (como N, P, K, Ca, Mg & S) y micronutrientes (Mn, Cu, Fe y Zn). ...",
     "Description": "<div class=\"h5 text-uppercase index_title\"><span>Descripción</span></div><div class=\"product-description\"><p  ><span  >Algen Extract de House &amp; Garden contiene un muy alto porcentaje de materia seca de Ascophyllum Nodosum. Este extracto de algas marinas de Noruega es rico en ambos macro nutrientes (como N, P, K, Ca, Mg &amp; S) y micronutrientes (Mn, Cu, Fe y Zn). Además, contiene niveles muy altos de hormonas naturales, polisacáridos, aminoácidos y proteínas. Estas sustancias estimulan el crecimiento saludable de la raíz y un exuberante follaje verde. Esto hace que Algen Extract sea un importante suplemento a los nutrientes base.</span></p> <p  ><span  >Ayuda a la recuperación de la planta y al alivio del estrés.</span></p> <p  ><span  >Estimula la formación de vello radicular, lo que lleva a aumento en la absorción de oligoelementos.</span></p> <p  ><span  >Aumenta la resistencia a enfermedades y plagas.</span></p> <p  ><span  >Crecimiento más rápido y saludable.</span></p> <p  ><span  >ALGEN EXTRACT ESTIMULA EL CRECIMIENTO DEL SISTEMA RADICULAR PERMITIÉNDOLE A LA PLANTA ABSORBER MÁS NUTRIENTES. TAMBIÉN AUMENTA LA RESISTENCIA DE LA PLANTA Y ESTIMULA LA PRODUCCIÓN DE CLOROFILA. UN GRAN SISTEMA RADICULAR GARANTIZA UN MEJOR CRECIMIENTO DURANTE TODA LA TEMPORADA</span></p> <ul  ><li><span  >Dosificación: 0.1-0.5 ml / ltr</span></li> <li><span  >Disponible en: 250ml, 500ml, 1L y 5L.</span></li> <li><span  >Uso: Crecimiento y Floración</span></li> </ul></div>",
     "Meta description": "Algen Extract de House &amp; Garden contiene un muy alto porcentaje de materia seca de Ascophyllum Nodosum. Este extracto de algas marinas de Noruega e...",
-    "Image URLs": "https://notorious.cl/6989-large_default/algen-extract-500ml-house-garden.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/algen-extract-500ml-house-garden.jpg",
     "Category": "House & Garden;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1406,7 +1406,7 @@ export const products = [
     "Summary": "House & Garden Magic Green es un aerosol ¡extremadamente poderoso para fertilización foliar! Cuando se usa correctamente, las plantas mostrarán vigor increíble, ¡con resultados visibles dentro de 24 - 48 horas!House & Garden Magic Green es un aerosol ¡extremadamente poderoso para fertilización foliar! Cuando se usa correctamente, las plantas mostrarán vigor increíble, ¡con resultados visibles dentro de 24 - 48 horas!...",
     "Description": "<div class=\"h5 text-uppercase index_title\"><span>Descripción</span></div><div class=\"product-description\"><p  ><span  >House &amp; Garden Magic Green es un aerosol ¡extremadamente poderoso para fertilización foliar! Cuando se usa correctamente, las plantas mostrarán vigor increíble, ¡con resultados visibles dentro de 24 - 48 horas! Magic Green se puede usar con eficacia desde esquejes sin enraizar hasta plantas maduras. Puede restaurar efectivamente el color natural y la vitalidad a las hojas mediante el fortalecimiento del tejido vascular y promoviendo procesos fotosintéticos. Magic Green actúa como una capa defensiva para la planta, ayudando a la resistencia de los cultivos a las plagas y las enfermedades. Para obtener mejores resultados rocía Magic Green en tus plantas cuando las luces están apagadas.</span></p> <p  ><span  >Uso desde plántulas hasta que se establezcan y desarrollen los sitios florales.</span></p> <p  ><span  >Mejora la vitalidad del crecimiento de la planta</span></p> <p  ><span  >Respuesta rápida y captación ultra eficiente</span></p> <p  ><span  >Ayudas en mecanismos de defensa de plantas</span></p> <p  ><span  >Remedia deficiencias en ciertas variedades</span></p> <p  ><span  >Hoja enferma =&gt; Aplicar Magic Green =&gt; Hoja sana</span></p> <p  ></p> <ul  ><li><span  >Dosis: 2,5ml / ltr</span></li> <li><span  >Disponible en 500ml y 1lt</span></li> <li><span  >Uso: Crecimiento</span></li> </ul></div>",
     "Meta description": "House &amp; Garden Magic Green es un aerosol ¡extremadamente poderoso para fertilización foliar! Cuando se usa correctamente, las plantas mostrarán vig...",
-    "Image URLs": "https://notorious.cl/7002-large_default/magic-green-250ml-house-garden.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/magic-green-250ml-house-garden.jpg",
     "Category": "House & Garden;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1421,7 +1421,7 @@ export const products = [
     "Summary": "<p><strong  >Bud XL de House and Garden es un aditivo innovador con una propiedad única</strong><span  >, la cual </span><strong  >consistente en utilizar los azúcares de las hojas de la planta a modo de enzimas y transportarlo hasta la flor o el fruto</strong><span  >. Es un</span><strong  > potenciador de floración</strong><span  > que ayuda a extraer los azúcares de las brácteas (órgano foliar) grandes, lo que </span><strong  >consigue más azúcar y energía para concentrarse en la producción de flores y frutos</strong><span  >. De este modo, </span><strong  >el rendimiento, la robustez y la dulzura de la cosecha aumentan</strong><span  >. </span><strong  >Las flores se hacen más grandes y mejorar el color y la calidad.</strong></p>",
     "Description": "",
     "Meta description": "Bud XL de House and Garden es un aditivo innovador con una propiedad única, la cual consistente en utilizar los azúcares de las hojas de la planta a modo de enzimas y transportarlo hasta la flor o el fruto. Es un potenciador de floración que ayuda a extraer los azúcares de las brácteas (órgano foliar) grandes, lo que consigue más azúcar y energía para concentrarse en la producción de flores y frutos. De este modo, el rendimiento, la robustez y la dulzura de la cosecha aumentan. Las flores se hacen má...",
-    "Image URLs": "https://astrogrowshop.cl/10986-large_default/house-garden-bud-xl-250ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/house-garden-bud-xl-250ml.jpg",
     "Category": "House & Garden;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1436,7 +1436,7 @@ export const products = [
     "Summary": "<p  ><span  >Drip Clean de House&amp;Garden</span> es un componente fabricado para usar después de añadir los nutrientes pertinentes. Es un producto ideal para limpiar las <span  >sales sobrantes del agua</span> y del sustrato por lo que tendremos unas plantas más estables y que se alimentan de manera equilibrada.</p><p  >Si no se eliminan dichas sales, la planta puede saturar sus raíces haciendo que no se alimente correctamente <span  >mostrando carencias y excesos rápidamente.</span></p><p  >Aplicar sólo <span  >0,4ml por litro</span> de solución como aditivo en cada comida.</p>",
     "Description": "",
     "Meta description": "Drip Clean de House&amp;Garden es un componente fabricado para usar después de añadir los nutrientes pertinentes. Es un producto ideal para limpiar las sales sobrantes del agua y del sustrato por lo que tendremos unas plantas más estables y que se alimentan de manera equilibrada. Si no se eliminan dichas sales, la planta puede saturar sus raíces haciendo que no se alimente correctamente mostrando carencias y excesos rápidamente. Aplicar sólo 0,4ml por litro de solución como aditivo en cada comida.",
-    "Image URLs": "https://astrogrowshop.cl/10988-large_default/house-garden-drip-clean-250ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/house-garden-drip-clean-250ml.jpg",
     "Category": "House & Garden;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1451,7 +1451,7 @@ export const products = [
     "Summary": "<p  >Este producto rico en aminoácidos es el <strong  >extracto de semillas</strong> que contiene, el cual <strong  >aporta unos beneficios increíbles</strong> en los cultivos tratados. Estimula el <strong  >desarrollo de las raíces,</strong> el <strong  >crecimiento</strong> general y más adelante la <strong  >producción de flores de calidad</strong>.</p><p  >Por otro lado el <strong  >extracto de algas</strong> con el que también está formulado, aporta un <strong  >gran vigor</strong> y <strong  >vitalidad</strong> en el desarrollo vegetativo y también <strong  >mejora la calidad</strong> del producto final.</p>",
     "Description": "",
     "Meta description": "Este producto rico en aminoácidos es el extracto de semillas que contiene, el cual aporta unos beneficios increíbles en los cultivos tratados. Estimula el desarrollo de las raíces, el crecimiento general y más adelante la producción de flores de calidad. Por otro lado el extracto de algas con el que también está formulado, aporta un gran vigor y vitalidad en el desarrollo vegetativo y también mejora la calidad del producto final.",
-    "Image URLs": "https://astrogrowshop.cl/10984-large_default/house-garden-amino-250ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/house-garden-amino-250ml.jpg",
     "Category": "House & Garden;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1466,7 +1466,7 @@ export const products = [
     "Summary": "<p><strong  >Roots Excelurator Gold </strong><span  >de</span><strong  > House&amp;Garden</strong><span  > es un estimulador de raíces concentrado y de los más eficaces del mercado, con resultados visibles desde el primer día y con una doble acción, ya que además de favorecer el desarrollo de las raíces y el crecimiento vegetativo, refuerza la defensa de las plantas y las protegen frente a enfermedades y otros ataques externos, además que es capaz de curar la pudrición de la raíz existente. El resultado es un cultivo con plantas más saludables, un crecimiento más abundante y con mayor vigor.</span></p>",
     "Description": "",
     "Meta description": "Roots Excelurator Gold de House&amp;Garden es un estimulador de raíces concentrado y de los más eficaces del mercado, con resultados visibles desde el primer día y con una doble acción, ya que además de favorecer el desarrollo de las raíces y el crecimiento vegetativo, refuerza la defensa de las plantas y las protegen frente a enfermedades y otros ataques externos, además que es capaz de curar la pudrición de la raíz existente. El resultado es un cultivo con plantas más saludables, un crecimiento más...",
-    "Image URLs": "https://astrogrowshop.cl/10998-large_default/house-garden-roots-excelurator-gold-250ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/house-garden-roots-excelurator-gold-250ml.jpg",
     "Category": "House & Garden;Marca;Enraizantes;Fertilizantes y Abonos;"
   },
   {
@@ -1481,7 +1481,7 @@ export const products = [
     "Summary": "<p><span  >Soil A+B de House &amp; Garden</span><span  > es un nutriente partido en dos partes para que podamos usarlo de la manera más conveniente posible. Esta diseñado </span><span  >para suelos que no contengan cal,</span><span  > y además podremos añadir otros aditivos junto a él pues se ha formulado especialmente bajo en EC.</span></p>",
     "Description": "",
     "Meta description": "Soil A+B de House &amp; Garden es un nutriente partido en dos partes para que podamos usarlo de la manera más conveniente posible. Esta diseñado para suelos que no contengan cal, y además podremos añadir otros aditivos junto a él pues se ha formulado especialmente bajo en EC.",
-    "Image URLs": "https://astrogrowshop.cl/11000-large_default/house-garden-soil-ab-1l.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/house-garden-soil-ab-1l.jpg",
     "Category": "House & Garden;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -1496,7 +1496,7 @@ export const products = [
     "Summary": "<p  >El <strong  >Shooting Powder de House &amp; Garden</strong>, es probablemente uno de los <strong  >engordes para plantas más efectivos</strong> que se pueden encontrar en el mercado. Sobre todo para las <strong  >ultimas 3-4 semanas de floración</strong>, donde ningún otro crea el efecto que produce este increíble producto.</p><p  >Su formulación está compuesta a base de un <strong  >porcentaje específico de P y K,</strong> junto con la <strong  >adición de CO2</strong> para que el efecto sea más efectivo.</p>",
     "Description": "",
     "Meta description": "El Shooting Powder de House &amp; Garden, es probablemente uno de los engordes para plantas más efectivos que se pueden encontrar en el mercado. Sobre todo para las ultimas 3-4 semanas de floración, donde ningún otro crea el efecto que produce este increíble producto. Su formulación está compuesta a base de un porcentaje específico de P y K, junto con la adición de CO2 para que el efecto sea más efectivo.",
-    "Image URLs": "https://astrogrowshop.cl/10999-large_default/house-garden-shooting-powder-65-gr.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/house-garden-shooting-powder-65-gr.jpg",
     "Category": "House & Garden;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1511,7 +1511,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">Balastro electrónico regulable 600 W Lumatek Factor de potencia: &gt;0.99 Rango de voltaje multiple: 175~275V Lámpara CCF: &lt;1.7 Frecuencia de trabajo: alta frecuencia. No produce ruido, ni vibraciones. Rango de temperatura funcionamiento óptimo: -25~40°C(-13~104°F) Humedad: capaz de trabajar en humedad relativa de 0% a 90%, sin condensación.250W - 400W - 600W - 600SL Voltaje: 240V 50/60Hz Corriente: 2.70A Potencia de entrada: 630W Potencia de salida: 600W Distorsión armonica: &lt;8%</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Balastro electrónico regulable 600 W Lumatek Factor de potencia: &gt;0.99 Rango de voltaje multiple: 175~275V Lámpara CCF: &lt;1.7 Frecuencia de trabajo: alta frecuencia. No produce ruido, ni vibraciones. Rango de temperatura funcionamiento óptimo: -25~40°C(-13~104°F) Humedad: capaz de trabajar en humedad relativa de 0% a 90%, sin condensación.250W - 400W - 600W - 600SL Voltaje: 240V 50/60Hz Corriente: 2.70A Potencia de entrada: 630W Potencia de salida: 600W Distorsión armonica: &lt;8%</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/1479-large_default/balastro-lumatek-electronico-600w-con-dimmer.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/balastro-lumatek-electronico-600w-con-dimmer.jpg",
     "Category": "Balastros;Iluminación;"
   },
   {
@@ -1526,7 +1526,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">Balastro electrónico regulable 400 W Lumatek Factor de potencia: &gt;0.99 Rango de voltaje multiple: 175~275V Lámpara CCF: &lt;1.7 Frecuencia de trabajo: alta frecuencia. No produce ruido, ni vibraciones. Rango de temperatura funcionamiento óptimo: -25~40°C(-13~104°F) Humedad: capaz de trabajar en humedad relativa de 0% a 90%, sin condensación.250W - 250SL - 400W - 400SL Voltaje: 230V 50/60Hz Corriente: 1.90A Potencia de entrada: 440W Potencia de salida: 420W Distorsión armonica: &lt;8%</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Balastro electrónico regulable 400 W Lumatek Factor de potencia: &gt;0.99 Rango de voltaje multiple: 175~275V Lámpara CCF: &lt;1.7 Frecuencia de trabajo: alta frecuencia. No produce ruido, ni vibraciones. Rango de temperatura funcionamiento óptimo: -25~40°C(-13~104°F) Humedad: capaz de trabajar en humedad relativa de 0% a 90%, sin condensación.250W - 250SL - 400W - 400SL Voltaje: 230V 50/60Hz Corriente: 1.90A Potencia de entrada: 440W Potencia de salida: 420W Distorsión armonica: &lt;8%</div>",
     "Meta description": "",
-    "Image URLs": "http://siembratienda.com/1478-large_default/balastro-lumatek-electronico-400w-con-dimmer.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/balastro-lumatek-electronico-400w-con-dimmer.jpg",
     "Category": "Balastros;Iluminación;"
   },
   {
@@ -1541,7 +1541,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">MAMMOTH P : es un bioestimulante microbiano con patente pendiente probado en la universidad que eleva naturalmente la disponibilidad de fósforo y micro-nutrientes para apoyar el crecimiento sano y vigoroso de las plantas. Para uso durante las etapas vegetativa y de floración en todos los medios, desde mezclas hidropónicas a macetas orgánicas y a suelos.Para uso durante las etapas vegetativa y de floración en todos los medios, desde mezclas hidropónicas a macetas orgánicas y a suelos, esto da como resultado un uso más eficiente de fertilizantes y nutrientes del suelo por parte de las plantas.Las pruebas en la universidad han demostrado un crecimiento más rápido, más vigoroso y más consistente para una variedad de plantas, desde césped hasta vegetales y botánicos medicinales...s.</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">MAMMOTH P es un bioestimulante microbiano con patente pendiente probado en la universidad que eleva naturalmente la disponibilidad de fósforo y micronutrientes para apoyar el crecimiento sano y vigoroso de las plantas.</div>",
     "Meta description": "MAMMOTH P : es un bioestimulante microbiano con patente pendiente probado en la universidad que eleva naturalmente la disponibilidad de fósforo y micro-nutrientes para apoyar el crecimiento sano y vigoroso de las plantas. Para uso durante las etapas vegetativa y de floración en todos los medios, desde mezclas hidropónicas a macetas orgánicas y a suelos.Para uso durante las etapas vegetativa y de floración en todos los medios, desde mezclas hidropónicas a macetas orgánicas y a suelos, esto da como res...",
-    "Image URLs": "http://siembratienda.com/1389-large_default/fertilizante-mammothp-120ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/fertilizante-mammothp-120ml.jpg",
     "Category": "Mammoth;Marca;Potenciadores y Aditivos;Microorganismos;Fertilizantes y Abonos;"
   },
   {
@@ -1556,7 +1556,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">MAMMOTH P : es un bioestimulante microbiano con patente pendiente probado en la universidad que eleva naturalmente la disponibilidad de fósforo y micro-nutrientes para apoyar el crecimiento sano y vigoroso de las plantas. Para uso durante las etapas vegetativa y de floración en todos los medios, desde mezclas hidropónicas a macetas orgánicas y a suelos.Para uso durante las etapas vegetativa y de floración en todos los medios, desde mezclas hidropónicas a macetas orgánicas y a suelos, esto da como resultado un uso más eficiente de fertilizantes y nutrientes del suelo por parte de las plantas.Las pruebas en la universidad han demostrado un crecimiento más rápido, más vigoroso y más consistente para una variedad de plantas, desde césped hasta vegetales y botánicos medicinales...</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">MAMMOTH P es un bioestimulante microbiano con patente pendiente probado en la universidad que eleva naturalmente la disponibilidad de fósforo y micronutrientes para apoyar el crecimiento sano y vigoroso de las plantas.</div>",
     "Meta description": "MAMMOTH P : es un bioestimulante microbiano con patente pendiente probado en la universidad que eleva naturalmente la disponibilidad de fósforo y micro-nutrientes para apoyar el crecimiento sano y vigoroso de las plantas. Para uso durante las etapas vegetativa y de floración en todos los medios, desde mezclas hidropónicas a macetas orgánicas y a suelos.Para uso durante las etapas vegetativa y de floración en todos los medios, desde mezclas hidropónicas a macetas orgánicas y a suelos, esto da como res...",
-    "Image URLs": "http://siembratienda.com/1390-large_default/fertilizante-mammothp-250ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/fertilizante-mammothp-250ml.jpg",
     "Category": "Mammoth;Marca;Potenciadores y Aditivos;Microorganismos;Fertilizantes y Abonos;"
   },
   {
@@ -1571,7 +1571,7 @@ export const products = [
     "Summary": "Fertilizante Micoroot via riego 10 grs...",
     "Description": "<div class=\"h5 text-uppercase index_title\"><span>Descripción</span></div><div class=\"product-description\"><p>Fertilizante Micoroot via riego 10 grs</p></div>",
     "Meta description": "Fertilizante Micoroot via riego 10 grs...",
-    "Image URLs": "https://notorious.cl/7332-large_default/micoroot-via-riego-10-grs.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/micoroot-via-riego-10-grs.jpg",
     "Category": "Micoroot;Marca;Microorganismos;Enraizantes;Fertilizantes y Abonos;"
   },
   {
@@ -1586,7 +1586,7 @@ export const products = [
     "Summary": "Nuestras Endomicorrizas Arbusculares se establecen en el interior de la raíz, aumentando la capacidad de absorción ,se alimenta mutuamente con la planta a traves del proceso de fotosíntesis, tambien protege a la planta de hongos patogenos por lo que es la mejor manera de prevenir futuros problemas.Trabajar y/o agregar nuestros productos no reemplaza los alimentos base, los potencia.Estudios comprueban que trabajar con microorganismos puede incrementar la cosecha hasta en un 30% utilizando ...",
     "Description": "<div class=\"h5 text-uppercase index_title\"><span>Descripción</span></div><div class=\"product-description\"><div  ><span  ><span  >Micoroot:</span> Nuestras Endomicorrizas Arbusculares se establecen en el interior de la raíz, aumentando la capacidad de absorción ,se alimenta mutuamente con la planta a traves del proceso de fotosíntesis, tambien protege a la planta de hongos patogenos por lo que es la mejor manera de prevenir futuros problemas.</span></div> <div  ></div> <div  ><span  >Trabajar y/o agregar nuestros productos no reemplaza los alimentos base, los potencia.</span></div> <div  ><span  >Estudios comprueban que trabajar con microorganismos puede incrementar la cosecha hasta en un 30% utilizando menos fertilizante.</span></div> <div  ><span  >Nuestros microorganismos son compatibles con la gran mayoría de los fertilizantes del mercado.</span></div></div>",
     "Meta description": "Micoroot: Nuestras Endomicorrizas Arbusculares se establecen en el interior de la raíz, aumentando la capacidad de absorción ,se alimenta mutuamente co...",
-    "Image URLs": "https://notorious.cl/7329-large_default/micoroots-5-grs.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/micoroots-5-grs.jpg",
     "Category": "Micoroot;Marca;Microorganismos;Enraizantes;Fertilizantes y Abonos;"
   },
   {
@@ -1601,7 +1601,7 @@ export const products = [
     "Summary": "<p><strong>Happy Clover</strong> de Micoroot son semillas de trébol blanco inoculadas con rhizobium que acompañan tu planta en una relación simbiótica. Ayuda a fijar el nitrógeno en el suelo, mantiene la humedad previniendo la erosión, potencia la labor de las micorrizas y le brinda oxígeno a la vida del suelo.</p>",
     "Description": "",
     "Meta description": "Happy Clover son semillas de trébol blanco inoculadas con rhizobium que acompañan tu planta, fijan el nitrógeno en el suelo y potencian las micorrizas.",
-    "Image URLs": "https://astrogrowshop.cl/8756-medium_default/micoroots-happy-clover.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/micoroots-happy-clover.jpg",
     "Category": "Micoroot;Marca;Microorganismos;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1616,7 +1616,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">El déficit de calcio provoca un cese del crecimiento de los tejidos de las raíces y de los tallos, debido a su importante papel en la formación de la membrana de las células vegetales y a la regulación del funcionamiento de absorción de nutrientes, con Miner Calcio puedes evitarlo, además se puede añadir al agua osmotizada junto con Miner Magnesio para proporcionar la dureza adecuada a esta, actuando como solución taponadora y evitando los cambios bruscos de pH. El calcio es un nutriente esencial para las plantas. Algunos de sus funciones son: promover el alargamiento celular, participar en los procesos metabólicos de la absorción de otros nutrientes, fortalecer la estructura de la pared celular, participar en los procesos enzimáticos y hormonales....</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">El déficit de calcio provoca un cese del crecimiento de los tejidos de las raíces y de los tallos, debido a su importante papel en la formación de la membrana de las células vegetales y a la regulación del funcionamiento de absorción de nutrientes, con Miner Calcio puedes evitarlo, además se puede añadir al agua osmotizada junto con Miner Magnesio para proporcionar la dureza adecuada a esta, actuando como solución taponadora y evitando los cambios bruscos de pH. El calcio es un nutriente esencial para las plantas. Algunos de sus funciones son: promover el alargamiento celular, participar en los procesos metabólicos de la absorción de otros nutrientes, fortalecer la estructura de la pared celular, participar en los procesos enzimáticos y hormonales, ayudar a proteger la planta contra el estrés provocado por altas temperaturas, y también proteger la planta contra las enfermedades, favorecer la calidad de los frutos.</div>",
     "Meta description": "El déficit de calcio provoca un cese del crecimiento de los tejidos de las raíces y de los tallos, debido a su importante papel en la formación de la membrana de las células vegetales y a la regulación del funcionamiento de absorción de nutrientes, con Miner Calcio puedes evitarlo, además se puede añadir al agua osmotizada junto con Miner Magnesio para proporcionar la dureza adecuada a esta, actuando como solución taponadora y evitando los cambios bruscos de pH. El calcio es un nutriente esencial par...",
-    "Image URLs": "http://siembratienda.com/219-large_default/miner-calcio-1l-12-udscaja.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/miner-calcio-1l-12-udscaja.jpg",
     "Category": "Miner;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1631,7 +1631,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">La deficiencia de magnesio puede ser un factor importante que limita la producción de cultivos. La carencia de magnesio se corrige añadiendo Miner Magnesio en el riego. Además se puede añadir al agua osmotizada junto con Miner Calcio para proporcionar la dureza adecuada a esta, actuando como solución taponadora y evitando los cambios bruscos de pH. El magnesio (Mg), como parte del grupo de nutrientes esenciales para las plantas, es el elemento constituyente principal de la molécula de clorofila, fundamental en la fotosíntesis. Tiene un efecto activador sobre diversas encimas.</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">La deficiencia de magnesio puede ser un factor importante que limita la producción de cultivos. La carencia de magnesio se corrige añadiendo Miner Magnesio en el riego. Además se puede añadir al agua osmotizada junto con Miner Calcio para proporcionar la dureza adecuada a esta, actuando como solución taponadora y evitando los cambios bruscos de pH. El magnesio (Mg), como parte del grupo de nutrientes esenciales para las plantas, es el elemento constituyente principal de la molécula de clorofila, fundamental en la fotosíntesis. Tiene un efecto activador sobre diversas encimas.</div>",
     "Meta description": "La deficiencia de magnesio puede ser un factor importante que limita la producción de cultivos. La carencia de magnesio se corrige añadiendo Miner Magnesio en el riego. Además se puede añadir al agua osmotizada junto con Miner Calcio para proporcionar la dureza adecuada a esta, actuando como solución taponadora y evitando los cambios bruscos de pH. El magnesio (Mg), como parte del grupo de nutrientes esenciales para las plantas, es el elemento constituyente principal de la molécula de clorofila, fund...",
-    "Image URLs": "http://siembratienda.com/225-large_default/miner-magnesio-1l-12udscaja.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/miner-magnesio-1l-12udscaja.jpg",
     "Category": "Miner;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1646,7 +1646,7 @@ export const products = [
     "Summary": "",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "https://astrogrowshop.cl/11672-large_default/ocb-papelillo-ocb-tips-premium-1-unidad.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/ocb-papelillo-ocb-tips-premium-1-unidad.jpg",
     "Category": "Papeles y Celulosas;Enrolado;Smoke Shop;"
   },
   {
@@ -1661,7 +1661,7 @@ export const products = [
     "Summary": "Especialmente para esta fase del cultivo Plagron ha desarrollado Alga de Floracin. Un nutriente orgnico-mineral lquido con una combinacin minuciosamente balanceada de fsforo y potasio absorbibles directamente por la planta, que optimiza la floracin sobre una base puramente natural....",
     "Description": "<div class=\"h5 text-uppercase index_title\"><span>Descripción</span></div><div class=\"product-description\"><p>Especialmente para esta fase del cultivo Plagron ha desarrollado Alga de Floracin. Un nutriente orgnico-mineral lquido con una combinacin minuciosamente balanceada de fsforo y potasio absorbibles directamente por la planta, que optimiza la floracin sobre una base puramente natural., El fsforo contenido en Alga de Floracin de Plagron permite un mejor desarrollo de la raz y es la base de una floracin fuerte y abundante. El potasio se encarga de transportar los nutrientes a todas las partes de la planta y aumenta su resistencia en trminos generales., Alga de Floracin de Plagron da a sus plantas ese empujoncito que necesitan para arrancar. Alga de Floracin de Plagron es una cuestin de dar y recibir.</p></div>",
     "Meta description": "Especialmente para esta fase del cultivo Plagron ha desarrollado Alga de Floracin. Un nutriente orgnico-mineral lquido con una combinacin minuciosament...",
-    "Image URLs": "https://notorious.cl/2921-large_default/alga-bloom-1-litro-plagron.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/alga-bloom-1-litro-plagron.jpg",
     "Category": "Plagron;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -1676,7 +1676,7 @@ export const products = [
     "Summary": "Fertilizando Alga-Grow 1 Lt Marca Plagron...",
     "Description": "<div class=\"h5 text-uppercase index_title\"><span>Descripción</span></div><div class=\"product-description\"><p>Tanto los cultivadores aficionados, como los profesionales, ambicionan obtener el <strong>mejor</strong> resultado en el <strong>menor</strong> tiempo posible. Para que un cultivo d buenos frutos, es necesario echarle una mano a la madre naturaleza. Y, por supuesto, debe ser en forma <strong>natural</strong>, Para ello, Plagron ha desarrollado el Alga de Crecimiento, un producto especial para esta importante fase del cultivo.</p> <p>Alga de <strong>Crecimiento</strong> es una <strong>combinación</strong> minuciosamente balanceada de nitrógeno, fósforo y potasio absorbible directamente por la planta, que <strong>optimiza</strong> su <strong>crecimiento</strong> sobre una base puramente natural. El nitrógeno contenido en Alga de Crecimiento de Plagron hace que la planta crezca en forma optima y uniforme. El fósforo permite un mejor <strong>desarrollo</strong> de la raíz y es la base de una floración fuerte y abundante. El potasio se encarga de transportar los <strong>nutrientes</strong> a todas las partes de la planta y aumenta su <strong>resistencia</strong> en términos generales., Con Alga de Crecimiento de Tanto los cultivadores aficionados, como los profesionales, ambicionan obtener el <strong>mejor resultado</strong> en el <strong>menor tiempo</strong> posible. Para que un cultivo d buenos frutos, es necesario echarle una mano a la madre naturaleza. Y, por supuesto, debe ser en forma natural., Para ello, Plagron ha desarrollado el Alga de Crecimiento, un producto especial para esta importante fase del cultivo.</p> <p></p></div>",
     "Meta description": "Fertilizando Alga-Grow 1 Lt Marca Plagron...",
-    "Image URLs": "https://notorious.cl/4198-large_default/alga-grow-1-litro-plagron.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/alga-grow-1-litro-plagron.jpg",
     "Category": "Plagron;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -1691,7 +1691,7 @@ export const products = [
     "Summary": "PK 13-14 de Plagron es un fertilizante que se añade a los fertilizantes básicos para conseguir un engorde monstruoso de los cogollos que se usa en la segunda etapa de la floración.PK 13-14 de Plagron es un fertilizante que se añade a los fertilizantes básicos para conseguir un engorde monstruoso de los cogollos que se usa en la segunda etapa de la floración....",
     "Description": "<div class=\"h5 text-uppercase index_title\"><span>Descripción</span></div><div class=\"product-description\"><p  ><span  ><strong  >PK 13-14</strong> de <strong  >Plagron</strong> es un potente abono que se añade en conjunto con las bases de fertilizantes para promover un <strong  >crecimiento explosivo </strong>de las flores que se usa en la segunda etapa de la floración. Conseguiremos que los<strong  > cogollos aumenten de peso y densidad</strong> para que la cosecha gane en <strong  >cantidad y calidad.</strong></span></p> <p  ><span  >Cuando llegamos a la fase de engorde, nuestras plantas necesitan <strong  >un aporte extra de fósforo y potasio</strong> (PK) con el que formar sus frutos más gordos<span  > </span>en la fase final de la planta, por lo que consumen más que durante todo el ciclo anterior junto. <strong  >Mezcla PK 13/14 con tu abono base</strong>, sea Terra Cocos o Hydro A+B, en la fase de engorde de tus plantas; más o menos <strong  >desde la 4ª semana hasta el final del cultivo</strong>. Verás cómo tus flores llegan a ser mucho más gordas y pesadas que de costumbre.</span></p> <p  ><span  ><strong  >El fósforo y el potasio </strong>intervienen en numerosos procesos metabólicos de las plantas, además de formar parte directamente<strong  > de las paredes celulares y de la carga de azúcares del núcleo celular; </strong>se consideran esenciales para formar flores y conseguir <strong  >un tamaño y peso más elevados en nuestro producto final.</strong></span></p> <p  ><span  ><strong  >Dosis y modo de empleo</strong> de Pk 13/14 de Plagron:</span></p> <ul  ><li  >Añade 1,5ml por litro durante la fase de engorde de nuestras plantas, en conjunto con Terra Bloom, Cocos A+B o Hydro.</li> <li  >No conviene sobrepasar la dosis indicada, podríamos sobre-fertilizar nuestras plantas.</li> </ul><p  ><span  ><strong  >Composición</strong> de PK 13 14 de Plagron:</span></p> <p  ><strong  >NPK 0-13-14</strong></p> <ul  ><li  >13% Óxido de fósforo.</li> <li  >14% Óxido de potasio.</li> </ul></div>",
     "Meta description": "PK 13-14 de Plagron es un fertilizante que se añade a los fertilizantes básicos para conseguir un engorde monstruoso de los cogollos que se usa en la s...",
-    "Image URLs": "https://notorious.cl/3338-large_default/pk-13-14-500ml-plagron.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/pk-13-14-500ml-plagron.jpg",
     "Category": "Plagron;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1706,7 +1706,7 @@ export const products = [
     "Summary": "Power Roots de Plagron estimula las raíces de tus plantas de forma 100% orgánica, acelera el crecimiento y mejora la floración formando un buen sistema radicular.Power Roots de Plagron estimula las raíces de tus plantas de forma 100% orgánica, acelera el crecimiento y mejora la floración formando un buen sistema radicular....",
     "Description": "<div class=\"h5 text-uppercase index_title\"><span>Descripción</span></div><div class=\"product-description\"><p  ><span  ><span  >Power Roots</span> de <span  >Plagron</span> <span  >es un estimulador de la raíz <span  >100% orgánico</span> que <span  >acelera el crecimiento y mejora la floración,</span>formando un buen sistema radicular. Con este producto <span  >tus plantas desarrollarán enormemente sus raíces</span> y asimilarán grandes cantidades de nutrientes, lo que <span  >permitirá una explosión en el crecimiento</span> y una floración exuberante y rapidísima.</span></span></p> <p  ><span  >Cuantas más raíces tengamos, más planta tendremos y <span  >más resistente será a todo tipo de problemas.</span> Es muy importante para la correcta formación de nuestras plantas que la zona radicular sea una buena masa y esté sana. Si no hay raíces sanas la planta no se alimenta bien.</span></p> <p  ><span  ><span  >Power Roots</span> se añade a los fertilizantes básicos como complemento <span  >para mejorar el rendimiento en nuestros cultivos</span>de marihuana. Generalmente se utiliza <span  >en combinación con una base,</span> como <span  >Terra A+B</span>, <span  >Cocos A+B</span> o <span  >Hydro A+B,</span>durante las primeras semanas de crecimiento, tras cada trasplante, y en las primeras semanas de floración.</span></p> <p  ><span  >Consulta la sencilla tabla de cultivo de <span  >Plagron</span> para darles a tus plantas <span  >los fertilizantes en las cantidades y en los tiempos óptimos</span> como lo haría un profesional.</span></p> <p  ><span  ><span  >Dosis y modo de empleo</span> de Power Roots:</span></p> <ul  ><li  >Añadiremos 1ml por litro durante las dos primeras semanas del crecimiento y repetir dos semanas el tratamiento en cada trasplante.</li> <li  >Usa la misma dosis cuando la pasemos a floración y la trasplantemos en <span class=\"apple-converted-space\"  > </span>la maceta definitiva .</li> </ul><p  ><span  ><span  >Composición</span> de Power Roots de Plagron:</span></p> <p  ><span  >NPK 1-0-2</span></p> <ul  ><li  >Ácidos húmicos.</li> <li  >Extracto de algas marinas.</li> <li  >Ácido ascórbico.</li> <li  >Aminoácidos.</li> <li  >Vitamina E.</li> <li  >Vitamina B1.</li> </ul></div>",
     "Meta description": "Power Roots de Plagron estimula las raíces de tus plantas de forma 100% orgánica, acelera el crecimiento y mejora la floración formando un buen sistema...",
-    "Image URLs": "https://notorious.cl/3393-large_default/power-roots-250-ml-plagron.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/power-roots-250-ml-plagron.jpg",
     "Category": "Plagron;Marca;Enraizantes;Fertilizantes y Abonos;"
   },
   {
@@ -1721,7 +1721,7 @@ export const products = [
     "Summary": "Alga Grow de Plagron es un excelente fertilizante natural, de crecimiento, 100% orgánico que proporciona una fuente de nitrógeno y oligoelementos para las primeras semanas de vida de las plantas.Alga Grow de Plagron es un excelente fertilizante natural, de crecimiento, 100% orgánico que proporciona una fuente de nitrógeno y oligoelementos para las primeras semanas de vida de las plantas....",
     "Description": "<div class=\"h5 text-uppercase index_title\"><span>Descripción</span></div><div class=\"product-description\"><p  ><span  ><span  >Alga Grow</span> de <span  >Plagron</span> es un abono base de crecimiento <span  >100% orgánico para tus plantas de marihuana,</span> que proporciona una rica fuente de nitrógeno y abundantes oligoelementos <span  >para acelerar el desarrollo en la primera etapa del cultivo.</span></span></p> <p  ><span  >Se trata de un <span  >producto orgánico con ingredientes naturales</span> que no son completamente solubles en agua; <span  >evitaremos utilizarlo en sistemas de riego por goteo</span>, ya que podría ocasionar accidentes y poner en riesgo nuestro cultivo.</span></p> <p  ><span  >Fertilizante de crecimiento<span  > hecho a base de algas</span>, que le dará los nutrientes necesarios <span  >para tus plantas en la fase de crecimiento</span>. Cuando uses <span  >Alga Grow</span> de <span  >Plagron</span>, tendremos un<span  > </span> crecimiento rápido <span  > </span>de la materia vegetal, a la vez que se forman las ramas y troncos más gruesos, capaces de aguantar todo el peso de la floración. <span  >Tus plantas crecerán a un buen ritmo</span> y estaremos seguros de no dejar residuos, ya que el <span  >Alga Grow</span> es<span  > totalmente biológico y fácilmente absorbible</span> por nuestras plantas.</span></p> <p  ><span  >Puedes combinar esta base de crecimiento con un estimulador de raíces como <span  >Power Roots,</span> y sustituirlo por <span  >Alga Bloom</span> y<span  > Green Sensation</span> en la fase de floración. Consulta el completo programa de cultivo de <span  >Plagron</span> <span  >para ajustar mejor los tiempos y las dosis en tu cultivo.</span></span></p> <p  ><span  ><span  >Dosis y modo de empleo</span> de Alga Grow de Plagron:</span></p> <ul  ><li  >Utiliza 4ml por litro de Alga Grow en tu agua de riego durante la fase de crecimiento, repetir riego sí, riego no.</li> <li  >Usar desde que nuestra planta tiene 3 pares de hojas hasta que las paremos a floración, o cambiemos de estación y comience la floración en tu zona de cultivo.</li> </ul><p  ><span  ><span  >Composición</span> de Alga Grow de Plagron:</span></p> <ul  ><li  >Extractos de algas.</li> <li  >Vinaza de remolacha.</li> <li  >Aminoácidos.</li> </ul></div>",
     "Meta description": "Alga Grow de Plagron es un excelente fertilizante natural, de crecimiento, 100% orgánico que proporciona una fuente de nitrógeno y oligoelementos para ...",
-    "Image URLs": "https://notorious.cl/4478-large_default/alga-grow-250ml-plagron.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/alga-grow-250ml-plagron.jpg",
     "Category": "Plagron;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -1736,7 +1736,7 @@ export const products = [
     "Summary": "Alga Bloom de Plagron es un abono de floración con ingredientes 100% orgánicos a partir de algas naturales, que te dará todo lo necesario para a tus plantas en la fase de floración, ideal para obtener buenos cogollos ecológicos.Alga Bloom de Plagron es un abono de floración con ingredientes 100% orgánicos a partir de algas naturales, que te dará todo lo necesario para a tus plantas en la fase de floración, ideal para obtener buenos cogollos ecológicos....",
     "Description": "<div class=\"h5 text-uppercase index_title\"><span>Descripción</span></div><div class=\"product-description\"><p  ><span  ><span  >Alga Bloom</span> de <span  >Plagron</span> es un fertilizante Bio para la fase de floración <span  >con</span> <span  >ingredientes 100% orgánicos</span> extraidos de algas naturales que <span  >les dará todo lo necesario a tus plantas en la fase de floración.</span></span></p> <p  ><span  >Algunos de los componentes de <span  >Alga Bloom</span> no son completamente solubles en agua y <span  >no se recomienda utilizar en sistemas de riego por goteo.</span></span></p> <p  ><span  >Sin embargo en cultivos <span  >en  <span  >macetas</span>  y en el suelo consigue unos resultados espectaculares</span>. Las flores de tus plantas agradecerán los compuestos de algas que aportan <span  >una alimentación muy equilibrada.</span> Además de los macro-elementos incluye multitud de <span  >moléculas complejas que aceleran el metabolismo de las plantas.</span> Al ser idénticas a las que sintetizan nuestras plantas, podrán incorporarlas directamente en sus sistemas y dedicar el aparato metabólico a producir <span  >flores densas, duras y muy perfumadas.</span></span></p> <p  ><span  ><span  >Alga Bloom</span> es un fertilizante <span  >base para la fase de floración</span>, el cual le aportará a tus plantas los macro-nutrientes y micro-elementos necesarios para poder llevar una fase de floración completa y sin tener que añadir muchos más productos. Si queremos un buen engorde, <span  >podemos aplicarle Green Sensation</span><span  > </span>a nuestras plantas en la fase de floración <span  >en conjunto con Alga Bloom</span>. También podemos <span  >añadir guano de murciélago a nuestro sustrato</span> para favorecer <span  >un buen engorde de los cogollos.</span> Sabremos que estaremos sacando <span  >las mejores producciones con productos 100% orgánicos.</span></span></p> <p  ><span  ><span  >Dosis y modo de empleo</span> de Alga Bloom de Plagron:</span></p> <ul  ><li  ><span  >Añade 4ml por litro en el agua de riego durante la fase de floración de nuestras plantas.</span></li> <li  ><span  >Repetir la aplicación riego sí, riego no, hasta el final del cultivo.</span></li> <li  ><span  >Dejaremos de usarlo unos 10 días antes de cortar nuestras plantas.</span></li> </ul><p  ><span  ><span  >Composición</span> de Alga Bloom de Plagron:</span></p> <p  ><span  > NPK  3-2-5</span></p> <ul  ><li  ><span  >Linaza de remolacha.</span></li> <li  ><span  >Extractos de algas.</span></li> <li  ><span  >Aminoácidos.</span></li> </ul></div>",
     "Meta description": "Alga Bloom de Plagron es un abono de floración con ingredientes 100% orgánicos a partir de algas naturales, que te dará todo lo necesario para a tus pl...",
-    "Image URLs": "https://notorious.cl/4480-large_default/alga-bloom-250ml-plagron.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/alga-bloom-250ml-plagron.jpg",
     "Category": "Plagron;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -1751,7 +1751,7 @@ export const products = [
     "Summary": "Top Grow Box Natural de Plagron es un kit con lo básico para hacer un buen cultivo todos los nutrientes necesarios para una cosecha completa cuando tenemos pocas plantas.Top Grow Box Natural de Plagron es un kit con lo básico para hacer un buen cultivo todos los nutrientes necesarios para una cosecha completa cuando tenemos pocas plantas....",
     "Description": "<div class=\"h5 text-uppercase index_title\"><span>Descripción</span></div><div class=\"product-description\"><p  ><span  ><span  ><span  >Top Grow Box Natural</span> de<span  > Plagron</span> es un kit básico para hacer un buen cultivo que <span  >incluye todos los nutrientes necesarios para una cosecha completa</span> cuando tenemos pocas plantas. </span><span  >Con este pack tendrás <span  >todo lo necesario para hacer todo el ciclo completo</span> de la planta.</span></span></p> <p  ><span  ><span  >Power Roots</span> es un estimulador de la raíz para el comienzo del crecimiento y cuando la trasplantes a floración. <span  >Conseguirás un enorme sistema radicular</span> que asimile toneladas de nutrientes.</span></p> <p  ><span  ><span  >Vita Race</span> es un<span  > fertilizante con oligoelementos</span> para pulverizarlo y darle un empujón al crecimiento; se usa 2 veces en la fase de crecimiento. <span  >Mantendrá tus plantas sanas y libre de carencias.</span></span></p> <p  ><span  ><span  >Alga Grow</span> es un abono base orgánico de crecimiento con el que aportarás a tus plantas <span  >todo lo necesario para un crecimiento vigoroso; </span>formará buenos tallos <span  >para preparar a tu planta para la floración.</span></span></p> <p  ><span  ><span  >Alga Bloom</span> es el fertilizante orgánico base de floración que les dará <span  >los nutrientes básicos que necesitan tus plantas para una buena formación de flores. </span>Nuestras plantas conseguirán todo lo que necesitan para la correcta formación de flores, podemos complementarlo con otros productos como Sugar Royal para mejorar el rendimiento.</span></p> <p  ><span  ><span  >Green Sensation</span> es un fabuloso <span  >engorde para plantas</span> totalmente biológico, con el que <span  >aumentarás el peso y mejorarás el sabor tus cogollos</span>. Lo aplicaremos desde que las flores han aparecido<span  > hasta el final del cultivo.</span></span></p> <p  ><span  ><span  >Cuando cortes</span> <span  >disfrutarás del sabor de tu propia hierba</span>, auténtico a marihuana, eso solo pasa cuando cultivas con<span  > los mejores abonos orgánicos.</span></span></p> <p  ><span  >El kit Top Grow Box Bio <span  >incluye:</span></span></p> <ul  ><li  ><span  >100ml de Alga Grow.</span></li> <li  ><span  >1L de Alga Bloom.</span></li> <li  ><span  >100ml de Power Roots.</span></li> <li  ><span  >100ml de Vita Race.</span></li> <li  ><span  >100ml de Green Sensation.</span></li> <li  ><span  >Tabla de cultivo con dosificaciones.</span></li> </ul></div>",
     "Meta description": "Top Grow Box Natural de Plagron es un kit con lo básico para hacer un buen cultivo todos los nutrientes necesarios para una cosecha completa cuando ten...",
-    "Image URLs": "https://notorious.cl/9464-large_default/top-grow-box-100-bio-plagron.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/top-grow-box-100-bio-plagron.jpg",
     "Category": "Plagron;Marca;Packs;Fertilizantes y Abonos;"
   },
   {
@@ -1766,7 +1766,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">Mega Worm de Plagron es un fertilizante base en polvo que prepara el suelo para favorecer el crecimiento y el primer enraizado, y el principio de la floración con una enmienda húmica que activará la vida microscópica, fúngica y bacteriana, muy beneficiosa para tus plantas.Al tratarse de un producto sólido con elementos de disolución lenta no es apto para el uso en depósitos con sistemas de riego automáticos. Contiene una selección de nutrientes para todas las fases de las plantas en medios de cultivo con sustrato de tierra.Equilibra los minerales del suelo donde vayas a plantar aportando un humus de lombriz lleno de macro y micro-elementos, enzimas, hongos y bacterias beneficiosas que le darán vida a tu suelo haciendo que nuestras plantas absorvan más y mejor los nutrientes...</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Mega Worm de Plagron es un fertilizante base en polvo que prepara el suelo para favorecer el crecimiento y el primer enraizado, y el principio de la floración con una enmienda húmica que activará la vida microscópica, fúngica y bacteriana, muy beneficiosa para tus plantas.Al tratarse de un producto sólido con elementos de disolución lenta no es apto para el uso en depósitos con sistemas de riego automáticos. Contiene una selección de nutrientes para todas las fases de las plantas en medios de cultivo con sustrato de tierra.Equilibra los minerales del suelo donde vayas a plantar aportando un humus de lombriz lleno de macro y micro-elementos, enzimas, hongos y bacterias beneficiosas que le darán vida a tu suelo haciendo que nuestras plantas absorvan más y mejor los nutrientes. Nuestras plantas tendrán muy buen crecimiento y floración al desarrollarse en un medio donde no les falta de nada.Dosis y modo de empleo de Mega Worm de Plagron:- En maceta añadir del 5 al 15% de la capacidad de la maceta mezclándolo con tu sustrato. - En exterior, en huerto o similar, usar 1 litro cada 4m2 de cultivo mezclado con el terreno, labrando un poco por encima.Composición de Mega Worm de Plagron:- 100% Humus de lombriz.</div>",
     "Meta description": "Mega Worm de Plagron es un fertilizante base en polvo que prepara el suelo para favorecer el crecimiento y el primer enraizado, y el principio de la floración con una enmienda húmica que activará la vida microscópica, fúngica y bacteriana, muy beneficiosa para tus plantas.Al tratarse de un producto sólido con elementos de disolución lenta no es apto para el uso en depósitos con sistemas de riego automáticos. Contiene una selección de nutrientes para todas las fases de las plantas en medios de cultivo...",
-    "Image URLs": "http://siembratienda.com/762-large_default/megaworm-1l-plagron.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/megaworm-1l-plagron.jpg",
     "Category": "Plagron;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1781,7 +1781,7 @@ export const products = [
     "Summary": "<h4></h4><h4>Este suplemento de crecimiento promueve un crecimiento rápido, hojas verdes y alta resistencia.</h4><h4>1 litro</h4>",
     "Description": "",
     "Meta description": "Este suplemento de crecimiento promueve un crecimiento rápido, hojas verdes y alta resistencia. 1 litro",
-    "Image URLs": "https://astrogrowshop.cl/3204-large_default/plagron-fish-force-1lt.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/plagron-fish-force-1lt.jpg",
     "Category": "Plagron;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1796,7 +1796,7 @@ export const products = [
     "Summary": "<h4></h4><h4>Este suplemento de crecimiento promueve un crecimiento rápido, hojas verdes y alta resistencia.</h4><h4>1 litro</h4>",
     "Description": "",
     "Meta description": "Este suplemento de crecimiento promueve un crecimiento rápido, hojas verdes y alta resistencia. 1 litro",
-    "Image URLs": "https://astrogrowshop.cl/3204-large_default/plagron-fish-force-1lt.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/plagron-fish-force-1lt.jpg",
     "Category": "Plagron;Fertilizantes y Abonos;"
   },
   {
@@ -1811,7 +1811,7 @@ export const products = [
     "Summary": "<h4></h4><h4>Este suplemento de crecimiento promueve un crecimiento rápido, hojas verdes y alta resistencia.</h4><h4>1 litro</h4>",
     "Description": "",
     "Meta description": "Este suplemento de crecimiento promueve un crecimiento rápido, hojas verdes y alta resistencia. 1 litro",
-    "Image URLs": "https://astrogrowshop.cl/3204-large_default/plagron-fish-force-1lt.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/plagron-fish-force-1lt.jpg",
     "Category": "Plagron;Fertilizantes y Abonos;"
   },
   {
@@ -1826,7 +1826,7 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\">Guerrilla Grow de THC es un aditivo para mejorar la retención de agua de nuestro sustrato capaz de retener 400 veces su peso en agua, la humedad se mantendrá disponible para las plantas, reduciendo los riegos necesarios. Se trata de un producto granulado que retendrá líquidos y adoptará un aspecto gelificado, no es apto para utilizar con sistemas de riego por goteo. Se hidrata y se mezcla con el sustrato para permitir una mayor acumulación de agua (y fertilizantes si los lleva) para evitar ir tan a menudo a regar. Guerrilla Grow hará que puedas ir a regar hasta 3 veces menos que antes tu cultivo de guerrilla, añadiéndolo en el suelo de tu cultivo podrás conseguir que te dure el riego hasta 3 semanas sin pasar por el lugar...</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Guerrilla Grow de THC es un aditivo para mejorar la retención de agua de nuestro sustrato capaz de retener 400 veces su peso en agua, la humedad se mantendrá disponible para las plantas, reduciendo los riegos necesarios. Se trata de un producto granulado que retendrá líquidos y adoptará un aspecto gelificado, no es apto para utilizar con sistemas de riego por goteo. Se hidrata y se mezcla con el sustrato para permitir una mayor acumulación de agua (y fertilizantes si los lleva) para evitar ir tan a menudo a regar. Guerrilla Grow de THC hará que puedas ir a regar hasta 3 veces menos que antes tu cultivo de guerrilla, añadiéndolo en el suelo de tu cultivo podrás conseguir que te dure el riego hasta 3 semanas sin pasar por el lugar. Ayuda a que los suelos arenosos retengan más cantidad de agua y que los riegos no tengan que ser tan asiduos. Si los usamos en maceta, basta con hacer una capa por la parte de arriba, y si lo cultivamos en Guerrilla tendremos que mezclar 150g en 100L de sustrato.</div>",
     "Meta description": "Guerrilla Grow de THC es un aditivo para mejorar la retención de agua de nuestro sustrato capaz de retener 400 veces su peso en agua, la humedad se mantendrá disponible para las plantas, reduciendo los riegos necesarios. Se trata de un producto granulado que retendrá líquidos y adoptará un aspecto gelificado, no es apto para utilizar con sistemas de riego por goteo. Se hidrata y se mezcla con el sustrato para permitir una mayor acumulación de agua (y fertilizantes si los lleva) para evitar ir tan a m...",
-    "Image URLs": "http://siembratienda.com/388-large_default/guerrilla-grow-thc-250gr-polimeros.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/guerrilla-grow-thc-250gr-polimeros.jpg",
     "Category": "THC;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1841,7 +1841,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">TOP VEG de TOP CROP es un fertilizante líquido completo rico en ácidos húmicos y fúlvicos así como en macro y micronutrientes solubles en agua. Promueve el crecimiento, refuerza las defensas frente a enfermedades y estrés, regula el balance del pH del suelo e incrementa el contenido en clorofila mejorando la eficiencia fotosintética de las plantas. Mejora la estructura del suelo así como su capacidad de retención de humedad y fertilizantes.</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">TOP VEG de TOP CROP es un fertilizante líquido completo rico en ácidos húmicos y fúlvicos así como en macro y micronutrientes solubles en agua. Promueve el crecimiento, refuerza las defensas frente a enfermedades y estrés, regula el balance del pH del suelo e incrementa el contenido en clorofila mejorando la eficiencia fotosintética de las plantas. Mejora la estructura del suelo así como su capacidad de retención de humedad y fertilizantes.</div>",
     "Meta description": "TOP VEG de TOP CROP es un fertilizante líquido completo rico en ácidos húmicos y fúlvicos así como en macro y micronutrientes solubles en agua. Promueve el crecimiento, refuerza las defensas frente a enfermedades y estrés, regula el balance del pH del suelo e incrementa el contenido en clorofila mejorando la eficiencia fotosintética de las plantas. Mejora la estructura del suelo así como su capacidad de retención de humedad y fertilizantes.",
-    "Image URLs": "http://siembratienda.com/381-large_default/top-veg-1l.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/top-veg-1l.jpg",
     "Category": "Top Crop;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -1856,7 +1856,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">DEEPER UNDERGROUND es un fertilizante desarrollado para la estimulación del crecimiento y desarrollo del sistema radicular incrementando notablemente el número de pelos radiculares.<br> Incrementa la fortaleza y eficacia de las raíces frente a bajas temperaturas.<br> Reduce el estrés del trasplante y revitaliza las raíces dañadas.<br> Eleva el contenido en materia orgánica del terreno y mejora su aireación y su capacidad de retención de agua y fertilizantes.<br> Su rápida absorción hace que sus efectos sean prácticamente inmediatos.<br></div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">DEEPER UNDERGROUND es un fertilizante desarrollado para la estimulación del crecimiento y desarrollo del sistema radicular incrementando notablemente el número de pelos radiculares.<br> Incrementa la fortaleza y eficacia de las raíces frente a bajas temperaturas.<br> Reduce el estrés del trasplante y revitaliza las raíces dañadas.<br> Eleva el contenido en materia orgánica del terreno y mejora su aireación y su capacidad de retención de agua y fertilizantes.<br> Su rápida absorción hace que sus efectos sean prácticamente inmediatos.<br></div>",
     "Meta description": "DEEPER UNDERGROUND es un fertilizante desarrollado para la estimulaci&oacute;n del crecimiento y desarrollo del sistema radicular incrementando notablemente el n&uacute;mero de pelos radiculares. Incrementa la fortaleza y eficacia de las ra&iacute;ces frente a bajas temperaturas. Reduce el estr&eacute;s del trasplante y revitaliza las ra&iacute;ces da&ntilde;adas. Eleva el contenido en materia org&aacute;nica del terreno y mejora su aireaci&oacute;n y su capacidad de retenci&oacute;n de agua y fer...",
-    "Image URLs": "http://siembratienda.com/352-large_default/deeper-underground-250ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/deeper-underground-250ml.jpg",
     "Category": "Top Crop;Marca;Enraizantes;Fertilizantes y Abonos;"
   },
   {
@@ -1871,7 +1871,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">BARRIER de TOP CROP mejora la absorción y el transporte de nutrientes a través de la planta.<br>Refuerza las paredes celulares, y hace a las plantas más resistentes frente a plagas tanto de insectos y ácaros como fúngicas.<br>Incrementa los niveles de clorofila, favoreciendo la fotosíntesis y contribuyendo a un mejor desarrollo de éstas, así como la absorción del CO2 del medio, y potencia los procesos metabólicos para proporcionar unas mayores cosechas.<br>Además el aporte adicional de potasio favorece el proceso de floración.<br>A sus características se le suma su alta alcalinidad gracias al silicio, haciéndolo útil para incrementar el pH de las soluciones de nutrientes hidropónicos.<br>No encontrarás un mejor aliado para tus plantas.<br></div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">BARRIER de TOP CROP mejora la absorción y el transporte de nutrientes a través de la planta.<br>Refuerza las paredes celulares, y hace a las plantas más resistentes frente a plagas tanto de insectos y ácaros como fúngicas.<br>Incrementa los niveles de clorofila, favoreciendo la fotosíntesis y contribuyendo a un mejor desarrollo de éstas, así como la absorción del CO2 del medio, y potencia los procesos metabólicos para proporcionar unas mayores cosechas.<br>Además el aporte adicional de potasio favorece el proceso de floración.<br>A sus características se le suma su alta alcalinidad gracias al silicio, haciéndolo útil para incrementar el pH de las soluciones de nutrientes hidropónicos.<br>No encontrarás un mejor aliado para tus plantas.<br></div>",
     "Meta description": "BARRIER de TOP CROP mejora la absorci&oacute;n y el transporte de nutrientes a trav&eacute;s de la planta.Refuerza las paredes celulares, y hace a las plantas m&aacute;s resistentes frente a plagas tanto de insectos y &aacute;caros como f&uacute;ngicas.Incrementa los niveles de clorofila, favoreciendo la fotos&iacute;ntesis y contribuyendo a un mejor desarrollo de &eacute;stas, as&iacute; como la absorci&oacute;n del CO2 del medio, y potencia los procesos metab&oacute;licos para proporcionar unas may...",
-    "Image URLs": "http://siembratienda.com/346-large_default/barrier-250ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/barrier-250ml.jpg",
     "Category": "Top Crop;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1886,7 +1886,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">BARRIER de TOP CROP mejora la absorción y el transporte de nutrientes a través de la planta.<br>Refuerza las paredes celulares, y hace a las plantas más resistentes frente a plagas tanto de insectos y ácaros como fúngicas.<br>Incrementa los niveles de clorofila, favoreciendo la fotosíntesis y contribuyendo a un mejor desarrollo de éstas, así como la absorción del CO2 del medio, y potencia los procesos metabólicos para proporcionar unas mayores cosechas.<br>Además el aporte adicional de potasio favorece el proceso de floración.<br>A sus características se le suma su alta alcalinidad gracias al silicio, haciéndolo útil para incrementar el pH de las soluciones de nutrientes hidropónicos.<br>No encontrarás un mejor aliado para tus plantas.<br></div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">BARRIER de TOP CROP mejora la absorción y el transporte de nutrientes a través de la planta.<br>Refuerza las paredes celulares, y hace a las plantas más resistentes frente a plagas tanto de insectos y ácaros como fúngicas.<br>Incrementa los niveles de clorofila, favoreciendo la fotosíntesis y contribuyendo a un mejor desarrollo de éstas, así como la absorción del CO2 del medio, y potencia los procesos metabólicos para proporcionar unas mayores cosechas.<br>Además el aporte adicional de potasio favorece el proceso de floración.<br>A sus características se le suma su alta alcalinidad gracias al silicio, haciéndolo útil para incrementar el pH de las soluciones de nutrientes hidropónicos.<br>No encontrarás un mejor aliado para tus plantas.<br></div>",
     "Meta description": "BARRIER de TOP CROP mejora la absorci&oacute;n y el transporte de nutrientes a trav&eacute;s de la planta.Refuerza las paredes celulares, y hace a las plantas m&aacute;s resistentes frente a plagas tanto de insectos y &aacute;caros como f&uacute;ngicas.Incrementa los niveles de clorofila, favoreciendo la fotos&iacute;ntesis y contribuyendo a un mejor desarrollo de &eacute;stas, as&iacute; como la absorci&oacute;n del CO2 del medio, y potencia los procesos metab&oacute;licos para proporcionar unas may...",
-    "Image URLs": "http://siembratienda.com/346-large_default/barrier-250ml.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/barrier-250ml.jpg",
     "Category": "Top Crop;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1901,7 +1901,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">Top Bloom de TOP CROP está formulado con ácidos húmicos de elevada actividad natural orgánica. Su elevado contenido en fósforo y potasio estimula el comienzo de la floración y el desarrollo de grandes y compactos racimos florales. Su rápida absorción lo convierte en ideal por sus resultados casi inmediatos y su alto contenido en nutrientes hace innecesario el aporte adicional de P-K (Fósforo y Potasio).</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Top Bloom de TOP CROP está formulado con ácidos húmicos de elevada actividad natural orgánica. Su elevado contenido en fósforo y potasio estimula el comienzo de la floración y el desarrollo de grandes y compactos racimos florales. Su rápida absorción lo convierte en ideal por sus resultados casi inmediatos y su alto contenido en nutrientes hace innecesario el aporte adicional de P-K (Fósforo y Potasio).</div>",
     "Meta description": "Top Bloom de TOP CROP está formulado con ácidos húmicos de elevada actividad natural orgánica. Su elevado contenido en fósforo y potasio estimula el comienzo de la floración y el desarrollo de grandes y compactos racimos florales. Su rápida absorción lo convierte en ideal por sus resultados casi inmediatos y su alto contenido en nutrientes hace innecesario el aporte adicional de P-K (Fósforo y Potasio).",
-    "Image URLs": "http://siembratienda.com/368-large_default/top-bloom-1l.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/top-bloom-1l.jpg",
     "Category": "Top Crop;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -1916,7 +1916,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">TOP CANDY de TOP CROP es un producto a base de extractos naturales de plantas, rico en hidratos de carbono; su principal función es el aumento de peso y volumen de las flores. Así mismo debido a su composición mejora notablemente el olor y el sabor de las cosechas.<br>TOP CANDY es un producto 100% natural y orgánico por lo que puede emplearse hasta el último día del ciclo.<br></div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">TOP CANDY de TOP CROP es un producto a base de extractos naturales de plantas, rico en hidratos de carbono; su principal función es el aumento de peso y volumen de las flores. Así mismo debido a su composición mejora notablemente el olor y el sabor de las cosechas.<br>TOP CANDY es un producto 100% natural y orgánico por lo que puede emplearse hasta el último día del ciclo.<br></div>",
     "Meta description": "TOP CANDY de TOP CROP es un producto a base de extractos naturales de plantas, rico en hidratos de carbono; su principal funci&oacute;n es el aumento de peso y volumen de las flores. As&iacute; mismo debido a su composici&oacute;n mejora notablemente el olor y el sabor de las cosechas.TOP CANDY es un producto 100% natural y org&aacute;nico por lo que puede emplearse hasta el &uacute;ltimo d&iacute;a del ciclo.",
-    "Image URLs": "http://siembratienda.com/379-large_default/top-candy-1l.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/top-candy-1l.jpg",
     "Category": "Top Crop;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1931,7 +1931,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">Cyclone de Top Crop es un gel destinado a la produccion de esquejes que sella totalmente la zona del tejido cortado resguardandolo del aire y favoreciendo el desarrollo radicular</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Cyclone de Top Crop es un gel destinado a la produccion de esquejes que sella totalmente la zona del tejido cortado resguardandolo del aire y favoreciendo el desarrollo radicular</div>",
     "Meta description": "Cyclone de Top Crop es un gel destinado a la produccion de esquejes que sella totalmente la zona del tejido cortado resguardandolo del aire y favoreciendo el desarrollo radicular",
-    "Image URLs": "http://siembratienda.com/357-large_default/cyclone-50-ml-top-crop-12-udscaja.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/cyclone-50-ml-top-crop-12-udscaja.jpg",
     "Category": "Top Crop;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1946,7 +1946,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">TOP BUD es un fertilizante para el final de la fase de floración, rico en fósforo y potasio, ideal para potenciar el engorde de tus frutos y flores. La baja concentración de nitrógeno y los aminoácidos que contiene garantizan mayor producción y mejora la constitución de la planta. Si quieres un remate que garantice la excelencia en tus cosechas TOP BUD es la apuesta ganadora.<br><br>USOS Y APLICACIONES:<br><br>Diluir a razón de 0.5-1 ml/ 1L de agua una vez por semana. Apto para su uso en sustrato, hidropónico y fibra de coco.</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">TOP BUD es un fertilizante para el final de la fase de floración, rico en fósforo y potasio, ideal para potenciar el engorde de tus frutos y flores. La baja concentración de nitrógeno y los aminoácidos que contiene garantizan mayor producción y mejora la constitución de la planta. Si quieres un remate que garantice la excelencia en tus cosechas TOP BUD es la apuesta ganadora.<br><br>USOS Y APLICACIONES:<br><br>Diluir a razón de 0.5-1 ml/ 1L de agua una vez por semana. Apto para su uso en sustrato, hidropónico y fibra de coco.</div>",
     "Meta description": "TOP BUD es un fertilizante para el final de la fase de floraci&oacute;n, rico en f&oacute;sforo y potasio, ideal para potenciar el engorde de tus frutos y flores. La baja concentraci&oacute;n de nitr&oacute;geno y los amino&aacute;cidos que contiene garantizan mayor producci&oacute;n y mejora la constituci&oacute;n de la planta. Si quieres un remate que garantice la excelencia en tus cosechas TOP BUD es la apuesta ganadora.USOS Y APLICACIONES:Diluir a raz&oacute;n de 0.5-1 ml/ 1L de agua una vez por ...",
-    "Image URLs": "http://siembratienda.com/795-large_default/top-bud-250ml-top-crop.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/top-bud-250ml-top-crop.jpg",
     "Category": "Top Crop;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1961,7 +1961,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">TOP BUD es un fertilizante para el final de la fase de floración, rico en fósforo y potasio, ideal para potenciar el engorde de tus frutos y flores. La baja concentración de nitrógeno y los aminoácidos que contiene garantizan mayor producción y mejora la constitución de la planta. Si quieres un remate que garantice la excelencia en tus cosechas TOP BUD es la apuesta ganadora.<br><br>USOS Y APLICACIONES:<br><br>Diluir a razón de 0.5-1 ml/ 1L de agua una vez por semana. Apto para su uso en sustrato, hidropónico y fibra de coco.</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">TOP BUD es un fertilizante para el final de la fase de floración, rico en fósforo y potasio, ideal para potenciar el engorde de tus frutos y flores. La baja concentración de nitrógeno y los aminoácidos que contiene garantizan mayor producción y mejora la constitución de la planta. Si quieres un remate que garantice la excelencia en tus cosechas TOP BUD es la apuesta ganadora.<br><br>USOS Y APLICACIONES:<br><br>Diluir a razón de 0.5-1 ml/ 1L de agua una vez por semana. Apto para su uso en sustrato, hidropónico y fibra de coco.</div>",
     "Meta description": "TOP BUD es un fertilizante para el final de la fase de floraci&oacute;n, rico en f&oacute;sforo y potasio, ideal para potenciar el engorde de tus frutos y flores. La baja concentraci&oacute;n de nitr&oacute;geno y los amino&aacute;cidos que contiene garantizan mayor producci&oacute;n y mejora la constituci&oacute;n de la planta. Si quieres un remate que garantice la excelencia en tus cosechas TOP BUD es la apuesta ganadora.USOS Y APLICACIONES:Diluir a raz&oacute;n de 0.5-1 ml/ 1L de agua una vez por ...",
-    "Image URLs": "http://siembratienda.com/796-large_default/top-bud-100ml-top-crop.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/top-bud-100ml-top-crop.jpg",
     "Category": "Top Crop;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -1976,7 +1976,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">TOP AUTO es un fertilizante líquido NPK con micronutrientes quelatos y ácidos húmicos y fúlvicos de alta solubilidad formulado especialmente para plantas autoflorecientes. Su contenido equilibrado en nutrientes y ácidos húmicos disponibles de forma inmediata para los cultivos, actúa como un excelente acondicionador del sustrato estimulando el crecimiento de la planta durante todo su ciclo y asegurando el desarrollo de grandes y compactos racimos florales.\"</div>",
     "Description": "",
     "Meta description": "TOP AUTO es un fertilizante líquido NPK con micronutrientes quelatos y ácidos húmicos y fúlvicos de alta solubilidad formulado especialmente para plantas autoflorecientes. Su contenido equilibrado en nutrientes y ácidos húmicos disponibles de forma inmediata para los cultivos, actúa como un excelente acondicionador del sustrato estimulando el crecimiento de la planta durante todo su ciclo y asegurando el desarrollo de grandes y compactos racimos florales.",
-    "Image URLs": "http://siembratienda.com/1115-large_default/top-auto-250ml-top-crop.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/top-auto-250ml-top-crop.jpg",
     "Category": "Top Crop;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -1991,7 +1991,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">TOP AUTO es un fertilizante líquido NPK con micronutrientes quelatos y ácidos húmicos y fúlvicos de alta solubilidad formulado especialmente para plantas autoflorecientes. Su contenido equilibrado en nutrientes y ácidos húmicos disponibles de forma inmediata para los cultivos, actúa como un excelente acondicionador del sustrato estimulando el crecimiento de la planta durante todo su ciclo y asegurando el desarrollo de grandes y compactos racimos florales.\"</div>",
     "Description": "",
     "Meta description": "TOP AUTO es un fertilizante líquido NPK con micronutrientes quelatos y ácidos húmicos y fúlvicos de alta solubilidad formulado especialmente para plantas autoflorecientes. Su contenido equilibrado en nutrientes y ácidos húmicos disponibles de forma inmediata para los cultivos, actúa como un excelente acondicionador del sustrato estimulando el crecimiento de la planta durante todo su ciclo y asegurando el desarrollo de grandes y compactos racimos florales.",
-    "Image URLs": "http://siembratienda.com/1068-large_default/top-auto-1l-top-crop-12-udscaja.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/top-auto-1l-top-crop-12-udscaja.jpg",
     "Category": "Top Crop;Marca;Bases;Fertilizantes y Abonos;"
   },
   {
@@ -2006,7 +2006,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">Top Crop presenta Budpack, un conjunto de aditivos para la fase de floración, podrá adquirirse a un precio increíble para finalizar los cultivos con los mejores resultados. El pack está compuesto por: - Big One 250ml. - Top Candy 250ml. - Top Bud 100ml.</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Top Crop presenta Budpack, un conjunto de aditivos para la fase de floración, podrá adquirirse a un precio increíble para finalizar los cultivos con los mejores resultados. El pack está compuesto por: - Big One 250ml. - Top Candy 250ml. - Top Bud 100ml.</div>",
     "Meta description": "Top Crop presenta Budpack, un conjunto de aditivos para la fase de floración, podrá adquirirse a un precio increíble para finalizar los cultivos con los mejores resultados. El pack está compuesto por: - Big One 250ml. - Top Candy 250ml. - Top Bud 100ml.",
-    "Image URLs": "http://siembratienda.com/1447-large_default/bud-pack-top-crop.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/bud-pack-top-crop.jpg",
     "Category": "Top Crop;Marca;Packs;Fertilizantes y Abonos;"
   },
   {
@@ -2021,7 +2021,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">Este abono mineral es polvo de roca volcánica de la isla de Java finamente molido. El polvo de lava es rico en oligoelementos esenciales para toda planta. Este polvo permite a las plantas enfrentarse a los periodos climáticos más adversos y refuerza sus defensas ante ciertas enfermedades al aumentar la resistencia de sus tejidos celulares. Mayor aprovechamiento de los macro nutrientes que se hayan aportado al cultivo, mejora la estructura del suelo y reduce el pH al ser ligeramente ácida. Por su origen y ausencia de tratamiento químico alguno es ideal para cultivos 100% ecológicos.</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Este abono mineral es polvo de roca volcánica de la isla de Java finamente molido. El polvo de lava es rico en oligoelementos esenciales para toda planta. Este polvo permite a las plantas enfrentarse a los periodos climáticos más adversos y refuerza sus defensas ante ciertas enfermedades al aumentar la resistencia de sus tejidos celulares. Mayor aprovechamiento de los macro nutrientes que se hayan aportado al cultivo, mejora la estructura del suelo y reduce el pH al ser ligeramente ácida. Por su origen y ausencia de tratamiento químico alguno es ideal para cultivos 100% ecológicos.</div>",
     "Meta description": "Este abono mineral es polvo de roca volcánica de la isla de Java finamente molido. El polvo de lava es rico en oligoelementos esenciales para toda planta. Este polvo permite a las plantas enfrentarse a los periodos climáticos más adversos y refuerza sus defensas ante ciertas enfermedades al aumentar la resistencia de sus tejidos celulares. Mayor aprovechamiento de los macro nutrientes que se hayan aportado al cultivo, mejora la estructura del suelo y reduce el pH al ser ligeramente ácida. Por su orig...",
-    "Image URLs": "http://siembratienda.com/382-large_default/top-vulcan-4-kg-harina-de-lava.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/top-vulcan-4-kg-harina-de-lava.jpg",
     "Category": "Top Crop;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -2036,7 +2036,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">Este abono mineral es polvo de roca volcánica de la isla de Java finamente molido. El polvo de lava es rico en oligoelementos esenciales para toda planta. Este polvo permite a las plantas enfrentarse a los periodos climáticos más adversos y refuerza sus defensas ante ciertas enfermedades al aumentar la resistencia de sus tejidos celulares. Mayor aprovechamiento de los macro nutrientes que se hayan aportado al cultivo, mejora la estructura del suelo y reduce el pH al ser ligeramente ácida. Por su origen y ausencia de tratamiento químico alguno es ideal para cultivos 100% ecológicos.</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Este abono mineral es polvo de roca volcánica de la isla de Java finamente molido. El polvo de lava es rico en oligoelementos esenciales para toda planta. Este polvo permite a las plantas enfrentarse a los periodos climáticos más adversos y refuerza sus defensas ante ciertas enfermedades al aumentar la resistencia de sus tejidos celulares. Mayor aprovechamiento de los macro nutrientes que se hayan aportado al cultivo, mejora la estructura del suelo y reduce el pH al ser ligeramente ácida. Por su origen y ausencia de tratamiento químico alguno es ideal para cultivos 100% ecológicos.</div>",
     "Meta description": "Este abono mineral es polvo de roca volcánica de la isla de Java finamente molido. El polvo de lava es rico en oligoelementos esenciales para toda planta. Este polvo permite a las plantas enfrentarse a los periodos climáticos más adversos y refuerza sus defensas ante ciertas enfermedades al aumentar la resistencia de sus tejidos celulares. Mayor aprovechamiento de los macro nutrientes que se hayan aportado al cultivo, mejora la estructura del suelo y reduce el pH al ser ligeramente ácida. Por su orig...",
-    "Image URLs": "http://siembratienda.com/383-large_default/top-vulcan-700-g-harina-de-lava.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/top-vulcan-700-g-harina-de-lava.jpg",
     "Category": "Top Crop;Marca;Potenciadores y Aditivos;Fertilizantes y Abonos;"
   },
   {
@@ -2051,7 +2051,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">Una de las mejores opciones para la extracción/intracción de tu cultivo. Con un caudal suficiente para la mayoría de armarios este extractor dispone de 2 velocidades. Imprescindible para un óptimo funcionamiento de tu armario de cultivo. Las plantas dejan de crecer si la temperatura es excesiva. El rango ideal de temperatura del aire entre 26 y 28 grados asegura un crecimiento vigoroso y sano de las plantas. Modelo: TT-100 Caudal de aire: 145-187 m3/h Presión sonora: 27-36 dA/B Potencia: 21-33 W Revol./Min: 2180-2385 obr/min</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Una de las mejores opciones para la extracción/intracción de tu cultivo. Con un caudal suficiente para la mayoría de armarios este extractor dispone de 2 velocidades. Imprescindible para un óptimo funcionamiento de tu armario de cultivo. Las plantas dejan de crecer si la temperatura es excesiva. El rango ideal de temperatura del aire entre 26 y 28 grados asegura un crecimiento vigoroso y sano de las plantas. Modelo: TT-100 Caudal de aire: 145-187 m3/h Presión sonora: 27-36 dA/B Potencia: 21-33 W Revol./Min: 2180-2385 obr/min</div>",
     "Meta description": "Una de las mejores opciones para la extracción/intracción de tu cultivo. Con un caudal suficiente para la mayoría de armarios este extractor dispone de 2 velocidades. Imprescindible para un óptimo funcionamiento de tu armario de cultivo. Las plantas dejan de crecer si la temperatura es excesiva. El rango ideal de temperatura del aire entre 26 y 28 grados asegura un crecimiento vigoroso y sano de las plantas. Modelo: TT-100 Caudal de aire: 145-187 m3/h Presión sonora: 27-36 dA/B Potencia: 21-33 W Revo...",
-    "Image URLs": "http://siembratienda.com/121-large_default/extractor-tt-dual-2-vel-tt100145187-m3hscable-vents.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/extractor-tt-dual-2-vel-tt100145187-m3hscable-vents.jpg",
     "Category": "Ventilación y Extracción;Control de Clima;"
   },
   {
@@ -2066,7 +2066,7 @@ export const products = [
     "Summary": "<div id=\"short_description_content\" class=\"rte align_justify\" itemprop=\"description\">Una de las mejores opciones para la extracción/intracción de tu cultivo. Con un caudal suficiente para la mayoría de armarios este extractor dispone de 2 velocidades. Imprescindible para un óptimo funcionamiento de tu armario de cultivo. Las plantas dejan de crecer si la temperatura es excesiva. El rango ideal de temperatura del aire entre 26 y 28 grados asegura un crecimiento vigoroso y sano de las plantas. Modelo: TT-125 Caudal de aire: 220-280 m3/h Presión sonora: 38 dA/B Potencia: 16 W Revol./Min: 2400 obr/min</div>",
     "Description": "<h3 class=\"page-product-heading\">Más</h3><div class=\"rte\">Una de las mejores opciones para la extracción/intracción de tu cultivo. Con un caudal suficiente para la mayoría de armarios este extractor dispone de 2 velocidades. Imprescindible para un óptimo funcionamiento de tu armario de cultivo. Las plantas dejan de crecer si la temperatura es excesiva. El rango ideal de temperatura del aire entre 26 y 28 grados asegura un crecimiento vigoroso y sano de las plantas. Modelo: TT-125 Caudal de aire: 220-280 m3/h Presión sonora: 38 dA/B Potencia: 16 W Revol./Min: 2400 obr/min</div>",
     "Meta description": "Una de las mejores opciones para la extracción/intracción de tu cultivo. Con un caudal suficiente para la mayoría de armarios este extractor dispone de 2 velocidades. Imprescindible para un óptimo funcionamiento de tu armario de cultivo. Las plantas dejan de crecer si la temperatura es excesiva. El rango ideal de temperatura del aire entre 26 y 28 grados asegura un crecimiento vigoroso y sano de las plantas. Modelo: TT-125 Caudal de aire: 220-280 m3/h Presión sonora: 38 dA/B Potencia: 16 W Revol./Min...",
-    "Image URLs": "http://siembratienda.com/122-large_default/extractor-tt-dual-2-vel-tt125220280-m3h-scable-vents.jpg",
+    "Image URLs": "http://konkatienda.cl/img/originalimg/extractor-tt-dual-2-vel-tt125220280-m3h-scable-vents.jpg",
     "Category": "Ventilación y Extracción;Control de Clima;"
   }
 ]
