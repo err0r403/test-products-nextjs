@@ -2714,7 +2714,7 @@ export const products = [
     "Reference #": "REDPOI3",
     "Manufacturer": "Sweet Seeds",
     "Quantity": 100,
-    "Summary": "La Red Poison Auto es una variedad Autofloreciente. Es un híbrido entre una de las variedades más apreciadas del catálogo Sweet Seeds.",
+    "Summary": "<p>La Red Poison Auto es una variedad Autofloreciente. Es un híbrido entre una de las variedades más apreciadas del catálogo Sweet Seeds.</p>",
     "Description": " <p>La Red Poison Auto es una variedad Autofloreciente. <strong>Es un híbrido entre una de las variedades más apreciadas del catálogo Sweet Seeds,</strong> la Green Poison, y una exótica genética autofloreciente de flores moradas y ancestros Kush pakistaníes.Red Poison Auto crece con aspecto de híbrido índico-sativo.</p><p>Demuestra un gran vigor híbrido desde los primeros estadios de crecimiento. Desarrolla un tallo fuerte y ramas laterales largas y flexibles. Produce grandes cogollos compactos cargados de aromática resina.Los aromas y sabores son muy agradables e intensos, dulces y afrutados con un fondo suave de Skunk</p> <h4>Características de la semilla de marihuana Red Poison Auto de Sweet Seeds:</h4> <ul>  <li>Variedad SWS39</li>  <li>Indica: 76,87% / Sativa: 20% / Ruderalis: 3,12%</li>  <li>THC: 15-19% · CBD: 0,8%</li>  <li>Producción Interior: 400-550 g/m2</li>  <li>Producción Exterior: 35-175 g/planta</li>  <li>Cosecha Interior / Exterior: 8 semanas desde la germinación</li>  <li>Altura: 60-120 cm</li>  <li>Flor Roja: 90% aproximado de los individuos</li> </ul>",
     "Meta description": "",
     "Image URLs": "https://www.dinafem.org/es/red-poison-auto/",
