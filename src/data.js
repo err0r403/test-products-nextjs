@@ -1741,7 +1741,7 @@ export const products = [
     "Reference #": "FERTIL298",
     "Manufacturer": "Mammoth P",
     "Quantity": 100,
-    "Summary": "<p>MAMMOTH P es un bioestimulante microbiano.</p>", 
+    "Summary": "<p>MAMMOTH P es un bioestimulante microbiano.</p>",
     "Description": "<p>Con patente pendiente probado en la universidad que <strong>eleva naturalmente la disponibilidad de fósforo y micronutrientes</strong> para apoyar el crecimiento sano y vigoroso de las plantas.</p>",
     "Meta description": "MAMMOTH P : es un bioestimulante microbiano con patente pendiente probado en la universidad que eleva naturalmente la disponibilidad de fósforo y micro-nutrientes para apoyar el crecimiento sano y vigoroso de las plantas. Para uso durante las etapas vegetativa y de floración en todos los medios, desde mezclas hidropónicas a macetas orgánicas y a suelos.Para uso durante las etapas vegetativa y de floración en todos los medios, desde mezclas hidropónicas a macetas orgánicas y a suelos, esto da como res...",
     "Image URLs": "http://konkatienda.cl/img/uuidimg/46afdd53-8863-414a-8c74-1da8c60c6521.jpg",
@@ -1758,7 +1758,7 @@ export const products = [
     "Reference #": "FERTIL299",
     "Manufacturer": "Mammoth P",
     "Quantity": 100,
-    "Summary": "<p>MAMMOTH P es un bioestimulante microbiano.</p>", 
+    "Summary": "<p>MAMMOTH P es un bioestimulante microbiano.</p>",
     "Description": "<p>Con patente pendiente probado en la universidad que <strong>eleva naturalmente la disponibilidad de fósforo y micronutrientes</strong> para apoyar el crecimiento sano y vigoroso de las plantas.</p>",
     "Meta description": "MAMMOTH P : es un bioestimulante microbiano con patente pendiente probado en la universidad que eleva naturalmente la disponibilidad de fósforo y micro-nutrientes para apoyar el crecimiento sano y vigoroso de las plantas. Para uso durante las etapas vegetativa y de floración en todos los medios, desde mezclas hidropónicas a macetas orgánicas y a suelos.Para uso durante las etapas vegetativa y de floración en todos los medios, desde mezclas hidropónicas a macetas orgánicas y a suelos, esto da como res...",
     "Image URLs": "http://konkatienda.cl/img/uuidimg/27b3b766-2097-489d-950a-32a9e5efc7a9.jpg",
@@ -2200,7 +2200,7 @@ export const products = [
     "Reference #": "TOPBUD428",
     "Manufacturer": "Top Crop",
     "Quantity": 100,
-    "Summary": "<p>TOP BUD es un fertilizante para el final de la fase de floración, rico en fósforo y potasio.</p>", 
+    "Summary": "<p>TOP BUD es un fertilizante para el final de la fase de floración, rico en fósforo y potasio.</p>",
     "Description": "<p><strong>Ideal para potenciar el engorde de tus frutos y flores.</strong> La baja concentración de nitrógeno y los aminoácidos que contiene garantizan mayor producción y mejora la constitución de la planta. Si quieres un remate que garantice la excelencia en tus cosechas TOP BUD es la apuesta ganadora.</p><p>USOS Y APLICACIONES:</p><p>Diluir a razón de 0.5-1 ml/ 1L de agua una vez por semana. Apto para su uso en sustrato, hidropónico y fibra de coco.</p>",
     "Meta description": "TOP BUD es un fertilizante para el final de la fase de floraci&oacute;n, rico en f&oacute;sforo y potasio, ideal para potenciar el engorde de tus frutos y flores. La baja concentraci&oacute;n de nitr&oacute;geno y los amino&aacute;cidos que contiene garantizan mayor producci&oacute;n y mejora la constituci&oacute;n de la planta. Si quieres un remate que garantice la excelencia en tus cosechas TOP BUD es la apuesta ganadora.USOS Y APLICACIONES:Diluir a raz&oacute;n de 0.5-1 ml/ 1L de agua una vez por ...",
     "Image URLs": "http://konkatienda.cl/img/uuidimg/6dde9ab7-f58f-4f03-bb78-fc766df70ca8.jpg",
@@ -2302,7 +2302,7 @@ export const products = [
     "Reference #": "TOPVUL437",
     "Manufacturer": "Top Crop",
     "Quantity": 100,
-    "Summary": "<p>Este abono mineral es polvo de roca volcánica de la isla de Java finamente molido.</p>", 
+    "Summary": "<p>Este abono mineral es polvo de roca volcánica de la isla de Java finamente molido.</p>",
     "Description": "<p><strong>El polvo de lava es rico en oligoelementos esenciales para toda planta.</strong> Este polvo permite a las plantas enfrentarse a los periodos climáticos más adversos y refuerza sus defensas ante ciertas enfermedades al aumentar la resistencia de sus tejidos celulares. Mayor aprovechamiento de los macro nutrientes que se hayan aportado al cultivo, mejora la estructura del suelo y reduce el pH al ser ligeramente ácida. Por su origen y ausencia de tratamiento químico alguno es ideal para cultivos 100% ecológicos.</p>",
     "Meta description": "Este abono mineral es polvo de roca volcánica de la isla de Java finamente molido. El polvo de lava es rico en oligoelementos esenciales para toda planta. Este polvo permite a las plantas enfrentarse a los periodos climáticos más adversos y refuerza sus defensas ante ciertas enfermedades al aumentar la resistencia de sus tejidos celulares. Mayor aprovechamiento de los macro nutrientes que se hayan aportado al cultivo, mejora la estructura del suelo y reduce el pH al ser ligeramente ácida. Por su orig...",
     "Image URLs": "http://konkatienda.cl/img/uuidimg/b38337b9-16e3-4119-af08-7f906640af42.jpg",
@@ -2328,7 +2328,7 @@ export const products = [
     "img_filename": "9bf57917-c1f1-44e7-b9c7-ba445bc2ee29.jpg"
   },
   {
-    
+
     "Product ID": 138,
     "Active (0/1)": 1,
     "Name *": "Extractor TT Dual 2 vel TT-125(220/280 m3/H) S/CABLE  - Vents",
@@ -2354,11 +2354,13 @@ export const products = [
     "Reference #": "MAGNUM40",
     "Manufacturer": "Buddhaseeds",
     "Quantity": 100,
-    "Summary": "<p>Magnum de Buddha Seeds es un híbrido automático muy vigoroso y productor.</p>", 
+    "Summary": "<p>Magnum de Buddha Seeds es un híbrido automático muy vigoroso y productor.</p>",
     "Description": "<p><strong>Diseñado especialmente para dar grandes cosechas,</strong> es una planta muy recomendable para el cultivo en exterior ya que alcanza rápidamente dimensiones bíblicas. Su cultivo en interior es igual de productor, aunque recomendamos cultivar en macetas medianas y pequeñas, si no tu indoor se verá rápidamente invadido por verdaderos árboles que terminarán topando con el foco. Una variedad con un aroma fresco y especiado, y un efecto eufórico – sativo Genética: cruce triple desconocido. Autofloreciente feminizada. Producción: Muy Alta. Desde germinación a cosecha 11 a 12 semanas aprox.</p>",
     "Meta description": "",
-    "Image URLs": "https://quema.cl/producto/buddha-seeds-magnum-auto-x3/",
-    "Category": "Semillas; Automáticas; Buddha Seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/b800a6b9-32f5-4092-97ea-3ebd88011267.png",
+    "Category": "Semillas; Automáticas; Buddha Seeds",
+    "uuid": "b800a6b9-32f5-4092-97ea-3ebd88011267",
+    "img_filename": "b800a6b9-32f5-4092-97ea-3ebd88011267.png"
   },
   {
     "Product ID": 140,
@@ -2372,8 +2374,10 @@ export const products = [
     "Summary": "<p>La Kritikal Bilbo Auto de Genehtik Seeds, es una planta autofloreciente de nueva generación, con alta potencia y producción. Sus plantas alcanzan los 60-70cm de altura y desarrollan montones de ramas cargadas de densos brotes aromáticos. La Kritikal Bilbo Auto necesita 60-70 días para producir sus sabrosos frutos, en una media de 40g por planta en el interior – y 70g en el exterior.</p>",
     "Description": "<p>La Kritikal Bilbo Auto de Genehtik Seeds <strong>es el resultado del cruce y el recruce de la Kritikal Bilbo con varias cepas autoflorecientes,</strong> para crear una variedad autofloreciente de nueva generación con más potencia y producción. Sus plantas son extremadamente rápidas y comienzan su floración tras solo 2 semanas de crecimiento vegetativo.</p><p>La Kritikal Bilbo Auto de Genehtik Seeds es una planta de tamaño mediano que alcanza una altura de 60-70cm; bastante pequeña (ideal para su cultivo en el interior o en el balcón/patio), pero con numerosas ramas. Su vigoroso crecimiento es la razón de su producción – sus ramas están repletas de enormes brotes densos.</p><p> Los brotes de la Kritikal Bilbo Auto harán que se te salten los ojos con su enorme tamaño y aspecto casi blanco y tu sentido del olfato se regalará con su aroma afrutado.</p><p>La Kritikal Bilbo Auto de Genehtik Seeds produce 40g de hierba de gran calidad por planta en el interior (70g en el exterior) tras solo 60-70 días de floración – hierba con un delicioso sabor afrutado y un fuerte efecto narcótico, perfecto para relajarse.",
     "Meta description": "",
-    "Image URLs": "https://www.magicalseeds.cl/producto/kritikal-bilbo-auto/",
-    "Category": "Semillas; Automáticas; Genehtik"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/70b08790-e702-4d86-b105-cdd0867a1b11.jpg",
+    "Category": "Semillas; Automáticas; Genehtik",
+    "uuid": "70b08790-e702-4d86-b105-cdd0867a1b11",
+    "img_filename": "70b08790-e702-4d86-b105-cdd0867a1b11.jpg"
   },
   {
     "Product ID": 141,
@@ -2387,8 +2391,10 @@ export const products = [
     "Summary": "<p>La Goxuak de Genehtik Seeds, es el vástago autofloreciente de la famosa AK-47 y una variedad autofloreciente. Para producir sus brotes resinosos de aroma afrutado AK-47, necesita un periodo de floración de 9 semanas (en el exterior, 60-70 días en el interior) tras los cuales produce unos 50g por planta – buena cantidad para una planta que solo alcanza los 40-60cm. Subidón Sativa total.</p>",
     "Description": "<p>La Goxuak de Genehtik Seeds <strong>es el vástago feminizado y autofloreciente del cruce entre la galardonada y legendaria AK-47 y una cepa autofloreciente.</strong> El resultado es una planta pequeña con una gran producción y el aroma afrutado de su famoso padre. Solo necesita de 2 semanas de crecimiento vegetativo para comenzar su periodo de floración.</p><p>La Goxuak feminizada de Genehtik Seeds alcanza una altura de solamente 40-60cm, pero produce unos hermosos brotes centrales cargados de resina, en tan solo 60-70 días de floración, en el interior; en el exterior tarda + 9 semanas. Y servirá sus deliciosos frutos de sabor dulce y subidón Sativa.",
     "Meta description": "",
-    "Image URLs": "https://www.magicalseeds.cl/producto/goxuak-auto/",
-    "Category": "Semillas; Automáticas; Genehtik"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/821f7852-edbe-453e-a67c-c57628373b1b.jpg",
+    "Category": "Semillas; Automáticas; Genehtik",
+    "uuid": "821f7852-edbe-453e-a67c-c57628373b1b",
+    "img_filename": "821f7852-edbe-453e-a67c-c57628373b1b.jpg"
   },
   {
     "Product ID": 142,
@@ -2402,8 +2408,10 @@ export const products = [
     "Summary": "<p>Variedad de marihuana autofloreciente de segunda generación resultado de cruces de la conocida semilla de origen canadiense SWEET TOOTH con una autofloreciente.</p>",
     "Description": "<p>Tipo: Híbrido Sweet Tooth Autofloreciente.</p><p>Producción Interior:400-450 gr/m2</p><p>Producción Exterior:100-150 gr/planta</p><p>Floración Interior:65-75 días</p><p>Cosecha Exterior:8 semanas</p><p>Variedad de marihuana autofloreciente de segunda <strong>generación resultado de cruces de la conocida semilla de origen canadiense SWEET TOOTH con una autofloreciente.</strong></p><p>La semilla de marihuana feminizada Ese T. Bilbo Auto conserva características genéticas de la canadiense como el aroma y sabor, dulce y a la vez con toques ásperos y terrosos. Gracias a su pariente autofloreciente conseguimos una rápida floración que comienza después de solo dos semanas de crecimiento y acaba con 8 semanas de floración. Como autofloreciente su tamaño puede alcanzar los 70 cm de altura, ramificada con buenos cogollos resinosos.</p><p>Su efecto es narcótico, suave y se lleva muy bien, potencia media.</p>",
     "Meta description": "",
-    "Image URLs": "https://allgranostore.com/semillas-automaticas/1137-genehtik-ese-t-bilbo-auto-1ud-genehtik.html",
-    "Category": "Semillas; Automáticas; Genehtik"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/c0da49da-8300-49b3-8c56-e95be19eaa7f.jpg",
+    "Category": "Semillas; Automáticas; Genehtik",
+    "uuid": "c0da49da-8300-49b3-8c56-e95be19eaa7f",
+    "img_filename": "c0da49da-8300-49b3-8c56-e95be19eaa7f.jpg"
   },
   {
     "Product ID": 143,
@@ -2417,8 +2425,10 @@ export const products = [
     "Summary": "<p>Las semillas de Cannabis de Y Griega del banco Medical seeds® es una cepa de marihuana hibrida al 80% sativa. A pesar de ser Sativa, esta planta nos sorprende con una producción de cogollos robustos, grandes y extremadamente resinosos, que cubre todos los tallos.</p>",
     "Description": "Las semillas de Cannabis de Y Griega del banco Medical Seeds® <strong>es una cepa de marihuana hibrida al 80% sativa.</strong> A pesar de ser Sativa, esta planta nos sorprende con una producción de cogollos robustos, grandes y extremadamente resinosos, que cubre todos los tallos.</p><p>En un análisis de cromatografía de gases realizado por Canna Resort ha obtenido el máximo nivel de THC entre todas nuestras plantas. Es decir, es la variedad con más alto nivel de THC de todo nuestro banco, extremadamente potente.</p><p>Su efecto empieza con una fuerte sacudida energética que lentamente desencadena en un estado de lucidez y relajación. Es una planta que mantiene un olor clásico a Haze, que se combina con un ligero toque dulzón que la hace destacar.</p><p>Y Griega es una variedad que empieza su crecimiento con un vigor espectacular, por lo que es muy aconsejable cultivarla en SCROG, debido a que se hace más controlable. Especialmente recomendada para enfermedades que requieran altos niveles de THC como el glaucoma.</p><p>En conclusión, Y Griega colmará tus expectativas si buscas una planta con un elevadísimo nivel de THC, muy potente y con posibles aplicaciones terapéuticas.</p><ul><li>80% Sativa 20% Indica</li><li>Período floración en interior: 12-13,5 semanas.</li><li>Producción en interior/m2: 500 gr.</li><li>Altura en exterior: alcanza los 3,5 m de altura.</li><li>Producción en exterior/planta: 500-600 gr.</li><li>Genotipo: Cruce entre Amnesia Haze x Kali Mist.</li><li>THC: muy alto.</li><li>CBD: muy bajo.</li></ul></p>",
     "Meta description": "",
-    "Image URLs": "https://www.kushbreak.cl/y-griega-medical-seeds-semillas-cannabis",
-    "Category": "Semillas; Feminizadas; Medical Seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/31f8f954-4cbd-4345-9c54-51657122ffdd.jpg",
+    "Category": "Semillas; Feminizadas; Medical Seeds",
+    "uuid": "31f8f954-4cbd-4345-9c54-51657122ffdd",
+    "img_filename": "31f8f954-4cbd-4345-9c54-51657122ffdd.jpg"
   },
   {
     "Product ID": 144,
@@ -2432,8 +2442,10 @@ export const products = [
     "Summary": "<p>1024 del banco Medical seeds® lo combina todo: sabor, olor, producción, presencia y potencia. Es la planta perfecta, nos sentimos orgullosos de este cruce. Se adapta perfectamente a todos los sistemas de cultivo, (orgánico, coco, hidropónico…). Si sus condiciones son óptimas su nivel de THC puede ser muy alto.</p>",
     "Description": "1024 del banco Medical Seeds® <strong>lo combina todo: sabor, olor, producción, presencia y potencia. Es la planta perfecta,</strong> nos sentimos orgullosos de este cruce. Se adapta perfectamente a todos los sistemas de cultivo, (orgánico, coco, hidropónico…). Si sus condiciones son óptimas su nivel de THC puede ser muy alto. Ten en cuenta que puede no ser recomendada para fumadores noveles.</p><p>También hay que decir que es muy recomendable para cultivos en exterior por la producción extremadamente alta que tiene. Al ser de ascendencia sativa permite desarollar un más que notable tamaño en los cogollos, con unos niveles de resina espectaculares. Además 1024 tiene un contenido medio en CBD lo cual se traduce en que le confiere propiedades medicinales.</p><p>La verdad es que definir su sabor es realmente complejo, se combinan una serie de matices, todos ellos a la vez, (dulce, almizcle, especiado, frutal), aunque también podemos encontrar un fenotipo más acido y con toques a incienso.</p><p>En conclusión 1024 es una variedad muy agradecida debido a su gran rendimiento (tanto en interior como en exterior, pero especialmente en éste último), apta tanto para cultivadores nóveles como para los mas experimentados.</p><ul><li>Período floración interior: 11-13 semanas.</li><li>Producción en interior/m2: unos 600 gramos.</li><li>Altura en exterior: 3-3,5 metros.</li><li>Producción en exterior/planta:600-800 gr.</li><li>Genotipo:Top Secret.</li><li>THC: alto.</li><li>CBD: bajo.</li></ul></p>",
     "Meta description": "",
-    "Image URLs": "https://www.kushbreak.cl/bcn-sour-diesel",
-    "Category": "Semillas; Feminizadas; Medical Seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/778cc4b2-2700-49d3-8d65-efc94f6816a0.jpg",
+    "Category": "Semillas; Feminizadas; Medical Seeds",
+    "uuid": "778cc4b2-2700-49d3-8d65-efc94f6816a0",
+    "img_filename": "778cc4b2-2700-49d3-8d65-efc94f6816a0.jpg"
   },
   {
     "Product ID": 145,
@@ -2444,11 +2456,13 @@ export const products = [
     "Reference #": "2046ZX83",
     "Manufacturer": "Medical seeds",
     "Quantity": 100,
-    "Summary": "<p>2046 ha sido seleccionada por su increíble potencia psicodélica, y su indiscutible aroma Haze.</p>", 
+    "Summary": "<p>2046 ha sido seleccionada por su increíble potencia psicodélica, y su indiscutible aroma Haze.</p>",
     "Description": "<p><strong>La planta nació de cruces entre sativas puras,</strong> por eso, es la variedad más potente a nivel cerebral de este banco. Se necesita paciencia para cosechar a esta dama, pero la recompensa llega entre las 15 y 16 semanas, dependiendo del fenotipo, siendo la más psicodélica el fenotipo de más larga duración.</p><p>Hay que decir que su cultivo es difícil y no es apto para cultivadores novatos, solo puede ser cultivada en SCROG, o en cultivos de mucha altura sujetadas con tutores. En exterior se consiguen plantas muy grandes con una altísima producción.</p><p>Realmente es un placer disfrutar de ésta flor, que habiendo sido cultivada en condiciones óptimas, puede ser una de las mejores experiencias para cualquier cultivador. La potencia de 2046 es muy energizante y su intenso sabor Haze es el mejor regalo para el paladar.</p>",
     "Meta description": "",
-    "Image URLs": "https://paraphernalia.cl/producto/medical-seed-2046-fem-x3/",
-    "Category": "Semillas; Feminizadas; Medical Seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/78ee4c82-b623-41c4-9cab-0ea2502f9219.jpg",
+    "Category": "Semillas; Feminizadas; Medical Seeds",
+    "uuid": "78ee4c82-b623-41c4-9cab-0ea2502f9219",
+    "img_filename": "78ee4c82-b623-41c4-9cab-0ea2502f9219.jpg"
   },
   {
     "Product ID": 146,
@@ -2462,8 +2476,10 @@ export const products = [
     "Summary": "<p>Cruzar la Stella Blue con la Nepalí Kush ha resultado ser una fantástica experiencia.</p>",
     "Description": "<p><strong>Tanto el aroma como el sabor sorprenden a la primera,</strong>  el característico toque a pimienta de la Stella se funde con la fragancia a menta de la nepalí, convirtiéndola en una variedad irresistible.</p><p>PEPPERMINT KUSH crece a mediana altura con una hermosa gama de colores. Muchas ramas con grandes puntas producen un gran rendimiento de cannabis aromático maravillosamente seductor. Las ramas laterales se terminan de poblar en las últimas dos semanas de floración, necesitando algo de apoyo.</p>",
     "Meta description": "",
-    "Image URLs": "https://www.mundoenteogeno.com/es/barney-s-farm/8222-peppermint-kush.html",
-    "Category": "Semillas; Feminizadas; Barney´s Farm"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/60bc0cc2-d664-4820-8d41-47b5f3898864.jpg",
+    "Category": "Semillas; Feminizadas; Barney´s Farm",
+    "uuid": "60bc0cc2-d664-4820-8d41-47b5f3898864",
+    "img_filename": "60bc0cc2-d664-4820-8d41-47b5f3898864.jpg"
   },
   {
     "Product ID": 147,
@@ -2477,8 +2493,10 @@ export const products = [
     "Summary": "<p>Cruzar la Stella Blue con la Nepalí Kush ha resultado ser una fantástica experiencia.</p>",
     "Description": "<p><strong>Tanto el aroma como el sabor sorprenden a la primera</strong> el característico toque a pimienta de la Stella se funde con la fragancia a menta de la nepalí, convirtiéndola en una variedad irresistible.</p><p>PEPPERMINT KUSH crece a mediana altura con una hermosa gama de colores. Muchas ramas con grandes puntas producen un gran rendimiento de cannabis aromático maravillosamente seductor. Las ramas laterales se terminan de poblar en las últimas dos semanas de floración, necesitando algo de apoyo.</p>",
     "Meta description": "",
-    "Image URLs": "https://www.mundoenteogeno.com/es/barney-s-farm/8222-peppermint-kush.html",
-    "Category": "Semillas; Feminizadas; Barney´s Farm"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/3c5ffcee-465e-4dd8-81b2-07b0ce6423fc.jpg",
+    "Category": "Semillas; Feminizadas; Barney´s Farm",
+    "uuid": "3c5ffcee-465e-4dd8-81b2-07b0ce6423fc",
+    "img_filename": "3c5ffcee-465e-4dd8-81b2-07b0ce6423fc.jpg"
   },
   {
     "Product ID": 148,
@@ -2492,8 +2510,10 @@ export const products = [
     "Summary": "<p>Las semillas de marihuana Triple Cheese de Barney's Farm son una variedad de cannabis feminizada con dominancia Indica fruto de la unión entre Cheese y Blue Cheese. El resultado es un híbrido cannábico con las cualidades aromáticas y gustativas auténticas y únicas de la línea Cheese.</p>",
     "Description": "<p>Las semillas de marihuana Triple Cheese de Barney's Farm <strong>son una variedad de cannabis feminizada con dominancia Indica</strong> fruto de la unión entre Cheese y Blue Cheese. El resultado es un híbrido cannábico con las cualidades aromáticas y gustativas auténticas y únicas de la línea Cheese.</p><p>La semilla de marihuana Triple Cheese ofrece la posibilidad de cultivar una planta de marihuana que muestra todo el esplendor de la genética Cheese. Una vez conquistado el Reino Unido es evidente que esta nueva versión de Cheese tiene un lugar entre nosotros. Se trata de una planta de estatura media, fácil de cultivar, con floración corta, vigorosa y productiva que ofrece cogollos prietos y pesados llenos de resina.</p><p>Al cultivar semillas de marihuana Triple Cheese en interior, especialmente con los métodos SOG y SCROG, el resultado es totalmente satisfactorio. En exterior los resultados son excelentes en un clima templado y mediterráneo así como en invernadero. La utilización de filtros anti olor es casi obligada ya que su aroma es realmente fuerte.</p><p>La variedad de marihuana Triple Cheese posee un aroma y un sabor marcados, con notas a queso viejo y a frutos del bosque. Su efecto es potente y relajante, lo que invita a disfrutar de agradables momentos de descanso.</p>",
     "Meta description": "",
-    "Image URLs": "https://www.xtremegrow.com/barneys-farm-triple-cheese-feminizada#/699-cantidad-5_semillas",
-    "Category": "Semillas; Feminizadas; Barney´s Farm"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/1863c50e-ba92-43c3-97c4-a6d20165f1d6.jpg",
+    "Category": "Semillas; Feminizadas; Barney´s Farm",
+    "uuid": "1863c50e-ba92-43c3-97c4-a6d20165f1d6",
+    "img_filename": "1863c50e-ba92-43c3-97c4-a6d20165f1d6.jpg"
   },
   {
     "Product ID": 149,
@@ -2507,8 +2527,10 @@ export const products = [
     "Summary": "<p>Las semillas de marihuana Blue Mammoth de Barney’s Farm son una variedad de cannabis autoflorecientes feminizadas con dominancia Indica, fruto de la unión de una Skunk #1, una Blue Cheese y una Ruderalis Siberiana.</p>",
     "Description": "<p>Las semillas de marihuana Blue Mammoth de Barney’s Farm <strong>son una variedad de cannabis autoflorecientes feminizadas con dominancia Indica,</strong> fruto de la unión de una Skunk #1, una Blue Cheese y una Ruderalis Siberiana. Se trata de un híbrido cannábico equilibrado que destaca por su coloración azulada.</p><p> Sus exóticas cualidades aromáticas y gustativas no dejarán a nadie indiferente.Blue Mammoth desarrolla una planta de marihuana de estatura pequeña/media, de fácil cultivo, que produce cogollos gruesos, compactos y resinosos. Recompensa a los cultivadores de todos los niveles con cosechas de resina dulce de gran calidad.</p><p> El cultivo de esta variedad de cannabis es sencillo, en interior es una bestia cannábica y en exterior despliega todo su potencial bajo climas templados y soleados.El aroma y el sabor de Blue Mammoth son intensos, dulzones y azucarados con notas a Cheese su efecto es potente y relajante, típico Indica y de larga duración. Es la marihuana ideal para liberar tensiones y degustar tras una dura jornada de trabajo.</p><p>Características de las semillas de marihuana Blue Mammoth</p><p>Sexo Autofloreciente</p><p>Genotipo Dominancia índica</p><p>Cruce Skunk#1 x Bluer Cheese x Siberian Ruderalis</p><p>Cultivo recomendado Interior y exterior</p><p>Floración en interior 70 días</p><p>Producción en interior 350-400 g/m2</p><p>Altura en interior 60-80 cm</p><p>Cosecha en exterior Mediados de abril</p><p>Producción en exterior 35-70 g/planta</p><p>THC\t10-12%</p>",
     "Meta description": "",
-    "Image URLs": "https://www.tucultivo.cl/blue-mammoth-auto-x3/",
-    "Category": "Semillas; Automáticas; Barney´s Farm"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/df0de471-b0f2-45d5-8e61-64a3a09cb42e.jpg",
+    "Category": "Semillas; Automáticas; Barney´s Farm",
+    "uuid": "df0de471-b0f2-45d5-8e61-64a3a09cb42e",
+    "img_filename": "df0de471-b0f2-45d5-8e61-64a3a09cb42e.jpg"
   },
   {
     "Product ID": 150,
@@ -2519,11 +2541,13 @@ export const products = [
     "Reference #": "G13HAZ61",
     "Manufacturer": "Barney´s Farm",
     "Quantity": 100,
-    "Summary": "<p>Mantener la leyenda de nuestra mística G13 cruzándola con la clásica Skunk#1 fue la ocasión perfecta para hacer la primera mejora al avanzado pedigrí G13.</p>", 
+    "Summary": "<p>Mantener la leyenda de nuestra mística G13 cruzándola con la clásica Skunk#1 fue la ocasión perfecta para hacer la primera mejora al avanzado pedigrí G13.</p>",
     "Description": "<p>Desde entonces, al cruzar la combinación de G13 y Skunk#1 con la Sativa Hawaiana, una de nuestras favoritas, <strong>Barneys Farm ha llevado la legendaria G13 a niveles extremos,</strong> creando la famosa G13 HAZE. Esta planta produce un high (una sensación) que cubre el espectro completo de los efectos, con un stone (colocón) corporal completo combinado con el high (efecto) psicodélico de la Sativa. La combinación es potente, celestial e inolvidable.<ul>   <li>Tipo Regular</li>   <li>Fotoperiodo Normal</li>   <li>Cultivo Interior/Exterior</li>   <li>Genética G13 x Hawaiian Sativa</li>   <li>Productividad en Exterior (g) 450-500</li>   <li>Tiempo de Floración (días) 65 - 75</li>   <li>Mes de Cosecha Exterior Feminizada Octubre</li>   <li>Mes / Semana de Cosecha Exterior Feminizada 3-4ª semana</li>   <li>Altura (cm) 100-110cm</li>   <li>Altura Media</li>   <li>% Índica 35%</li>   <li>% Sativa 65%</li>   <li>Índica / Sativa Mayormente Sativa</li>   <li>Médica Sí</li>  </ul></P>",
     "Meta description": "",
-    "Image URLs": "https://www.kannabia.com/es/barneys-farm/g13-haze-regular",
-    "Category": "Semillas; Regulares; Barney´s Farm"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/8fa3759a-7ce0-4719-9cb7-bc3391db4186.jpg",
+    "Category": "Semillas; Regulares; Barney´s Farm",
+    "uuid": "8fa3759a-7ce0-4719-9cb7-bc3391db4186",
+    "img_filename": "8fa3759a-7ce0-4719-9cb7-bc3391db4186.jpg"
   },
   {
     "Product ID": 151,
@@ -2537,8 +2561,10 @@ export const products = [
     "Summary": "<P>Critical Mass X OG Kush. Cruce de la galardonada Critical Mass con OG Kush, esta robusta y vigorosa índica produce inmensas cantidades de muy potente Kush.</p>",
     "Description": "<p><strong>Floreciendo tras sólo 8 semanas en interior,</strong> crece a una altura media con un excepcional ratio hojas-cogollos. Disfruta de su tacto pegajoso, sus aromas únicos, sus cogollos cubiertos de tricomas y su efecto tumbador.</p><p> El sabor de la Kush es inconfundible y lo que da cada planta es notable, este nuevo híbrido es un avance en lo que al cultivo moderno de marihuana se refiere, y su naturaleza puramente índica la convierte en el complemento ideal tanto para esos momentos de relajación como para el alivio del dolor.</p><ul><li>100% Indica</li><li>650 gr/m²</li>    <li>100/110 cm</li>    <li>55/60 días</li>    <li>Finales de Septiembre</li>    <li>THC: 25%</li>    <li>THC: 1.8%</li>   </ul> </ul></p>",
     "Meta description": "",
-    "Image URLs": "https://www.deliciousseeds.com/es/barneys-farm/critical-kush-fem.html",
-    "Category": "Semillas; Regulares; Barney´s Farm"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/7b61fac5-36d8-4bee-be0f-d555f268fcda.jpg",
+    "Category": "Semillas; Regulares; Barney´s Farm",
+    "uuid": "7b61fac5-36d8-4bee-be0f-d555f268fcda",
+    "img_filename": "7b61fac5-36d8-4bee-be0f-d555f268fcda.jpg"
   },
   {
     "Product ID": 152,
@@ -2552,8 +2578,10 @@ export const products = [
     "Summary": "<p>Los cultivadores novatos, no se sentirán agobiados con la Auto Critical HOG de T.H. Seeds, ya que este gigante verde es en realidad una planta muy fácil de cultivar; y también es capaz de producir unos impresionantes rendimientos.</p>",
     "Description": "<p>Los cultivadores novatos, no se sentirán agobiados con la Auto Critical HOG de T.H. Seeds, ya que este gigante verde es en realidad una planta muy fácil de cultivar, y también es capaz de producir unos impresionantes rendimientos. De naturaleza predominantemente Indica, esta potente cepa es una armoniosa mezcla de la Tennessee HOG con una Critical Mass del País Vasco.<p/><p>Siendo una planta tan expansiva, los cultivadores deberán asegurarse de tener el espacio y las instalaciones adecuadas, sobre todo si eligen cultivarla en el interior. La ventilación, por ejemplo, es una necesidad absoluta para los cultivadores de guerrilla, ya que los enormes brotes recubiertos de resina de la Auto Critical HOG, despiden un tremendo aroma.<p/><p>En función de su crecimiento, la Auto Critical HOG alcanza una moderada altura de unos 100 cm en el interior. Esta cifra, sin embargo, se supera fácilmente cuando se cultiva al aire libre, donde puede llegar a alcanzar hasta 120 cm (bajo condiciones favorables). Su periodo de floración medio es de 65-70 días, y sus rendimientos de 350-550g/m².<p/><p>Para algunos, es una cepa ligeramente lenta, pero si se tiene en cuenta su predisposición a ser muy potente, muy resistente y muy fecunda, pronto te darás cuenta de que sus aspectos positivos sobrepasan con creces a los negativos.<p/><p>En resumen, la Auto Critical HOG es una gigante apacible cuya facilidad de manejo prepara el terreno para que los cultivadores novatos obtengan la experiencia que necesitan con un espécimen de gran calidad. Los cultivadores expertos, por otro lado, recogerán los beneficios de su abundantes cosechas de una hierba de excelente calidad.</p>",
     "Meta description": "",
-    "Image URLs": "https://www.tucultivo.cl/auto-critical-hog-x2-th-seeds/",
-    "Category": "Semillas; Automáticas; T.H.Seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/1bfa7c9b-f539-49ec-bf3a-e806560c5548.jpg",
+    "Category": "Semillas; Automáticas; T.H.Seeds",
+    "uuid": "1bfa7c9b-f539-49ec-bf3a-e806560c5548",
+    "img_filename": "1bfa7c9b-f539-49ec-bf3a-e806560c5548.jpg"
   },
   {
     "Product ID": 153,
@@ -2567,8 +2595,10 @@ export const products = [
     "Summary": "<p>Super Skunk Automatic es una variedad de semillas de marihuana autoflorecientes feminizadas del banco SENSI SEEDS.<p/><p>Las exquisitas cualidades de la mundialmente famosa familia Super Skunk han sido mezcladas con un vigoroso ejemplar de Cannabis ruderalis para crear una variedad excepcional autofloreciente y feminizada de marihuana.</p>",
     "Description": "<p><strong>Super Skunk Automatic, como algunos híbridos autoflorecientes,<strong> tiene la ventaja</strong> de ser capaz de producir dos cosechas maduras de hembras en una sola temporada de cultivo exterior</strong> cuando se siembra en un clima cálido y soleado. En interior su capacidad de autofloración dispara el comienzo de la floración tras unas seis semanas de crecimiento vegetativo.</p><p>Incluso en manos de cultivadores inexpertos, esta variedad de semillas produce fácilmente una bonita cosecha de cogollos duros y brillantes. Super Skunk Automatic tiene un buen patrón de crecimiento y una fantástica estructura de cogollos. Se mantiene pequeña y compacta pero produce colas fuertes formadas por cálices excepcionalmente gruesos y pegajosos. Sus cogollos son dulces, muy resinosos y pegan fuerte, un efecto cerebral estimulante inmediato y potente seguido por una no menos poderosa y penetrante sensación de relajación física.</p><p>Características de Super Skunk Automatic:<ul>   <li>Tipo: Autofloreciente feminizada</li>   <li>Genotipo: 80% Índica</li>   <li>Cultivo interior y exterior (Templado / Continental)</li>   <li>Periodo de floración: 45-55 días</li>   <li>Producción: grande</li>   <li>Altura: compacta</li> </ul></p>",
     "Meta description": "",
-    "Image URLs": "https://www.semillasdelhuaso.cl/index.php?route=product/product&product_id=307",
-    "Category": "Semillas; Automáticas; Sensi Seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/4373b960-042f-4d95-a2a0-15227a5e948a.jpg",
+    "Category": "Semillas; Automáticas; Sensi Seeds",
+    "uuid": "4373b960-042f-4d95-a2a0-15227a5e948a",
+    "img_filename": "4373b960-042f-4d95-a2a0-15227a5e948a.jpg"
   },
   {
     "Product ID": 154,
@@ -2582,8 +2612,10 @@ export const products = [
     "Summary": "<p>La Early Skunk Auto de Sensi Seeds ofrece cosechas espectaculares en condiciones desfavorables. Creada para proporcionar resultados excelentes en veranos cortos y temperaturas más bajas, con resistencia natural a hongos y plagas, es una de las cepas preferidas para cultivadores de exterior en el Reino Unido y el resto de Europa. ¡Es una versión autofloreciente muy fácil de esta índica increíble!</p>",
     "Description": "<p><strong>No todo el mundo vive en una región soleada como California o el Mediterráneo,</strong> donde normalmente es sencillo cultivar una hierba de gran calidad. En otras zonas, como en el Reino Unido o el norte de Europa, no siempre es fácil, porque los veranos son cortos, llueve a menudo y surgen otros inconvenientes que hacen que en ocasiones cultivar sea todo un desafío.</p><p>Las índicas potentes, como las primeras Skunk, todavía proceden de una época donde el cultivo de interior en condiciones controladas no era tan habitual. Los cogollos densos de las Skunk las hacían muy propensas a los mohos, lo cual se convertía a menudo en un problema cuando se plantaban al aire libre en condiciones frías y húmedas.</p><p>Esto cambió cuando Sensi presentó su increíble Early Skunk, donde se cruzó una Skunk #1 con la fiable Early Pearl. De repente, los cultivadores de exterior tenían ahora una cepa excelente para cualquier clima, que les ofrecía cosechas espectaculares en un plazo de floración muy rápido, ideal para estas condiciones. Su resistencia natural a hongos y mohos, problemas habituales para el cultivador, se sumaba a una calidad que la situaba entre las mejores cepas de exterior que incluso cultivadores poco experimentados pueden plantar con éxito.</p><p>Ahora, su Early Skunk Auto va un paso más allá y nos trae la comodidad de una autofloreciente, por lo que aún es más fácil de cultivar. Crece hasta su tamaño definitivo en apenas 5-6 semanas, con unos cogollos maduros y listos para la cosecha en 6-8 semanas desde el inicio de la floración. Esto significa que verás resultados ¡en sólo unas 11-14 semanas tras sembrar tus semillas!</p><p>La Early Skunk Auto forma la mayor parte de sus enormes y compactos cogollos en los nudos y ramas superiores, donde desarrollará colas anchas y redondeadas. Además producirá algunos cogollos sueltos en la parte inferior, pero en general se verá mucho más poblada en su copa.</p><p>Cuando los cogollos maduren, desprenderán una agradable fragancia Skunk con la típica combinación de matices aromáticos a almizcle, picante y dulce. Pero obviamente, la Early Skunk Auto no sólo huele de maravilla. No tendría sentido si no fuese además una gran productora de resina. Simplemente seca sus cogollos tras recogerlos y verás cómo mantienen su tacto pegajoso gracias a una gran capa de glándulas de resina.</p><p>La Early Skunk Auto puede desarrollarse en dos fenotipos diferentes, ambos con sus ventajas particulares. Las plantas más potentes formarán cálices muy grandes en una estructura de flor más abierta. El otro fenotipo produce cogollos más densos, de tipo afgano, dando lugar a cosechas ligeramente superiores.</p><p>A pesar de ser insultantemente rápida y fácil de cultivar, la Early Skunk Auto puede ofrecer una experiencia completamente Skunk al fumarla. Gracias a su dominancia índica Skunk al 70%, proporciona un colocón corporal muy potente pero relajante, el motivo de su popularidad entre los aficionados al cannabis. Pero también hay un elemento cerebral más suave y animado que recibe de la sativa Early Pearl, convirtiéndose en una fumada increíblemente equilibrada que puedes disfrutar a cualquier hora del día sin resultar excesiva.</p><p>La Early Skunk Auto de Sensi Seeds es una variedad sencillamente ideal para exterior si quieres una buena cosecha de cogollo Skunk realmente potente en casi cualquier entorno de cultivo. Aunque la Early Skunk feminizada no era precisamente difícil de cultivar, la versión autofloreciente es aún más sencilla, lo cual convierte a la Early Skunk Auto en una cepa perfecta incluso para novatos en el cultivo de marihuana. Plántala donde quieras, en tu balcón o terraza y ¡podrás disfrutar del mejor material Skunk en un tiempo récord!</p>",
     "Meta description": "",
-    "Image URLs": "https://www.magicalseeds.cl/producto/early-skunk-auto/",
-    "Category": "Semillas; Automáticas; Sensi Seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/d16986db-6726-49c7-bb1e-ca4dede9561e.jpg",
+    "Category": "Semillas; Automáticas; Sensi Seeds",
+    "uuid": "d16986db-6726-49c7-bb1e-ca4dede9561e",
+    "img_filename": "d16986db-6726-49c7-bb1e-ca4dede9561e.jpg"
   },
   {
     "Product ID": 155,
@@ -2597,8 +2629,10 @@ export const products = [
     "Summary": "<p>Skunk # 1 es simplemente una de las variedades de cannabis más importantes jamás creadas. Durante por lo menos a 30 años, la Skunk # 1 y sus innumerables descendientes han influido directamente en la cultura del cannabis de todo el mundo más que cualquier otra variedad.</p>",
     "Description": "<p>Skunk #1 Automatic <strong>es una variedad de semillas de marihuana autoflorecientes del banco SENSI SEEDS.</strong> Skunk # 1 es simplemente una de las variedades de cannabis más importantes jamás creadas. Durante por lo menos a 30 años, la Skunk # 1 y sus innumerables descendientes han influido directamente en la cultura del cannabis de todo el mundo más que cualquier otra variedad.</p><p>as variedades de Skunk destacan por su crecimiento sin problemas. Para principiantes y cultivadores experimentados por igual, Skunk #1 Automatic es una de los maneras más fáciles y rápidas de obtener cannabis medicinal o recreativo de alta calidad. Skunk #1 Automatic comienza a florecer en menos de un mes después de que las plántulas broten del sustrato. Una vez iniciada, la fase de floración es vigorosa y productiva, con una duración de 45 a 55 días, asimismo las plantas menos desarrolladas no revegetarán.</p><p>Responde estupendamente bajo iluminación artificial, en primavera y verano también puede florecer en exterior en muchos lugares por debajo de unos 45 ° N.</p><p>Los cogollos maduros de Skunk #1 Automatic son grandes y compactos, con brillantes glándulas de resina ricas en THC y que están totalmente a la altura de los altos estándares de sus antecesores.</p><p>Su sabor y el efecto deberían resultarles familiar a la mayoría de los amantes del cannabis - un delicioso sabor dulce y picante seguido de ¡una combinación del efecto físico y cerebral tremendamente potente!<p>Características de Skunk #1 Automatic</p> <ul>   <li>Tipo: Autofloreciente feminizada</li>   <li>Genotipo: 35% Índica | 65% Sativa</li>   <li>Cultivo interior y exterior (Templado / Continental)</li>   <li>Periodo de floración: 60-65 días</li>   <li>Producción: media</li>   <li>Altura: compacta</li> </ul></p>",
     "Meta description": "",
-    "Image URLs": "https://www.semillasdelhuaso.cl/index.php?route=product/product&product_id=308",
-    "Category": "Semillas; Automáticas; Sensi Seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/6d94dcf1-b492-46a6-995b-316fe726df37.jpg",
+    "Category": "Semillas; Automáticas; Sensi Seeds",
+    "uuid": "6d94dcf1-b492-46a6-995b-316fe726df37",
+    "img_filename": "6d94dcf1-b492-46a6-995b-316fe726df37.jpg"
   },
   {
     "Product ID": 156,
@@ -2612,8 +2646,10 @@ export const products = [
     "Summary": "<p>Auto Ultimate de Dutch Passion es una semilla de marihuana que procede del cruce entre una The Ultimate y una Automazar. El resultado es una variedad de cannabis autofloreciente con dominancia Indica, vigorosa, robusta, fácil de cultivar.</p>",
     "Description": "<p>Con floración corta y productiva.<strong> Auto Ultimate desarrolla una planta de marihuana de estatura media,</strong> con una estructura resistente, con una distancia entre nudos corta y con hojas de tamaño intermedio. Crece con el aspecto de un pino de Navidad elegante y achaparrado, y produce una generosa cosecha con enormes cogollos compactos y resinosos. Es una semilla de marihuana dirigida a los amantes de las Indicas que buscan una variedad auto con un rendimiento alto.</p><p>Auto Ultimate es una semilla de marihuana con la que cualquier cultivador puede obtener fácilmente y sin mucho esfuerzo una abundante cosecha. Se aconseja añadir un 30% de coco a la mezcla de tierra para acelerar los diferentes procesos de metabolización y el desarrollo general de la planta.</p><p>Auto Ultimate es una variedad de marihuana con un aroma y un sabor intensos, con notas a fruta dulce y a especias. Su efecto es potente, calmante y de larga duración. Es ideal para descansar tras una dura jornada.</p><p>Recuerda que además de acceder al catálogo completo de semillas Dutch Passion, puedes elegir entre nuestra oferta con más de 3.000 variedades de semillas de marihuana. No olvides utilizar nuestros filtros avanzados para seleccionar variedades en función de su nivel de THC, de la duración de su periodo de floración, o de su altura.</p>",
     "Meta description": "",
-    "Image URLs": "https://www.lamota.org/es/auto-ultimate/",
-    "Category": "Semillas; Automáticas; Dutch Passion"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/a5cca337-bd36-475f-a74f-bd8581dfaa03.jpg",
+    "Category": "Semillas; Automáticas; Dutch Passion",
+    "uuid": "a5cca337-bd36-475f-a74f-bd8581dfaa03",
+    "img_filename": "a5cca337-bd36-475f-a74f-bd8581dfaa03.jpg"
   },
   {
     "Product ID": 157,
@@ -2627,8 +2663,10 @@ export const products = [
     "Summary": "<p>Las semillas de marihuana Auto Glueberry O.G. de Dutch Passion constituyen una variedad de cannabis autofloreciente feminizada con dominancia Sativa.</p>",
     "Description": "<p><strong>Nace de la unión entre una (Gorilla Glue x OG) y una Auto Blueberry de su colección.</strong> Se trata de una variedad de marihuana automática, muy potente que ofrecerá unas abundantes cosechas de enormes cogollos.Esta semilla de marihuana ha sido creada con el objetivo de ofrecer a los amantes de las genéticas O.G., un híbrido muy potente en tan solo 11 semanas. Se trata de una magnífica planta sativa, fácil de cultivar, con floración corta, debido a su condición autofloreciente, que produce grandes cogollos cubiertos de una densa capa de resina.</p><p> La Auto Glueberry O.G. es la versión autofloreciente de la Glueberry O.G., una productora descomunal que ofrece unos rendimientos increíbles en interior, en exterior o en invernadero.El cultivo de las semillas de marihuana Auto Glueberry O.G. se ve optimizado con técnicas SOG y SCROG, y en exterior agradece los climas cálidos y soleados. Se trata de una planta muy fácil de cultivar y asequible para cualquier tipo de cultivador.</p><p>El aroma y el sabor de Auto Glueberry O.G. presentan notas de diésel y de fruta. Su potente efecto cerebral provoca una duradera sensación relajante, física y mental, perfecta para disfrutar de unos momentos de descanso.</p>",
     "Meta description": "",
-    "Image URLs": "https://www.dinafem.org/es/auto-glueberry-og/",
-    "Category": "Semillas; Automáticas; Dutch Passion"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/3e4dbb6f-a604-49a9-ae8f-ca3529b4d1c9.jpg",
+    "Category": "Semillas; Automáticas; Dutch Passion",
+    "uuid": "3e4dbb6f-a604-49a9-ae8f-ca3529b4d1c9",
+    "img_filename": "3e4dbb6f-a604-49a9-ae8f-ca3529b4d1c9.jpg"
   },
   {
     "Product ID": 158,
@@ -2642,8 +2680,10 @@ export const products = [
     "Summary": "<p>Auto Banana Blaze de Dutch Passion es una cepa de predominancia Indica que surge del cruce entre una Banana Blaze y una Auto Mazar.</p>",
     "Description": "<p><strong>Esta cepa robusta y de gran producción es fácil de cultivar.</strong> Además sus flores son resinosas con aromas penetrantes dulces, cremosos y con notas a frutas tropicales. Con un elevado nivel de THC ésta cepa te dará un efecto relajante para cuerpo y mente y además, te ayudará a aliviar el estrés.<p>Ficha Técnica <ul>  <li>Indica</li>  <li>THC Muy alto / CBC 0,16% / CBG 1,48%</li>  <li>Indoor 400-500g/m2</li>  <li>12 Semanas desde la germinación</li> </ul></p>",
     "Meta description": "",
-    "Image URLs": "https://www.dinafem.org/es/auto-banana-blaze/",
-    "Category": "Semillas; Automáticas; Dutch Passion"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/fa775c76-298e-482e-a267-42e2c9a3da5b.jpg",
+    "Category": "Semillas; Automáticas; Dutch Passion",
+    "uuid": "fa775c76-298e-482e-a267-42e2c9a3da5b",
+    "img_filename": "fa775c76-298e-482e-a267-42e2c9a3da5b.jpg"
   },
   {
     "Product ID": 159,
@@ -2657,8 +2697,10 @@ export const products = [
     "Summary": "<p>AutoBlueberry fue creada por diferentes razones, en primer lugar para traer calidad superior al acervo genético de semillas feminizadas automáticas. Blueberry es en sí misma uno de los best-sellers de todos los tiempos, una pasión neerlandesa clásica. Las cualidades especiales de Blueberry son conocidas en todo el mundo.En AutoBlueberry estas cualidades se han incorporado a la forma feminizada y automática.</p>",
     "Description": "<p>Las variedades feminizadas automáticas tienen varias ventajas, por encima de todo que no dependen del ciclo de luz. Las AutoBlueberry estarán listas para la cosecha en aproximadamente diez semanas.</P><P>Las plantas crecerán al aire libre por un breve período, no crecen muy altas y se esconden fácil a los ojos de los visitantes no deseados. Por la misma razón es posible la cosecha al aire libre de dos a tres veces por temporada, dependiendo de la latitud. En latitudes del Norte es una alternativa muy atractiva para un cultivo de verano. En los climas mediterráneo dos o tres cosechas por temporada no son infrecuentes.</p><p>En todos los aspectos AutoBlueberry es una verdadera cosmopolita, En el interior esta variedad es una alternativa increíble para el cultivo de clones.Como genética automática hemos utilizado la Ruderalis canadiense. Retrocruzandola hasta la generación F4 el resultado en AutoBlueberry ha sido convertirse en 100% automática, lo que significa que 25 días después de la germinación de las semillas empiezan a florecer.</p><p>Las plantas todavía llevan la mayor parte de las características del arándano, que es el fenotipo distintivo Blueberry. La mayoría de ellas cogen los famosos tonos azul / violeta coloración, característica de la Blueberry. El olor y el sabor son dulces y afrutados (arándano) y la fuerza y la calidad está por encima de moderado.<p></p>Características de Auto Blueberry</p> <ul>  <li>Tipo: Autofloreciente Feminizada</li>  <li>60% Indica / 20%Sativa / 20% Rudelaris</li>  <li>Cultivo interior y exterior</li>  <li>Floración: 10 semanas</li>  <li>Producción: Media</li>  <li>THC: 7-14%</li> </ul></p>",
     "Meta description": "",
-    "Image URLs": "https://www.dinafem.org/es/auto-blueberry/",
-    "Category": "Semillas; Automáticas; Dutch Passion"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/4ded8bc4-f0b9-45fb-a85f-cfa6f2625f7d.jpg",
+    "Category": "Semillas; Automáticas; Dutch Passion",
+    "uuid": "4ded8bc4-f0b9-45fb-a85f-cfa6f2625f7d",
+    "img_filename": "4ded8bc4-f0b9-45fb-a85f-cfa6f2625f7d.jpg"
   },
   {
     "Product ID": 160,
@@ -2672,8 +2714,10 @@ export const products = [
     "Summary": "<p>Una planta de tamaño desmedido para tratarse de una cepa auto-floreciente, la cual ha pasado por varios procesos de selección para llegar hasta este monstruo automático repleto de la mejor resina.</p>",
     "Description": "<p>Se presenta como 90% índica por lo que sin duda tendremos buenos resultados en referencia a sus cuidados y a la producción obtenida. Gracias a la temprana floración que presenta esta planta, podremos realizar varios cultivos durante toda la temporada ya sea en interior o bien en exterior ya que en tan solo 55 días de cultivo completo la tendremos completamente madura para su corte.</p><p>En indoor es una planta que precisa de pocos riegos durante su crecimiento ya que si encharcamos en exceso la tierra, solo conseguiremos que la planta estanque el crecimiento quedándose muy bajita y poco ramificada. Es una buena opción para cultivadores comerciales ya que cuenta con una estabilidad genética ejemplar, facilitando así su cultivo desde semilla, ya que obtendremos un mar de puntas todas repletas de resina. Hasta 400gr con unas 10 plantas por m2, las cuales precisan de un buen sustrato y una alimentación constante durante todo su cultivo.</p><p>En exterior tendremos los mejores resultados ya que se forma de manera equilibrada y precisará un poquito más de tiempo para madurar el pesado fruto que produce. Muchos de los mejores cultivadores han usado esta cepa para sus cultivos al aire libre, ya que con el clima mediterráneo, esta variedad nos brindará plantas de hasta 200gr cada una, llegando a medir hasta el 1.5m de altura. Sus fuertes ramas producirán una excelente cantidad de cogollos hermosos y bien prietos.</p><p>El sabor es una verdadera experiencia inigualable, pasando por toques a café y cítricos los cuales se funden con el dulce final. Muy potente en su efecto ya que contiene buenos niveles de THC, llegando hasta el 19% en la mayoría de ejemplares estudiados.</p><ul>  <li>Sativa/Indica: 65/35%.</li>  <li>Floración: 55-65 días en interior y exterior.</li>  <li>Altura: 1-1.2m en interior y exterior.</li> </ul></p>",
     "Meta description": "",
-    "Image URLs": "https://www.dinafem.org/es/big-devil-xl/",
-    "Category": "Semillas; Automáticas; Sweet Seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/7294efa9-d17d-49c0-9bab-0d8305eeeeee.jpg",
+    "Category": "Semillas; Automáticas; Sweet Seeds",
+    "uuid": "7294efa9-d17d-49c0-9bab-0d8305eeeeee",
+    "img_filename": "7294efa9-d17d-49c0-9bab-0d8305eeeeee.jpg"
   },
   {
     "Product ID": 161,
@@ -2687,8 +2731,10 @@ export const products = [
     "Summary": "<p>Green Poison XL Auto de Sweet Seeds es una autofloreciente de 3a generación resultante del cruce entre las plantas más grandes de la Green Poison.</p>",
     "Description": "<p><strong>Sus plantas tienen un crecimiento hasta 25% superior a sus versiones anteriores.</strong> Esta cepa tiene exquisitos aromas dulces y afrutados con una nota a Skunk, rúcula y nueces.<p>Ficha Técnica</p> <ul> <li>Indica 56,9% / Sativa 40% / Ruderalis 3,1%</li> <li>THC 15-20% /CBD 0,07%</li> <li>Indoor 450-600 g/m2</li> <li>8 Semanas desde la germinación</li> </ul></p>",
     "Meta description": "",
-    "Image URLs": "https://www.dinafem.org/es/green-poison-xl-auto/",
-    "Category": "Semillas; Automáticas; Sweet Seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/08dfc1b1-123e-4c01-88db-63e8bafc90ea.jpg",
+    "Category": "Semillas; Automáticas; Sweet Seeds",
+    "uuid": "08dfc1b1-123e-4c01-88db-63e8bafc90ea",
+    "img_filename": "08dfc1b1-123e-4c01-88db-63e8bafc90ea.jpg"
   },
   {
     "Product ID": 162,
@@ -2702,8 +2748,10 @@ export const products = [
     "Summary": "<p>Sweet Mix de Sweet Seeds es un entretenido pack con 10 semillas Autoflorecientes seleccionadas al azar.</p>",
     "Description": "<p>Sweet Mix de Sweet Seeds es un <strong>entretenido pack con 10 semillas Autoflorecientes seleccionadas al azar,</strong> con el que podrás disfrutar de las características de 10 cepas diferentes.</p>",
     "Meta description": "",
-    "Image URLs": "https://www.dinafem.org/es/sweet-mix-auto/",
-    "Category": "Semillas; Automáticas; Sweet Seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/cd55c051-a74a-430d-a051-8a147b59200b.jpg",
+    "Category": "Semillas; Automáticas; Sweet Seeds",
+    "uuid": "cd55c051-a74a-430d-a051-8a147b59200b",
+    "img_filename": "cd55c051-a74a-430d-a051-8a147b59200b.jpg"
   },
   {
     "Product ID": 163,
@@ -2717,8 +2765,10 @@ export const products = [
     "Summary": "<p>La Red Poison Auto es una variedad Autofloreciente. Es un híbrido entre una de las variedades más apreciadas del catálogo Sweet Seeds.</p>",
     "Description": " <p>La Red Poison Auto es una variedad Autofloreciente. <strong>Es un híbrido entre una de las variedades más apreciadas del catálogo Sweet Seeds,</strong> la Green Poison, y una exótica genética autofloreciente de flores moradas y ancestros Kush pakistaníes.Red Poison Auto crece con aspecto de híbrido índico-sativo.</p><p>Demuestra un gran vigor híbrido desde los primeros estadios de crecimiento. Desarrolla un tallo fuerte y ramas laterales largas y flexibles. Produce grandes cogollos compactos cargados de aromática resina.Los aromas y sabores son muy agradables e intensos, dulces y afrutados con un fondo suave de Skunk</p> <h4>Características de la semilla de marihuana Red Poison Auto de Sweet Seeds:</h4> <ul>  <li>Variedad SWS39</li>  <li>Indica: 76,87% / Sativa: 20% / Ruderalis: 3,12%</li>  <li>THC: 15-19% · CBD: 0,8%</li>  <li>Producción Interior: 400-550 g/m2</li>  <li>Producción Exterior: 35-175 g/planta</li>  <li>Cosecha Interior / Exterior: 8 semanas desde la germinación</li>  <li>Altura: 60-120 cm</li>  <li>Flor Roja: 90% aproximado de los individuos</li> </ul>",
     "Meta description": "",
-    "Image URLs": "https://www.dinafem.org/es/red-poison-auto/",
-    "Category": "Semillas; Automáticas; Sweet Seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/51bd0012-4e48-4eff-81ba-384d707542dc.jpg",
+    "Category": "Semillas; Automáticas; Sweet Seeds",
+    "uuid": "51bd0012-4e48-4eff-81ba-384d707542dc",
+    "img_filename": "51bd0012-4e48-4eff-81ba-384d707542dc.jpg"
   },
   {
     "Product ID": 164,
@@ -2732,8 +2782,10 @@ export const products = [
     "Summary": "",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "https://www.dinafem.org/es/black-cream-auto/",
-    "Category": "Semillas; Automáticas; Sweet Seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/c7ab2234-ffb8-475c-a854-d6199fe961df.jpg",
+    "Category": "Semillas; Automáticas; Sweet Seeds",
+    "uuid": "c7ab2234-ffb8-475c-a854-d6199fe961df",
+    "img_filename": "c7ab2234-ffb8-475c-a854-d6199fe961df.jpg"
   },
   {
     "Product ID": 165,
@@ -2747,8 +2799,10 @@ export const products = [
     "Summary": "",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "https://www.dinafem.org/es/cream-caramel-cbd/",
-    "Category": "Semillas; Feminizadas; Sweet Seeds; Medicinales"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/87951e6d-98ef-4ec3-9bf1-746622c8c73e.jpg",
+    "Category": "Semillas; Feminizadas; Sweet Seeds; Medicinales",
+    "uuid": "87951e6d-98ef-4ec3-9bf1-746622c8c73e",
+    "img_filename": "87951e6d-98ef-4ec3-9bf1-746622c8c73e.jpg"
   },
   {
     "Product ID": 166,
@@ -2762,8 +2816,10 @@ export const products = [
     "Summary": "",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "https://www.dinafem.org/es/cream-caramel-cbd/",
-    "Category": "Semillas; Feminizadas; Sweet Seeds; Medicinales"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/227acbab-e224-4010-bf5c-72ac1ae6a42c.jpg",
+    "Category": "Semillas; Feminizadas; Sweet Seeds; Medicinales",
+    "uuid": "227acbab-e224-4010-bf5c-72ac1ae6a42c",
+    "img_filename": "227acbab-e224-4010-bf5c-72ac1ae6a42c.jpg"
   },
   {
     "Product ID": 167,
@@ -2777,8 +2833,10 @@ export const products = [
     "Summary": "",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "https://www.dinafem.org/es/black-jack-cbd/",
-    "Category": "Semillas; Feminizadas; Sweet Seeds; Medicinales"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/05f010c4-0bbd-4bc8-ab0a-7a65b115cc56.jpg",
+    "Category": "Semillas; Feminizadas; Sweet Seeds; Medicinales",
+    "uuid": "05f010c4-0bbd-4bc8-ab0a-7a65b115cc56",
+    "img_filename": "05f010c4-0bbd-4bc8-ab0a-7a65b115cc56.jpg"
   },
   {
     "Product ID": 168,
@@ -2792,8 +2850,10 @@ export const products = [
     "Summary": "",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "https://www.dinafem.org/es/green-poison-cbd/",
-    "Category": "Semillas; Feminizadas; Sweet Seeds; Medicinales"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/83d1ff8b-fe8a-4578-af83-586ad99b3324.jpg",
+    "Category": "Semillas; Feminizadas; Sweet Seeds; Medicinales",
+    "uuid": "83d1ff8b-fe8a-4578-af83-586ad99b3324",
+    "img_filename": "83d1ff8b-fe8a-4578-af83-586ad99b3324.jpg"
   },
   {
     "Product ID": 169,
@@ -2807,8 +2867,10 @@ export const products = [
     "Summary": "Las semillas de Cannabis Y griega CBD 2.0 del banco Medical Seeds® es una cepa de marihuana hibrida 50% / 50% con bajos niveles de THC y altos niveles de CBD. Tras años de trabajos de selección y cruces con nuestra Y Griega CBD, hemos logrado una planta con muy alto contenido de CBD y un THC por debajo del 0,3 %.",
     "Description": "<div class=\"col-12\">\n                  <label class=\"form-control-label\">Descripción</label>\n                  <div>\n                    <p>Las semillas de Cannabis <strong>Y griega CBD 2.0</strong>&nbsp;del banco <strong>Medical Seeds®</strong> es una cepa de marihuana hibrida 50% / 50% con bajos niveles de THC y altos niveles de CBD.<br>&nbsp;<br>Tras años de trabajos de selección y cruces con nuestra Y Griega CBD, hemos logrado una planta con muy alto contenido de CBD y un THC por debajo del 0,3 %. Gracias a los cruces con la famosa genética Cherry Wine CBD hemos conseguido que toda la descendencia tenga esta característica. Esto la hace una planta ideal para todos aquellos usuarios que quieran usarla como coadyuvante a algún tratamiento terapéutico. Debido a sus bajos niveles de THC es apta para todo tipo de personas, incluyendo personas mayores y personas que no tienen tolerancia previa o nunca han tenido contacto con ella. El efecto psicoactivo que tiene es prácticamente nulo por lo que la hace perfecta para consumirla por vía oral, ya sea mediante tinturas, mantequilla, aceites vegetales, etc. A nivel estructural, es parecida a la Y Griega CBD, aunque mejora su producción a nivel general, tanto de flores como de resina. A nivel de aroma y sabor, sigue teniendo una clara predominancia cítrica, pero esta vez con pequeños matices a vino dulce, acerezado. Para conseguir su máximo rendimiento organoléptico, recomendamos cultivarla con productos orgánicos.planta es el resultado de nuestra colaboración con CBD Crew. Fruto del cruce de nuestra madre Y Griega cruzada por una planta con un alto contenido en CBD y muy poco THC, hemos conseguido la siguiente estabilización para darle a la planta el ratio 1:1 (THC:CBD). Los niveles pueden variar desde un 4 a un 10, siempre con el ratio 1:1 presente. Y CBD es una planta indicada para aquellas personas que no quieran o no toleren los altos niveles de THC. Muy indicado para hacer cremas, tinturas y demás consumibles terapéuticos, por su moderado efecto psicoactivo. Para información más detallada de todos los usos medicinales consultar nuestra pagina web. Morfológicamente es una planta de porte robusto con hoja ancha y de crecimiento vigoroso. No recomendamos poner más de 16 plantas por m2. En interior Y Griega CBD es muy vigorosa y necesita un crecimiento corto. En exterior la altura de las plantas de Y Griega CBD alcanza los tres metros, se cosechan a finales del mes de octubre y tienen una buena producción. Prefiere los nutrientes orgánicos frente a los minerales y mejora no solo en sabor y aroma sino también en rendimiento. Su sabor y aroma es entre acido y almizclado con toques alimonados. En resumen Y CBD está especialmente recomendada para aquellos que no busquen un colocón extremo ya que el efecto es de relajación corporal mas que mental. Para los que quieran hacer cremas o tinturas y para todos los amantes del CBD en general.</p></p><p></p><p></p><p></p><p></p><p><ul><li>50% Indica 50% Sativa</li><li>Período vegetativo en interior: 3-4 semanas</li><li>Período floración en interior: 9-10 semanas</li><li>Producción en interior/m2: 450 gr</li><li>Altura en exterior: 2 metros <br></li><li>Producción en exterior/planta: +600 gr</li><li>Genotipo: Y Griega CBD x Cherry Wine CBD</li><li>● THC: bajo</li><li>● CBD: alto</li></ul><p><br><br></p><ul></ul>\n                  </div>\n                </div>",
     "Meta description": "",
-    "Image URLs": "https://www.kushbreak.cl/y-griga-cbd-20-semillas-medical-seeds-cannabis",
-    "Category": "Semillas; Feminizadas; Medical Seeds; Medicinales"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/e565700a-ca0a-4ca4-8980-019268f1de09.jpg",
+    "Category": "Semillas; Feminizadas; Medical Seeds; Medicinales",
+    "uuid": "e565700a-ca0a-4ca4-8980-019268f1de09",
+    "img_filename": "e565700a-ca0a-4ca4-8980-019268f1de09.jpg"
   },
   {
     "Product ID": 170,
@@ -2822,8 +2884,10 @@ export const products = [
     "Summary": "La masa radicular de Portela se caracteriza  por un desarrollo rápido y explosivo  facilitando  el trabajo de esquejado.</p><p>Esta variedad es el resultado del cruce entre un macho sativo ICER y una hembra Jamaicana, sumamente densa y resinosa. Ha sido preservada dentro de las selecciones “lambsbread” que son cultivadas en lo más profundo de la región “The Mountains Blue”.",
     "Description": "La masa radicular de Portela se caracteriza  por un desarrollo rápido y explosivo  facilitando  el trabajo de esquejado.</p><p>Esta variedad es el resultado del cruce entre un macho sativo ICER y una hembra Jamaicana, sumamente densa y resinosa. Ha sido preservada dentro de las selecciones “lambsbread” que son cultivadas en lo más profundo de la región “The Mountains Blue”.</p><p>1º categoría PROFESIONALES, Summer cannabiscup Barcelona 2014.</p><p>3º categoría BIO, Spannabis Cannabis- championscup Barcelona 2014.</p><p>2º categoría HASH, Cannaval Tenerife 2015.</p><p>1º categoría INTERIOR, Cannaval Tenerife 2015.</p><p> </p><p>Interior: Entre 3 semanas de crecimiento vegetativo con luz CFL y 9 semanas en floración con sodio.\nExterior: Primera quincena d’Octubre.\nPredominancia: SATIVA.</p><p>CRUCE Landrace Jamaicana x Icer</p><p>SABOR Haze con toques cítricos. Inolvidable</p><p>INTERIOR 3 sem. Crecimiento luz CFL 9 sem. Floración Sodio</p><p>EXTERIOR Principios de otoño</p><p>PRODUCCIÓN 600gr × m2</p><p>PREDOMINANCIA SATIVA",
     "Meta description": "",
-    "Image URLs": "https://notorious.cl/semillas-feminizadas/4788-portela-x3-r-kiem-seeds.html",
-    "Category": "Semillas; Feminizadas; Rekiem seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/9b1bfb62-ee9c-4b6b-be25-5eba6e5bd01c.jpg",
+    "Category": "Semillas; Feminizadas; Rekiem seeds",
+    "uuid": "9b1bfb62-ee9c-4b6b-be25-5eba6e5bd01c",
+    "img_filename": "9b1bfb62-ee9c-4b6b-be25-5eba6e5bd01c.jpg"
   },
   {
     "Product ID": 171,
@@ -2837,8 +2901,10 @@ export const products = [
     "Summary": "La masa radicular de Portela se caracteriza  por un desarrollo rápido y explosivo  facilitando  el trabajo de esquejado.</p><p>Esta variedad es el resultado del cruce entre un macho sativo ICER y una hembra Jamaicana, sumamente densa y resinosa. Ha sido preservada dentro de las selecciones “lambsbread” que son cultivadas en lo más profundo de la región “The Mountains Blue”.",
     "Description": "La masa radicular de Portela se caracteriza  por un desarrollo rápido y explosivo  facilitando  el trabajo de esquejado.</p><p>Esta variedad es el resultado del cruce entre un macho sativo ICER y una hembra Jamaicana, sumamente densa y resinosa. Ha sido preservada dentro de las selecciones “lambsbread” que son cultivadas en lo más profundo de la región “The Mountains Blue”.</p><p>1º categoría PROFESIONALES, Summer cannabiscup Barcelona 2014.</p><p>3º categoría BIO, Spannabis Cannabis- championscup Barcelona 2014.</p><p>2º categoría HASH, Cannaval Tenerife 2015.</p><p>1º categoría INTERIOR, Cannaval Tenerife 2015.</p><p> </p><p>Interior: Entre 3 semanas de crecimiento vegetativo con luz CFL y 9 semanas en floración con sodio.\nExterior: Primera quincena d’Octubre.\nPredominancia: SATIVA.</p><p>CRUCE Landrace Jamaicana x Icer</p><p>SABOR Haze con toques cítricos. Inolvidable</p><p>INTERIOR 3 sem. Crecimiento luz CFL 9 sem. Floración Sodio</p><p>EXTERIOR Principios de otoño</p><p>PRODUCCIÓN 600gr × m2</p><p>PREDOMINANCIA SATIVA",
     "Meta description": "",
-    "Image URLs": "https://notorious.cl/semillas-feminizadas/4788-portela-x3-r-kiem-seeds.html",
-    "Category": "Semillas; Feminizadas; Rekiem seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/ebfb83ce-3019-42ac-9e64-473220fde3dc.jpg",
+    "Category": "Semillas; Feminizadas; Rekiem seeds",
+    "uuid": "ebfb83ce-3019-42ac-9e64-473220fde3dc",
+    "img_filename": "ebfb83ce-3019-42ac-9e64-473220fde3dc.jpg"
   },
   {
     "Product ID": 172,
@@ -2852,8 +2918,10 @@ export const products = [
     "Summary": "Tras muchos años preservando genotipos de África, R-Kiem Seeds ha seleccionado variedades autóctonas del distrito de Sawla en Ghana. Con ello obtuvieron la “Negra44” resultado de la fusión de dos genéticas con muchas similitudes, poca diferencia internodal, altura media y un verde oscuro característico. Muy buena productora de flores para interior y exterior.",
     "Description": "Tras muchos años preservando genotipos de África, R-Kiem Seeds ha seleccionado variedades autóctonas del distrito de Sawla en Ghana. Con ello obtuvieron la “Negra44” resultado de la fusión de dos genéticas con muchas similitudes, poca diferencia internodal, altura media y un verde oscuro característico. Muy buena productora de flores para interior y exterior.</p><p>CRUCE Landrace Ghana x Top44 </p><p>SABOR dulce y a frutos secos</p><p>INTERIOR 3 sem. Crecimiento luz CFL 9 sem. Floración Sodio</p><p>EXTERIOR Finales de verano</p><p>PRODUCCIÓN 650gr × m2</p><p>PREDOMINANCIA INDICA",
     "Meta description": "",
-    "Image URLs": "https://www.hortitecchile.cl/index.php?id_product=6468&id_product_attribute=0&rewrite=rkiem-seeds-negra-44-1ud&controller=product",
-    "Category": "Semillas; Feminizadas; Rekiem seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/dad47438-ded0-4e9b-ac91-9fad5294f351.jpg",
+    "Category": "Semillas; Feminizadas; Rekiem seeds",
+    "uuid": "dad47438-ded0-4e9b-ac91-9fad5294f351",
+    "img_filename": "dad47438-ded0-4e9b-ac91-9fad5294f351.jpg"
   },
   {
     "Product ID": 173,
@@ -2867,8 +2935,10 @@ export const products = [
     "Summary": "Tras muchos años preservando genotipos de África, R-Kiem Seeds ha seleccionado variedades autóctonas del distrito de Sawla en Ghana. Con ello obtuvieron la “Negra44” resultado de la fusión de dos genéticas con muchas similitudes, poca diferencia internodal, altura media y un verde oscuro característico. Muy buena productora de flores para interior y exterior.",
     "Description": "Tras muchos años preservando genotipos de África, R-Kiem Seeds ha seleccionado variedades autóctonas del distrito de Sawla en Ghana. Con ello obtuvieron la “Negra44” resultado de la fusión de dos genéticas con muchas similitudes, poca diferencia internodal, altura media y un verde oscuro característico. Muy buena productora de flores para interior y exterior.</p><p>CRUCE Landrace Ghana x Top44 </p><p>SABOR dulce y a frutos secos</p><p>INTERIOR 3 sem. Crecimiento luz CFL 9 sem. Floración Sodio</p><p>EXTERIOR Finales de verano</p><p>PRODUCCIÓN 650gr × m2</p><p>PREDOMINANCIA INDICA",
     "Meta description": "",
-    "Image URLs": "https://www.hortitecchile.cl/index.php?id_product=6468&id_product_attribute=0&rewrite=rkiem-seeds-negra-44-1ud&controller=product",
-    "Category": "Semillas; Feminizadas; Rekiem seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/50cfb6bb-e9cd-42f2-9680-e4290513129a.jpg",
+    "Category": "Semillas; Feminizadas; Rekiem seeds",
+    "uuid": "50cfb6bb-e9cd-42f2-9680-e4290513129a",
+    "img_filename": "50cfb6bb-e9cd-42f2-9680-e4290513129a.jpg"
   },
   {
     "Product ID": 174,
@@ -2882,8 +2952,10 @@ export const products = [
     "Summary": "Clon élite OG Kush Canadiense por Oregon Diesel, de la reserva de R-Kiem Seeds. Caracterizada por su rápida y fácil adaptabilidad a todo tipo de clima y medio de cultivo, su vigorosidad sorprende desde el principio. Ramas gruesas con grandes racimos, alta densidad floral repleta de glándulas con gran grosor. Distancia internodal muy baja. Recomendación técnica “Sea of green”.",
     "Description": "Clon élite OG Kush Canadiense por Oregon Diesel, de la reserva de R-Kiem Seeds. Caracterizada por su rápida y fácil adaptabilidad a todo tipo de clima y medio de cultivo, su vigorosidad sorprende desde el principio. Ramas gruesas con grandes racimos, alta densidad floral repleta de glándulas con gran grosor. Distancia internodal muy baja. Recomendación técnica “Sea of green”.</p><p>CRUCE Oregon Diesel x Og Kush</p><p>SABOR Muy fuerte, con tonos a clavo dulce y pimienta negra</p><p>INTERIOR 2 sem. Crecimiento luz CFL 8-9 sem. Floración Sodio</p><p>EXTERIOR Principios de otoño</p><p>PRODUCCIÓN 500gr × m2</p><p>PREDOMINANCIA INDICA",
     "Meta description": "",
-    "Image URLs": "https://www.hortitecchile.cl/index.php?id_product=6470&id_product_attribute=0&rewrite=rkiem-seeds-muse-1ud&controller=product",
-    "Category": "Semillas; Feminizadas; Rekiem seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/a51b1ab8-0136-4ad9-8499-250ee9345424.jpg",
+    "Category": "Semillas; Feminizadas; Rekiem seeds",
+    "uuid": "a51b1ab8-0136-4ad9-8499-250ee9345424",
+    "img_filename": "a51b1ab8-0136-4ad9-8499-250ee9345424.jpg"
   },
   {
     "Product ID": 175,
@@ -2897,8 +2969,10 @@ export const products = [
     "Summary": "Clon élite OG Kush Canadiense por Oregon Diesel, de la reserva de R-Kiem Seeds. Caracterizada por su rápida y fácil adaptabilidad a todo tipo de clima y medio de cultivo, su vigorosidad sorprende desde el principio. Ramas gruesas con grandes racimos, alta densidad floral repleta de glándulas con gran grosor. Distancia internodal muy baja. Recomendación técnica “Sea of green”.",
     "Description": "Clon élite OG Kush Canadiense por Oregon Diesel, de la reserva de R-Kiem Seeds. Caracterizada por su rápida y fácil adaptabilidad a todo tipo de clima y medio de cultivo, su vigorosidad sorprende desde el principio. Ramas gruesas con grandes racimos, alta densidad floral repleta de glándulas con gran grosor. Distancia internodal muy baja. Recomendación técnica “Sea of green”.</p><p>CRUCE Oregon Diesel x Og Kush</p><p>SABOR Muy fuerte, con tonos a clavo dulce y pimienta negra</p><p>INTERIOR 2 sem. Crecimiento luz CFL 8-9 sem. Floración Sodio</p><p>EXTERIOR Principios de otoño</p><p>PRODUCCIÓN 500gr × m2</p><p>PREDOMINANCIA INDICA",
     "Meta description": "",
-    "Image URLs": "https://www.hortitecchile.cl/index.php?id_product=6470&id_product_attribute=0&rewrite=rkiem-seeds-muse-1ud&controller=product",
-    "Category": "Semillas; Feminizadas; Rekiem seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/1604bdd2-fb1c-4eb1-b8d4-2eb6addf9e71.jpg",
+    "Category": "Semillas; Feminizadas; Rekiem seeds",
+    "uuid": "1604bdd2-fb1c-4eb1-b8d4-2eb6addf9e71",
+    "img_filename": "1604bdd2-fb1c-4eb1-b8d4-2eb6addf9e71.jpg"
   },
   {
     "Product ID": 176,
@@ -2912,8 +2986,10 @@ export const products = [
     "Summary": "En honor a Enrico Bouchard y Alan Jaremowich creadores de la marca SUBLIMATOR nace un híbrido caracterizado por sus grandes cosechas, su intenso sabor y su alta producción de resina.",
     "Description": "En honor a Enrico Bouchard y Alan Jaremowich creadores de la marca SUBLIMATOR nace un híbrido caracterizado por sus grandes cosechas, su intenso sabor y su alta producción de resina.\nEsta variedad nace de la necesidad de obtener una planta muy versátil para todo tipo de cultivadores. Su producción de resina es brutal tanto en interior como en exterior. Al empezar la floración, la SUBLIMATOR mostrara un stretch fuerte durante las 3 primeras semanas después del cambio de fotoperiodo.\nSu floración necesita 8 9 semanas en cultivo indoor y se acaba a mediados de octubre en outdoor, con una cosecha de 500 hasta 600 gr/m2.\nSus cogollos bañados en tricomas y terpenos desprenden un potente sabor a Kush afrutado y acidulado.\nPor sus características únicas hacen que SUBLIMATOR sea una variedad increíble para hacer extracciones de resina.\nCaracterísticas de SUBLIMATOR :\n50% sativa 50% indica\nGenética: Sour Banana X GG4\nFloración: 9 semanas\nProducción: 500-600g/m2\nCosecha en exterior: mediados de octubre",
     "Meta description": "",
-    "Image URLs": "https://www.hortitecchile.cl/index.php?id_product=6474&id_product_attribute=0&rewrite=rkiem-seeds-sublimator-1ud&controller=product",
-    "Category": "Semillas; Feminizadas; Rekiem seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/d95217ff-1254-4fe8-b335-8443e07e275c.jpg",
+    "Category": "Semillas; Feminizadas; Rekiem seeds",
+    "uuid": "d95217ff-1254-4fe8-b335-8443e07e275c",
+    "img_filename": "d95217ff-1254-4fe8-b335-8443e07e275c.jpg"
   },
   {
     "Product ID": 177,
@@ -2927,8 +3003,10 @@ export const products = [
     "Summary": "Es el fruto de la fusión de una selección de machos sativos del distrito de sawla (ghana) por un clon elite Rosetta stone.",
     "Description": "Es el fruto de la fusión de una selección de machos sativos del distrito de sawla (ghana) por un clon elite Rosetta stone. La adquisición de este cruce ofrece a los cultivadores una genética muy adaptable a todo tipo de medios de cultivo, su producción es muy alta, su estructura soporta grandes colas centrales acompañadas de satélites. El aroma y su resina hacen presencia en el cultivo desde las primeras semanas de la floración, en interior y exterior. Esta variedad destaca por su resistencia a los hongos.</p><p>1º categoría EXTERIOR, ACMF invernal Burgos 2014.</p><p>1º categoría EXTERIOR, ACMF Burgos 2015.</p><p>Genotipo: Genotipo: Elite Rosetta</p><p>Sabor: El aroma y su resina hacen presencia en el cultivo desde las primeras semanas de la floración.</p><p>Int: 2 semanas de crecimiento vegetativo y 9 semanas de floración con Sodio.</p><p>Ext: Primera quincena de octubre. Producción: 600 gr m2</p><p>Producción: 600 gramos metro cuadrado.</p><p>Predominancia: SATIVA.",
     "Meta description": "",
-    "Image URLs": "https://www.hortitecchile.cl/index.php?id_product=6466&id_product_attribute=0&rewrite=rkiem-seeds-eli-1ud&controller=product",
-    "Category": "Semillas; Feminizadas; Rekiem seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/2ae42f6b-0cf1-4339-90b4-bf79b01b8574.jpg",
+    "Category": "Semillas; Feminizadas; Rekiem seeds",
+    "uuid": "2ae42f6b-0cf1-4339-90b4-bf79b01b8574",
+    "img_filename": "2ae42f6b-0cf1-4339-90b4-bf79b01b8574.jpg"
   },
   {
     "Product ID": 178,
@@ -2942,8 +3020,10 @@ export const products = [
     "Summary": "2y2 nace de un cruce entre dos clones conocidos por la mayori?a de cultivadores interesados en las u?ltimas tendencias en cuanto a gene?ticas con origen en los EEUU.",
     "Description": "2y2 nace de un cruce entre dos clones conocidos por la mayori?a de cultivadores interesados en las u?ltimas tendencias en cuanto a gene?ticas con origen en los EEUU. Tras varias pruebas, la hembra seleccionada como receptora de polen fue uno de los ma?s potentes, el clon Alpha Cut de Purple Punch y el clon seleccionado como macho fue Norcal Do-Si-Dos, Indica con buen vigor vegetativo con una impresionante produccio?n de tricomas glandulares, adema?s de unos i?ndices de THC muy por encima de la media.</p><p>El ritmo de crecimiento es similar en ambos, por lo que es fa?cil mantener una canopia homoge?nea en el cultivo para aprovechar al ma?ximo la luz, aconsejamos que este periodo no se alargue ma?s de 4/5 semanas.</p><p>CRUCE Alpha Cut Purple Punch x Norcal Do-Si-Dos\nSABOR Matices a combustible y moras maduras\nINTERIOR 7-8 semanas\nEXTERIOR Mediados de Oton?o\nPRODUCCIO?N 500gr x m2\nPREDOMINANCIA 75% INDICA / 25% SATIVA",
     "Meta description": "",
-    "Image URLs": "https://www.hortitecchile.cl/index.php?id_product=7167&id_product_attribute=0&rewrite=rkiem-seeds-2y2-3uds&controller=product",
-    "Category": "Semillas; Feminizadas; Rekiem seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/cb714b91-944c-465b-b775-185488b589d2.jpg",
+    "Category": "Semillas; Feminizadas; Rekiem seeds",
+    "uuid": "cb714b91-944c-465b-b775-185488b589d2",
+    "img_filename": "cb714b91-944c-465b-b775-185488b589d2.jpg"
   },
   {
     "Product ID": 179,
@@ -2957,8 +3037,10 @@ export const products = [
     "Summary": "Con las carpas de cultivo Dark Box podremos estar tranquilos de que nuestra zona de cultivo se mantiene firme, ya que se caracterizan por su duro esqueleto. Cuentan con una capa de tela reforzada, que podremos comprobar que es realmente resistente por fuera y por dentro, ya que cuenta con un forro reflectante especial.",
     "Description": "Con las carpas de cultivo Dark Box podremos estar tranquilos de que nuestra zona de cultivo se mantiene firme, ya que se caracterizan por su duro esqueleto. Cuentan con una capa de tela reforzada, que podremos comprobar que es realmente resistente por fuera y por dentro, ya que cuenta con un forro reflectante especial. Intensificará la luz de tus ampolletas redireccionándola hacia tus plantas, sin permitir que salga nada de luz al exterior.</p><p>Las cremalleras son resistentes y te aguantarán durante muchos años, haciendo un cierre completo de las paredes, sin permitir que entre nada de luz desde el exterior.</p><p>Tenemos disponibles diferentes medidas, para adaptarse a tu cultivo, sean cuales sean tus necesidades. Cuentan conpuertas laterales para facilitar el acceso a las cepas del final, todas excepto el modelo de 80x80cm, el único que no dispone de ventanas de laterales.</p><p>Deberemos colocar un buen sistema de extracción para eliminar todos los olores, ya que tiene todas las salidas perfectamente preparadas, para que podas hacer instalaciones seguras y de calidad.",
     "Meta description": "",
-    "Image URLs": "https://www.tucultivo.cl/carpa-60-x-60-x-160cms-dark-box/",
-    "Category": "Cultivo; Carpas; Dark Box"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/4be2388a-696e-4c09-bd0f-44c8cd8816c6.jpg",
+    "Category": "Cultivo; Carpas; Dark Box",
+    "uuid": "4be2388a-696e-4c09-bd0f-44c8cd8816c6",
+    "img_filename": "4be2388a-696e-4c09-bd0f-44c8cd8816c6.jpg"
   },
   {
     "Product ID": 180,
@@ -2972,8 +3054,10 @@ export const products = [
     "Summary": "Dark Box DB80 es un armario de cultivo recomendado para cultivadores que buscan productos económicos de la máxima calidad. Tiene un tamaño de 80×80 cm de base y 160cm de altura, ventanas de ventilación y multitud de salidas y entradas para ventilación e iluminación.",
     "Description": "Dark Box DB80 es un armario de cultivo recomendado para cultivadores que buscan productos económicos de la máxima calidad. Tiene un tamaño de 80×80 cm de base y 160cm de altura, ideal para el mantenimiento de plantas madre, crecimiento de esquejes o la floración de una pequeña cantidad de plantas.</p><p>Cuenta con una estructura metálica con tejido de poliéster con una capa reflectante en su interior. Sus cremalleras son de alta calidad y dispone de suficientes puertos de acceso para la instalación de extracción, intracción, ventilación, equipo de iluminación y hasta cooltube. Además dispone de grandes ventanas de ventilación.",
     "Meta description": "",
-    "Image URLs": "https://rootfine.cl/producto/dark-box-db80x80x160-cms/",
-    "Category": "Cultivo; Carpas; Dark Box"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/fd1b0a59-27f1-45b6-aa1d-6d5d0322b9fe.jpg",
+    "Category": "Cultivo; Carpas; Dark Box",
+    "uuid": "fd1b0a59-27f1-45b6-aa1d-6d5d0322b9fe",
+    "img_filename": "fd1b0a59-27f1-45b6-aa1d-6d5d0322b9fe.jpg"
   },
   {
     "Product ID": 181,
@@ -2987,8 +3071,10 @@ export const products = [
     "Summary": "Las carpas de cultivo Dark Box son utilizadas por los cultivadores más experimentados, ya que muestran una estructura sólida y resistente, que podrá soportar los componentes más pesados.",
     "Description": "<div class=\"product-description\"><p style=\"margin:0px 0px 20px;padding:0px;font-size:12pt;color:#333333;font-family:Arial, Helvetica, sans-serif;\">Con las<span style=\"font-weight:bolder;color:#292929;margin:0px;padding:0px;\">&nbsp;carpas de cultivo Dark Box</span>&nbsp;podremos estar tranquilos de que nuestra zona de cultivo se mantiene firme, ya que se caracterizan por su duro esqueleto. Cuentan con una capa de<span style=\"font-weight:bolder;color:#292929;margin:0px;padding:0px;\">&nbsp;tela reforzada</span>, que podremos comprobar que es realmente resistente por fuera y por dentro, ya que cuenta con un forro reflectante especial. Intensificará la luz de tus ampolletas redireccionándola hacia tus plantas, sin permitir que salga nada de luz al exterior.</p> <p style=\"margin:0px 0px 20px;padding:0px;font-size:12pt;color:#333333;font-family:Arial, Helvetica, sans-serif;\">Las&nbsp;<span style=\"font-weight:bolder;color:#292929;margin:0px;padding:0px;\">cremalleras son resistentes</span>&nbsp;y te aguantarán durante muchos años, haciendo un cierre completo de las paredes, sin permitir que entre<span style=\"font-weight:bolder;color:#292929;margin:0px;padding:0px;\">&nbsp;nada de luz desde el exterior.</span></p> <p style=\"margin:0px 0px 20px;padding:0px;font-size:12pt;color:#333333;font-family:Arial, Helvetica, sans-serif;\">Tenemos disponibles&nbsp;<span style=\"font-weight:bolder;color:#292929;margin:0px;padding:0px;\">diferentes medidas</span>, para adaptarse a tu cultivo, sean cuales sean tus necesidades. Cuentan con<span style=\"font-weight:bolder;color:#292929;margin:0px;padding:0px;\">puertas laterales</span>&nbsp;para facilitar el acceso a las cepas del final, todas<span style=\"font-weight:bolder;color:#292929;margin:0px;padding:0px;\">&nbsp;excepto el modelo de 80x80cm</span>, el único que no dispone de ventanas de laterales.</p> <p style=\"margin:0px 0px 20px;padding:0px;font-size:12pt;color:#333333;font-family:Arial, Helvetica, sans-serif;\">Deberemos colocar un<span style=\"font-weight:bolder;color:#292929;margin:0px;padding:0px;\">&nbsp;buen sistema de extracción</span>&nbsp;para elimina<span style=\"font-weight:bolder;color:#292929;margin:0px;padding:0px;\">r todos los olores,</span>&nbsp;ya que tiene todas las salidas perfectamente preparadas, para que podas hacer instalaciones seguras y de calidad.</p> <table class=\"MsoTableGrid\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"643\" style=\"border-collapse:collapse;color:#808080;font-family:Montserrat, sans-serif;font-size:14px;height:240px;width:632px;border:none;\"><tbody><tr style=\"height:1cm;\"><td width=\"125\" valign=\"top\" style=\"width:93.85pt;border:1pt solid;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">Producto</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"135\" valign=\"top\" style=\"width:101.6pt;border-top:1pt solid;border-right:1pt solid;border-bottom:1pt solid;border-left:none;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">Dimensiones producto</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"135\" valign=\"top\" style=\"width:101.6pt;border-top:1pt solid;border-right:1pt solid;border-bottom:1pt solid;border-left:none;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">Dimensiones caja</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"123\" valign=\"top\" style=\"width:92.6pt;border-top:1pt solid;border-right:1pt solid;border-bottom:1pt solid;border-left:none;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">Peso neto</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"124\" valign=\"top\" style=\"width:92.65pt;border-top:1pt solid;border-right:1pt solid;border-bottom:1pt solid;border-left:none;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">Peso bruto</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> </tr><tr style=\"height:1cm;\"><td width=\"125\" valign=\"top\" style=\"width:93.85pt;border-right:1pt solid;border-bottom:1pt solid;border-left:1pt solid;border-top:none;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" style=\"margin-top:0px;margin-bottom:.0001pt;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">DB 60</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"135\" valign=\"top\" style=\"width:101.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">60 x 60 x 140 cm</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"135\" valign=\"top\" style=\"width:101.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">73 x 22 x 12 cm</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"123\" valign=\"top\" style=\"width:92.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">6 kg</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"124\" valign=\"top\" style=\"width:92.65pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">7 kg</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> </tr><tr style=\"height:29.1pt;\"><td width=\"125\" valign=\"top\" style=\"width:93.85pt;border-right:1pt solid;border-bottom:1pt solid;border-left:1pt solid;border-top:none;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" style=\"margin-top:0px;margin-bottom:.0001pt;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">DB 80</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"135\" valign=\"top\" style=\"width:101.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">80 x 80 x 160 cm</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"135\" valign=\"top\" style=\"width:101.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">85 x 24 x 13 cm</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"123\" valign=\"top\" style=\"width:92.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">8 kg</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"124\" valign=\"top\" style=\"width:92.65pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">9 kg</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> </tr><tr style=\"height:1cm;\"><td width=\"125\" valign=\"top\" style=\"width:93.85pt;border-right:1pt solid;border-bottom:1pt solid;border-left:1pt solid;border-top:none;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" style=\"margin-top:0px;margin-bottom:.0001pt;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">DB 100</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"135\" valign=\"top\" style=\"width:101.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">100 x 100 x 200 cm</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"135\" valign=\"top\" style=\"width:101.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">104 x 24 x 14 cm</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"123\" valign=\"top\" style=\"width:92.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">11 kg</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"124\" valign=\"top\" style=\"width:92.65pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:1cm;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">12 kg</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> </tr><tr style=\"height:29.1pt;\"><td width=\"125\" valign=\"top\" style=\"width:93.85pt;border-right:1pt solid;border-bottom:1pt solid;border-left:1pt solid;border-top:none;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" style=\"margin-top:0px;margin-bottom:.0001pt;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">DB 120</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"135\" valign=\"top\" style=\"width:101.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">120 x 120 x 200 cm</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"135\" valign=\"top\" style=\"width:101.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">124 x 25 x 14 cm</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"123\" valign=\"top\" style=\"width:92.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">12 kg</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"124\" valign=\"top\" style=\"width:92.65pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">13,5 kg</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> </tr><tr style=\"height:29.1pt;\"><td width=\"125\" valign=\"top\" style=\"width:93.85pt;border-right:1pt solid;border-bottom:1pt solid;border-left:1pt solid;border-top:none;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" style=\"margin-top:0px;margin-bottom:.0001pt;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">DB 240</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"135\" valign=\"top\" style=\"width:101.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">240 x 120 x 200 cm</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"135\" valign=\"top\" style=\"width:101.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">125 x 32 x 16 cm</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"123\" valign=\"top\" style=\"width:92.6pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">21,5 kg</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> <td width=\"124\" valign=\"top\" style=\"width:92.65pt;border-top:none;border-left:none;border-bottom:1pt solid;border-right:1pt solid;padding:0cm 5.4pt;height:29.1pt;\"> <p class=\"MsoNormal\" align=\"center\" style=\"margin-top:0px;margin-bottom:.0001pt;text-align:center;line-height:normal;\"><span style=\"font-size:10pt;font-family:Arial, sans-serif;\">23 kg</span></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> <p style=\"margin-top:0px;margin-bottom:10px;\"></p> </td> </tr></tbody></table></div>",
     "Meta description": "",
-    "Image URLs": "https://www.tricomar.cl/carpas-de-cultivo/1698-carpa-dark-box-db100-100-x-100-x-200cms.html",
-    "Category": "Cultivo; Carpas; Dark Box"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/b8aa9d02-3bf9-4d30-88d5-0a31a0576f52.jpg",
+    "Category": "Cultivo; Carpas; Dark Box",
+    "uuid": "b8aa9d02-3bf9-4d30-88d5-0a31a0576f52",
+    "img_filename": "b8aa9d02-3bf9-4d30-88d5-0a31a0576f52.jpg"
   },
   {
     "Product ID": 182,
@@ -3002,8 +3088,10 @@ export const products = [
     "Summary": "La carpa PROBOX Eco están fabricadas de una fuerte y resistente tela de nylon. Cuentan con una fuerte y estable estructura que garantiza la seguridad de tus plantas y soportar los accesorios.",
     "Description": "La carpa PROBOX Eco están fabricadas de una fuerte y resistente tela de nylon. Cuentan con una fuerte y estable estructura que garantiza la seguridad de tus plantas y soportar los accesorios.</p><p>Con un mylar para reflexión interior, certificado como amigable para las plantas.</p><p>Cierres resistentes, herméticos y sin pérdidas de luz.",
     "Meta description": "",
-    "Image URLs": "https://www.delaferia.cl/products/carpa-pro-box-ecopro-80x80x160cm",
-    "Category": "Cultivo; Carpas; Garden Highpro"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/aace1dbb-3dc4-431a-8515-10079daf9585.png",
+    "Category": "Cultivo; Carpas; Garden Highpro",
+    "uuid": "aace1dbb-3dc4-431a-8515-10079daf9585",
+    "img_filename": "aace1dbb-3dc4-431a-8515-10079daf9585.png"
   },
   {
     "Product ID": 183,
@@ -3017,8 +3105,10 @@ export const products = [
     "Summary": "Las PROBOX Eco están fabricadas de una fuerte y resistente tela de nylon. Cuentan con una fuerte y estable estructura que garantiza la seguridad de tus plantas y soportar los accesorios.",
     "Description": "Las PROBOX Eco están fabricadas de una fuerte y resistente tela de nylon. Cuentan con una fuerte y estable estructura que garantiza la seguridad de tus plantas y soportar los accesorios.</p><p>Con un mylar para reflexión interior, certificado como amigable para las plantas.</p><p>Cierres resistentes, herméticos y sin pérdidas de luz.",
     "Meta description": "",
-    "Image URLs": "https://www.studio420.cl/shop/garden-high-pro-armario-probox-100x100x200/",
-    "Category": "Cultivo; Carpas; Garden Highpro"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/24888584-b083-4de6-a061-dde9682a3e21.jpg",
+    "Category": "Cultivo; Carpas; Garden Highpro",
+    "uuid": "24888584-b083-4de6-a061-dde9682a3e21",
+    "img_filename": "24888584-b083-4de6-a061-dde9682a3e21.jpg"
   },
   {
     "Product ID": 184,
@@ -3032,8 +3122,10 @@ export const products = [
     "Summary": "El Armario de cultivo indoor ProBox Basic 120 de Garden HighPro es una de las mejores opciones de armario por su relación de calidad y súper precio, además contar con todas las características para cultivo profesional está hecho con polímero termoplástico Mylar reflectivo y Nylon 420D extra fuerte.",
     "Description": "El Armario de cultivo indoor ProBox Basic 120 de Garden HighPro es una de las mejores opciones de armario por su relación de calidad y súper precio, además contar con todas las características para cultivo profesional está hecho con polímero termoplástico Mylar reflectivo y Nylon 420D extra fuerte.</p><p>La carpa para cultivo indoor ProBox Basic 120 de Garden HighPro es la mejor opción del mercado para comprar un armario de estas dimensiones porque te ofrece la mejor relación calidad – precio. Fabricado por una de las mejores marcas a nivel mundial cuenta con todo lo necesario para tener un cultivo profesional.</p><p>Su tamaño es de 120 cm x 120 cm x 200 cm y está contruido con tela Mylar Premiun reflectiva y Nylon 420D extra fuerte y eco friendly, por lo que tendrás un producto duradero, amigable con el medio ambiente y súper reflectiva de la luz.</p><p>Algunas de las características de este armario ProBox Basic 120 de Garden HighPro son su gran entrada delantera, 5 mangas de extracción/inducción, entrada de aire pasivo y manga para los cables. En este armario puedes cultivar de 9 a 10 plantas.</p><p>Especificaciones:</p><p>Certificación de Mylar eco-friendly\nCapacidad para colgar hasta 28 kg\nReflección Premium de 97%\nDimensiones: 120 x 120 x 200 cm\nAcceso delantero: 115 x 180 cm\n5 Mangas de Extracción/Intracción de aire de 16,5 cm\n1 Manga para cables eléctricos de 8 cm\n1 Ventana para flujo de aire pasivo: 38 x 18 cm",
     "Meta description": "",
-    "Image URLs": "https://www.tucultivo.cl/armario-basic-120-garden-highpro/",
-    "Category": "Cultivo; Carpas; Garden Highpro"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/77f02a13-df3b-4ed4-80d1-39ddb942baaa.jpg",
+    "Category": "Cultivo; Carpas; Garden Highpro",
+    "uuid": "77f02a13-df3b-4ed4-80d1-39ddb942baaa",
+    "img_filename": "77f02a13-df3b-4ed4-80d1-39ddb942baaa.jpg"
   },
   {
     "Product ID": 185,
@@ -3047,8 +3139,10 @@ export const products = [
     "Summary": "El balastro magnético Vanguard nos proporcionará la energía necesaria para que nuestras ampolletas se enchufen sin problemas, aunque malgastando algo de energía, en calentarse y hacer ruido.</p><p>**EL CABLE IEC SE VENDE POR SEPARADO",
     "Description": "El balastro magnético Vanguard es uno de los mejores del mercado, ya que apenas causa cortes de luz, por lo que la cosecha no se ve tan afectada.</p><p>Tardará un poco en alcanzar su potencia total, si la comparamos con los electrónicos, aunque es algo rápida para tratarse de un magnético.</p><p>Cuenta con un diseño compacto, que nos permitirá colocarlo en cualquier rincón, o aprovechar los enganches que tiene y colgarlo en la pared. Es preferible colocarlo fuera de la zona de cultivo, ya que acabará calentándose, y subiendo la temperatura de todo nuestro indoor.</p><p>Cuenta con una conexión Plug and Play, para facilitarnos la instalación, ya que solamente tendremos que conectarlo y desconectarlo en la ranura indicada.</p><p>**EL CABLE IEC SE VENDE POR SEPARADO",
     "Meta description": "",
-    "Image URLs": "https://www.hortitecchile.cl/index.php?id_product=325&id_product_attribute=0&rewrite=balastro-magnetico-vanguard-250w-plug-and-play&controller=product",
-    "Category": "Iluminación; Balastros"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/7896e80b-1a72-4225-811a-580dd7612fe4.jpg",
+    "Category": "Iluminación; Balastros",
+    "uuid": "7896e80b-1a72-4225-811a-580dd7612fe4",
+    "img_filename": "7896e80b-1a72-4225-811a-580dd7612fe4.jpg"
   },
   {
     "Product ID": 186,
@@ -3062,8 +3156,10 @@ export const products = [
     "Summary": "El balastro magnético Vanguard es uno de los mejores del mercado, ya que apenas causa cortes de luz, por lo que la cosecha no se ve tan afectada.",
     "Description": "El balastro magnético Vanguard es uno de los mejores del mercado, ya que apenas causa cortes de luz, por lo que la cosecha no se ve tan afectada.</p><p>Tardará un poco en alcanzar su potencia total, si la comparamos con los electrónicos, aunque es algo rápida para tratarse de un magnético.</p><p>Cuenta con un diseño compacto, que nos permitirá colocarlo en cualquier rincón, o aprovechar los enganches que tiene y colgarlo en la pared. Es preferible colocarlo fuera de la zona de cultivo, ya que acabará calentándose, y subiendo la temperatura de todo nuestro indoor.</p><p>Cuenta con una conexión Plug and Play, para facilitarnos la instalación, ya que solamente tendremos que conectarlo y desconectarlo en la ranura indicada.</p><p>**EL CABLE IEC SE VENDE POR SEPARADO",
     "Meta description": "",
-    "Image URLs": "https://www.mosaikko.cl/product/ballast-magnetico-vanguard-400w",
-    "Category": "Iluminación; Balastros"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/be3f84da-6c95-49e7-9024-1ac3c5a1e448.jpg",
+    "Category": "Iluminación; Balastros",
+    "uuid": "be3f84da-6c95-49e7-9024-1ac3c5a1e448",
+    "img_filename": "be3f84da-6c95-49e7-9024-1ac3c5a1e448.jpg"
   },
   {
     "Product ID": 187,
@@ -3077,8 +3173,10 @@ export const products = [
     "Summary": "El Balastro magnético 600 W Vanguard aumenta el rendimiento lumínico. Fabricados mediante un diseño estudiado, con materiales de la más alta calidad.",
     "Description": "El Balastro magnético 600 W Vanguard aumenta el rendimiento lumínico. Fabricados mediante un diseño estudiado, con materiales de la más alta calidad.</p><p>En cuanto a calidad se refiere Vanguard es una de las marcas más reconocidas en el sector del cannabis de interior. El balastro electrónico Vanguard es la imagen de que la buena calidad y el buen precio no deben ser dos conceptos reñidos.</p><p>Vanguard pone al alcance de todos aparatos eléctricos de gran calidad, pero asequibles para que cualquiera pueda hacer uso de ellos y conseguir un cultivo que además de ser de calidad, sea seguro, algo indispensable.</p><p>Características del balastro magnético 600 W Vanguard\nEste balastro es totalmente cerrado, para una mayor seguridad en el cultivo, protegiendo las conexiones y el cableado con una caja plástica.</p><p>En caso de que tengamos que ponerlo colgado, incluye un gancho en la parte posterior para que se quede bien sujeto.</p><p>El cable que va hacia la luz es de 1.6 metros aproximadamente, tamaño más que suficiente en la mayor parte de habitaciones aunque siempre puedes utilizar una alargador.</p><p>El encendido de las bombillas lo realiza sin parpadeos y de manera instantánea ofreciendo una luz más estable y además más cómoda para las plantas.</p><p>Gracias a su diseño se disipa el calor que desprende la bobina interior, aunque el balastro desprende calor por lo que lo mejor que podemos hacer es no tocarlo por seguridad para no quemarnos.</p><p>Encienden las ampolletas sin parpadeos, otorga una luz estable y confortable para las plantas.</p><p>Seguridad en conexiones (Plug & Play)\nLas conexiones del balastro magnético 600 W Vanguard ya vienen realizadas, simplemente tendrás que conectar uno de los cables al reflector y el otro irá a la luz.</p><p>Al tener las conexiones ya realizadas de fábrica y además estar totalmente cerrado, nos ahorrará tiempo y nos asegurará que todo está correctamente conectado eliminando así el riesgo de incendio por cortocircuito.</p><p>Compatibilidad de Ampolletas\nEste balastro magnético 600 W Vanguard es compatible con las ampolletas de Haluro y las de Sodio siempre y cuando la ampolleta sea de la misma potencia que el balastro, en este caso 600w.",
     "Meta description": "",
-    "Image URLs": "https://comocultivo.com/shop/balastro-magnetico-600-w-vanguard-hydroponics/",
-    "Category": "Iluminación; Balastros"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/8eb17412-2418-4952-aada-ab49e05835c1.jpg",
+    "Category": "Iluminación; Balastros",
+    "uuid": "8eb17412-2418-4952-aada-ab49e05835c1",
+    "img_filename": "8eb17412-2418-4952-aada-ab49e05835c1.jpg"
   },
   {
     "Product ID": 188,
@@ -3092,8 +3190,10 @@ export const products = [
     "Summary": "Cable Extensión IEC Macho de 3 x 0,75mm2 para conectar ballast con reflector. Conectores polarizados con tres clavijas rectangulares (2,7 x 5,5 mm) de 10A.",
     "Description": "Cable Extensión IEC Macho de 3 x 0,75mm2 para conectar ballast con reflector. Conectores polarizados con tres clavijas rectangulares (2,7 x 5,5 mm) de 10A. Tiene 22,78 mm de ancho en la base, y 15,6 mm de alto; a la altura del centro del conector superior presenta un bisel (forman un ángulo de 90 grados) y dejan una meseta superior de 10,9 mm de ancho. Compatibles con ballast compactos y electrónicos con entrada IEC.",
     "Meta description": "",
-    "Image URLs": "https://www.delaferia.cl/products/cable-iec-para-conectar-reflectores-a-balastros",
-    "Category": "Herramientas y Accesorios; Varios; Iluminación; Balastros"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/e1b3deca-77e0-485b-acc1-3e3e3e1bfa24.jpg",
+    "Category": "Herramientas y Accesorios; Varios; Iluminación; Balastros",
+    "uuid": "e1b3deca-77e0-485b-acc1-3e3e3e1bfa24",
+    "img_filename": "e1b3deca-77e0-485b-acc1-3e3e3e1bfa24.jpg"
   },
   {
     "Product ID": 189,
@@ -3107,8 +3207,10 @@ export const products = [
     "Summary": "Maceta cuadrada con 7 litros adecuada para el cultivo de cannabis en interior. Las macetas cuadradas te permiten aprovechar mejor el espacio en tu indoor.",
     "Description": "Maceta cuadrada con 7 litros adecuada para el cultivo de cannabis en interior.</p><p>Las macetas cuadradas te permiten aprovechar mejor el espacio en tu indoor.</p><p>De plástico resistente y muy ligera.</p><p>MEDIDAS: 20 cm X 20 cm X 27 cm de alto.",
     "Meta description": "",
-    "Image URLs": "https://www.tucultivo.cl/maceta-cuadrada-trabe-7-litros/",
-    "Category": "Cultivo; Macetas"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/bda2e13a-c03b-4443-9eea-8ab75c061ae2.jpg",
+    "Category": "Cultivo; Macetas",
+    "uuid": "bda2e13a-c03b-4443-9eea-8ab75c061ae2",
+    "img_filename": "bda2e13a-c03b-4443-9eea-8ab75c061ae2.jpg"
   },
   {
     "Product ID": 190,
@@ -3122,8 +3224,10 @@ export const products = [
     "Summary": "Porque Nuestra Maceta cuadrada 11 litros de capacidad adecuada para el cultivo de cualquier tipo de planta. Su forma cuadrada permite aprovechar mejor el espacio para cultivo en interior.",
     "Description": "Porque Nuestra Maceta cuadrada 11 litros de capacidad adecuada para el cultivo de cualquier tipo de planta.\nSu forma cuadrada permite aprovechar mejor el espacio para cultivo en interior. Contiene orificios en su base para entregar una irrigacion correcta en los cultivos interiores.\nEs muy ligera, y de un plástico resistente.\nMaceta especial para cannabis, su altura y prodfundidad entrega lo necesario para que la raiz tenga un crecimiento adecuado.\nEn este caso tienes una maceta negra cuadrada con capacidad de 11 litros, su volumen es de 23 x 23 x 26 cm y cuenta con un drenaje muy bien definido para brindar las mejores condiciones a tus plantas.</p><p>Muy ligera y de plástico muy resistente.</p><p>MEDIDAS: 23cm X 23 cm X 27cm de alto",
     "Meta description": "",
-    "Image URLs": "https://www.growcenter.cl/producto/maceta-cuadrada-11-litros/",
-    "Category": "Cultivo; Macetas"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/f64ce85b-56be-4165-bd75-02e891c99d03.jpg",
+    "Category": "Cultivo; Macetas",
+    "uuid": "f64ce85b-56be-4165-bd75-02e891c99d03",
+    "img_filename": "f64ce85b-56be-4165-bd75-02e891c99d03.jpg"
   },
   {
     "Product ID": 191,
@@ -3137,8 +3241,10 @@ export const products = [
     "Summary": "Plagron Lightmix es una mezcla de los mejores tipos de turba cuidadosamente seleccionados. Contiene fibras de varios tipos y perlita, lo que le aporta la ligereza y el nivel de oxigenación que esperas de un sustrato de calidad Plagron.",
     "Description": "Plagron Lightmix es una mezcla de los mejores tipos de turba cuidadosamente seleccionados. Contiene fibras de varios tipos y perlita, lo que le aporta la ligereza y el nivel de oxigenación que esperas de un sustrato de calidad Plagron. Sólo una mínima cantidad de nutrientes han sido añadidos a Lightmix. Esto hace de Lightmix el sustrato perfecto para fertilizar según tu propio criterio y preferencia.</p><p>CÓMO UTILIZAR LIGHT·MIX®\nLight-MixUso Plagron Lightmix es un sustrato listo para su uso directo en la siembra y transplante de plantas con flores. Comience la fertilización después de la primera semana. Características Turba, perlita. pH (EN13037): 6 - 7 E.C. (1:1,5): 0,7 - 1,1 mS/cm Prefertilizado con 1,5 kg / m³ de fertilizante mineral (NPK 12-14-24)</p><p>La ventaja de Lightmix Pre-fertilizada para 1 semana para un rápido inicio. Rápido enraizamiento por el bajo valor EC. Disponible con o sin perlita (non perlite).",
     "Meta description": "",
-    "Image URLs": "https://www.delaferia.cl/products/sustrato-light-mix-50l-de-plagron",
-    "Category": "Cultivo; Sustrato; Plagron"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/7be0488d-5779-4ad4-b7c6-fcb05e08dc6f.jpg",
+    "Category": "Cultivo; Sustrato; Plagron",
+    "uuid": "7be0488d-5779-4ad4-b7c6-fcb05e08dc6f",
+    "img_filename": "7be0488d-5779-4ad4-b7c6-fcb05e08dc6f.jpg"
   },
   {
     "Product ID": 192,
@@ -3152,8 +3258,10 @@ export const products = [
     "Summary": "¿Qué es Light·Mix? Si deseas un mayor control, Light·Mix ofrece la base ideal para promover el crecimiento vigoroso de plantas de semillero, plantas jóvenes y esquejes desde el principio.",
     "Description": "¿Qué es Light·Mix?\nSi deseas un mayor control, Light·Mix ofrece la base ideal para promover el crecimiento vigoroso de plantas de semillero, plantas jóvenes y esquejes desde el principio. Pone en marcha la microactividad vital, a medida que el agua trabaja con la tierra para producir catalizadores orgánicos que promueven el rápido desarrollo de estructuras radiculares. Light·Mix® es asimismo una mezcla concebida especialmente para asegurar un drenaje óptimo de manera homogénea: algo esencial cuando se utilizan sistemas de riego automático.</p><p>Cómo se utiliza\nEste fertilizante se puede aplicar en cantidades más abundantes a cualquier tipo de planta, incluso las más ávidas, sin riesgo de sobrecargar la tierra y provocar una quemadura por nutrientes (algo que se manifiesta en puntas de hojas amarillas, crujientes y quemadas). Con el riego automático es importante que el agua se infiltre adecuadamente en el sustrato, o de lo contrario este se podría humedecer en exceso llegando a formar moho.</p><p>Los valores de pH y EC\nLos productos Biobizz® contienen únicamente elementos orgánicos naturales, en lugar de sales minerales como el magnesio o los sulfatos que se pueden encontrar en los fertilizantes sintéticos. Eso confiere a Light·Mix® un valor de conductividad eléctrica (EC) medio. Y aunque es imposible medir sus elementos orgánicos, estos tienen un sistema de autorregulación que ayuda a mantener los valores de pH en el nivel correcto.</p><p>Si deseas mayor control, Light Mix ofrece la base ideal para promover el crecimiento vigoroso de plantas de semillero, plantas jóvenes y esquejes desde el principio. Pone en marcha la micro actividad vital, a medida que el agua trabaja con el sustrato, para producir catalizadores orgánicos que promueven el rápido desarrollo de estructuras radiculares. Light Mix es asimismo una mezcla concebida especialmente para un drenaje óptimo de manera homogénea.",
     "Meta description": "",
-    "Image URLs": "https://www.tucultivo.cl/sustrato-light-mix-50-litros-bio-bizz/",
-    "Category": "Cultivo; Sustrato; Bio Bizz"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/0abf89b0-9d19-4f5b-9737-19e1abe33a81.png",
+    "Category": "Cultivo; Sustrato; Bio Bizz",
+    "uuid": "0abf89b0-9d19-4f5b-9737-19e1abe33a81",
+    "img_filename": "0abf89b0-9d19-4f5b-9737-19e1abe33a81.png"
   },
   {
     "Product ID": 193,
@@ -3167,8 +3275,10 @@ export const products = [
     "Summary": "¿Qué es Light·Mix? Si deseas un mayor control, Light·Mix ofrece la base ideal para promover el crecimiento vigoroso de plantas de semillero, plantas jóvenes y esquejes desde el principio.",
     "Description": "¿Qué es Light·Mix?\nSi deseas un mayor control, Light·Mix ofrece la base ideal para promover el crecimiento vigoroso de plantas de semillero, plantas jóvenes y esquejes desde el principio. Pone en marcha la microactividad vital, a medida que el agua trabaja con la tierra para producir catalizadores orgánicos que promueven el rápido desarrollo de estructuras radiculares. Light·Mix® es asimismo una mezcla concebida especialmente para asegurar un drenaje óptimo de manera homogénea: algo esencial cuando se utilizan sistemas de riego automático.</p><p>Cómo se utiliza\nEste fertilizante se puede aplicar en cantidades más abundantes a cualquier tipo de planta, incluso las más ávidas, sin riesgo de sobrecargar la tierra y provocar una quemadura por nutrientes (algo que se manifiesta en puntas de hojas amarillas, crujientes y quemadas). Con el riego automático es importante que el agua se infiltre adecuadamente en el sustrato, o de lo contrario este se podría humedecer en exceso llegando a formar moho.</p><p>Los valores de pH y EC\nLos productos Biobizz® contienen únicamente elementos orgánicos naturales, en lugar de sales minerales como el magnesio o los sulfatos que se pueden encontrar en los fertilizantes sintéticos. Eso confiere a Light·Mix® un valor de conductividad eléctrica (EC) medio. Y aunque es imposible medir sus elementos orgánicos, estos tienen un sistema de autorregulación que ayuda a mantener los valores de pH en el nivel correcto.</p><p>Si deseas mayor control, Light Mix ofrece la base ideal para promover el crecimiento vigoroso de plantas de semillero, plantas jóvenes y esquejes desde el principio. Pone en marcha la micro actividad vital, a medida que el agua trabaja con el sustrato, para producir catalizadores orgánicos que promueven el rápido desarrollo de estructuras radiculares. Light Mix es asimismo una mezcla concebida especialmente para un drenaje óptimo de manera homogénea.",
     "Meta description": "",
-    "Image URLs": "https://www.tucultivo.cl/sustrato-light-mix-20-litros-bio-bizz/",
-    "Category": "Cultivo; Sustrato; Bio Bizz"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/3bbfff76-1b9b-4f9e-9c7a-f090b93a1b70.png",
+    "Category": "Cultivo; Sustrato; Bio Bizz",
+    "uuid": "3bbfff76-1b9b-4f9e-9c7a-f090b93a1b70",
+    "img_filename": "3bbfff76-1b9b-4f9e-9c7a-f090b93a1b70.png"
   },
   {
     "Product ID": 194,
@@ -3182,8 +3292,10 @@ export const products = [
     "Summary": "El ReflectorLiso es un producto con la mejor relación precio / calidad del mercado, posee una gran capacidad de reflección del 97% y es compatible con todas las ampolletas del mercado con base E40 Goliat. Se recomienda su uso para ampolletas desde 150w hasta 600w.",
     "Description": "<div class=\"rte\" itemprop=\"description\"><p>El <a href=\"https://www.lajuana.cl/reflectores-para-cultivo/\" class=\"pmsil\" title=\"Reflectores de cultivo\">Reflector</a> Liso es un producto con la mejor relación precio / calidad del mercado, posee una gran capacidad de reflección del 97% y es compatible con todas las <a href=\"https://www.lajuana.cl/ampolletas-para-cultivo/\" class=\"pmsil\" title=\"Ampolletas para cultivo\">ampolletas</a> del mercado con base E40 Goliat. Se recomienda su uso para ampolletas desde 150w hasta 600w.</p><ul><li>&nbsp;Reflector de Aluminio Liso</li><li>97% de reflección</li><li>Soquete E40</li><li>Regleta de Conexión</li><li>La mejor relación Precio / Calidad del mercado</li></ul></div>",
     "Meta description": "",
-    "Image URLs": "https://www.lajuana.cl/reflectores-para-cultivo/reflector-para-indoor-aluminio-liso.html",
-    "Category": "Iluminación; Reflectores"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/7010ec6f-b59a-4a9d-852e-50b3644fc1bf.jpg",
+    "Category": "Iluminación; Reflectores",
+    "uuid": "7010ec6f-b59a-4a9d-852e-50b3644fc1bf",
+    "img_filename": "7010ec6f-b59a-4a9d-852e-50b3644fc1bf.jpg"
   },
   {
     "Product ID": 195,
@@ -3197,8 +3309,10 @@ export const products = [
     "Summary": "Tubo de aluminio flexible para conexiones de ventilación en cultivo indoor o invernaderos.",
     "Description": "Tubo de aluminio flexible para conexiones de ventilación en cultivo indoor o invernaderos.</p><p>Especificaciones:</p><p>Diámetro: 127mm.\nLargo: 10 metros.\nMaterial: aluminio + poliéster.",
     "Meta description": "",
-    "Image URLs": "https://chitagreen.cl/product/tubo-aluminio-flexible-127mm-10-metros/",
-    "Category": "Control de Clima; Ventilación y Extracción; Control De Olor; Herramientas y Accesorios ; Varios"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/e6aab31c-1772-46ab-b4aa-ffa6de739c38.jpg",
+    "Category": "Control de Clima; Ventilación y Extracción; Control De Olor; Herramientas y Accesorios ; Varios",
+    "uuid": "e6aab31c-1772-46ab-b4aa-ffa6de739c38",
+    "img_filename": "e6aab31c-1772-46ab-b4aa-ffa6de739c38.jpg"
   },
   {
     "Product ID": 196,
@@ -3212,8 +3326,10 @@ export const products = [
     "Summary": "Tubo Aluminio Flexible 152mm para dirigir el aire hacia o desde la zona de cultivo. Construcción duradera para un rendimiento duradero, espesor de doble capa.",
     "Description": "Los ductos son indispensables para mantener un flujo de aire adecuado entre el extractor y el filtro de carbón activo. Están hechos de una estructura de alambre de acero en espiral y una cubierta de aluminio, materiales que brindan a este implemento ligereza y alta resistencia a los cambios de presión.</p><p>Los ductos tienen una longitud extendida de 10 metros y gracias a su diseño compactable pueden ajustarse a la distancia exacta que cultivador necesita para aprovechar de manera óptima su espacio de trabajo.</p><p>Son una pieza fundamental del Kit Control de Olores, indispensables para mantener un flujo de aire adecuado entre el extractor y el filtro de carbón activo.",
     "Meta description": "",
-    "Image URLs": "http://www.thehempcompany.cl/shop/ventilacion-y-olor/ducto/ducto-aluminio-flexible-152mm-6-10-mts-longitud/",
-    "Category": "Control de Clima; Ventilación y Extracción; Control De Olor; Herramientas y Accesorios ; Varios"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/fdae6b30-58c3-49e1-a6b1-380aaf6a8c3b.jpg",
+    "Category": "Control de Clima; Ventilación y Extracción; Control De Olor; Herramientas y Accesorios ; Varios",
+    "uuid": "fdae6b30-58c3-49e1-a6b1-380aaf6a8c3b",
+    "img_filename": "fdae6b30-58c3-49e1-a6b1-380aaf6a8c3b.jpg"
   },
   {
     "Product ID": 197,
@@ -3227,8 +3343,10 @@ export const products = [
     "Summary": "Esta es una variedad muy sencilla de cultivar, ya que posee una gran resistencia a la humedad y no necesita de grandes cantidades de nutrientes para crecer de forma exhuberante: se pueden conseguir grandes resultados con cuidados mínimos.",
     "Description": "Esta es una variedad muy sencilla de cultivar, ya que posee una gran resistencia a la humedad y no necesita de grandes cantidades de nutrientes para crecer de forma exhuberante: se pueden conseguir grandes resultados con cuidados mínimos.",
     "Meta description": "",
-    "Image URLs": "https://notorious.cl/inicio/5861-sra-amparo-1ud-reggae-seeds-.html",
-    "Category": "Semillas; Feminizadas; Reggae seeds"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/884c9d5b-41fe-45ee-bb27-dfc6ae5c7498.jpg",
+    "Category": "Semillas; Feminizadas; Reggae seeds",
+    "uuid": "884c9d5b-41fe-45ee-bb27-dfc6ae5c7498",
+    "img_filename": "884c9d5b-41fe-45ee-bb27-dfc6ae5c7498.jpg"
   },
   {
     "Product ID": 198,
@@ -3242,8 +3360,10 @@ export const products = [
     "Summary": "ReflectorMatrix Lumen Evolution de Garden High Pro te da 98% de reflectividad para una superficie de 140 cm, es decir que todas las plantas dentro de ella recibirán 98% de lúmenes de tu ampolleta. Está hecho con aluminio galvanizado alemán ultra ligero y resistente con diseño cuadrado.",
     "Description": "<div class=\"rte\" itemprop=\"description\"><p>El <a href=\"https://www.lajuana.cl/reflectores-para-cultivo/\" class=\"pmsil\" title=\"Reflectores de cultivo\">Reflector</a> Matrix Lumen Evolution de <a href=\"https://www.lajuana.cl/manufacturers/garden-high-pro.html\" class=\"pmsil\" title=\"Garden high pro\">Garden High Pro</a> te da 98% de reflectividad para una superficie de 140 cm, es decir que todas las <a href=\"https://www.lajuana.cl/buscar?search_query=plantas&amp;orderby=position&amp;orderway=desc&amp;search_query_cat=0&amp;search_query=plantas&amp;submit_search=&amp;n=50\" class=\"pmsil\" title=\"Plantas de Marihuana\">plantas</a> dentro de ella recibirán 98% de lúmenes de tu <a href=\"https://www.lajuana.cl/ampolletas-para-cultivo/\" class=\"pmsil\" title=\"Ampolletas para cultivo\">ampolleta</a>. Está hecho con aluminio galvanizado alemán ultra ligero y resistente con diseño cuadrado.</p><p><span>Este reflector tiene un diseño piramidal de 4 caras para que toda la luz emitida se reparta de forma homogénea en todas las direcciones. Es compatible con lámparas de alta presión de <a href=\"https://www.lajuana.cl/buscar?controller=search&amp;orderby=position&amp;orderway=desc&amp;search_query_cat=0&amp;search_query=sodio&amp;submit_search=\" class=\"pmsil\" title=\"Ampolletas de Sodio\">sodio</a> y <a href=\"https://www.lajuana.cl/buscar?controller=search&amp;orderby=position&amp;orderway=desc&amp;search_query_cat=0&amp;search_query=haluro&amp;submit_search=\" class=\"pmsil\" title=\"Ampolletas de Haluro\">haluro</a> metálico. Incluye el casquillo Goliat E40.</span></p><p><span>El Matrix Lumen Evolution tiene un agujero para extraer el aire caliente generado por la ampolleta pudiendo incluso conectarse a la <a href=\"https://www.lajuana.cl/blog/auto-cultivo/aumentar-produccion-de-cannabis-con-extraccion\" class=\"pmsil\" title=\"Aumenta la producción de tu cultivo\">extracción</a> de aire de tu <a href=\"https://www.lajuana.cl/armarios-y-carpas-de-cultivo/\" class=\"pmsil\" title=\"Armarios de cultivo\">armario</a> de <a href=\"https://www.lajuana.cl/kits-cultivo-completos/\" class=\"pmsil\" title=\"Kits de cultivo indoor\">cultivo indoor</a> para reducir la temperatura hasta 14º C en la punta de las plantas de <a href=\"https://www.lajuana.cl/semillas-de-marihuana/\" class=\"pmsil\" title=\"marihuana\">marihuana</a>.</span></p><p><span>Las dimensiones del reflector son de 68 x 62 x 15 cm, eficiente, ligero y duradero para que puedas utilizarlo cultivo tras cultivo sin perder reflectividad ni calidad en la iluminación de tu cultivo de marihuana.</span></p><p><strong><span>Características:</span></strong></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Compatible con <a href=\"https://www.lajuana.cl/ampolletas-para-cultivo/\" class=\"pmsil\" title=\"Ampolletas para cultivo\">ampolletas</a> de alta presión</span></p><p><span>-&nbsp; &nbsp; &nbsp; &nbsp; Medidas:&nbsp;68 x 62 x 15 cm</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Casquillo Goliat E40</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Diseño piramidal fabricado en aluminio galvanizado alemán</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>98% de reflectividad</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Ligero y resistente</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>140 cm de ancho</span></p><p><iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/cyjQIN_FcKI\" frameborder=\"0\"></iframe></p></div>",
     "Meta description": "",
-    "Image URLs": "https://www.lajuana.cl/reflectores-para-cultivo/reflector-matrix-lumen-evolution-garden-highpro.html",
-    "Category": "Iluminación; Reflectores"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/faba4067-d7ed-4ede-b9bd-8930cf191d83.jpg",
+    "Category": "Iluminación; Reflectores",
+    "uuid": "faba4067-d7ed-4ede-b9bd-8930cf191d83",
+    "img_filename": "faba4067-d7ed-4ede-b9bd-8930cf191d83.jpg"
   },
   {
     "Product ID": 199,
@@ -3257,8 +3377,10 @@ export const products = [
     "Summary": "Papel homogenizado para fumar, disponible. Empaque sellado que garantiza frescura y sabor.",
     "Description": "Papel homogenizado para fumar, disponible. Empaque sellado que garantiza frescura y sabor.",
     "Meta description": "",
-    "Image URLs": "https://www.brotegrowshop.cl/1219/producto/blunt-wraps-blunt-wrap-grape---x2-uva-morada",
-    "Category": "Smoke Shop; Enrolado; Blunt Wrap"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/0c188970-ceee-46b6-8cc9-9dd981cf8f4b.jpg",
+    "Category": "Smoke Shop; Enrolado; Blunt Wrap",
+    "uuid": "0c188970-ceee-46b6-8cc9-9dd981cf8f4b",
+    "img_filename": "0c188970-ceee-46b6-8cc9-9dd981cf8f4b.jpg"
   },
   {
     "Product ID": 200,
@@ -3272,8 +3394,10 @@ export const products = [
     "Summary": "Blunt Wrap, fue la primera marca de papel de fumar que desarrollo un nuevo sistema de presentación homogenizada, para mantener por mucho tiempo la frescura del producto, los cuales están registrados y patentados a nivel internacional.",
     "Description": "Blunt Wrap, fue la primera marca de papel de fumar que desarrollo un nuevo sistema de presentación homogenizada, para mantener por mucho tiempo la frescura del producto, los cuales están registrados y patentados a nivel internacional.\nBlunt Wrap, es un envoltorio de papel laminado para rolar tabaco, enrollados en forma de espiral, similar a los papeles de fumar, pero estos son más resistentes, con una combustión más lenta, uniforme y aromática, permitiendo una fusión perfecta entre tu tabaco favorito, combinado con el delicioso sabor gourmet exótico de tu elección.</p><p>Una nueva experiencia para los fumadores, que desean ser innovadores y diferentes.",
     "Meta description": "",
-    "Image URLs": "http://patagoniaseeds.cl/papelillos/3083-blunt-french-vanilla-2u-blunt-wrap.html",
-    "Category": "Smoke Shop; Enrolado; Blunt Wrap"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/e681f295-a4b7-43e1-9e71-cf3ba305d5a9.jpg",
+    "Category": "Smoke Shop; Enrolado; Blunt Wrap",
+    "uuid": "e681f295-a4b7-43e1-9e71-cf3ba305d5a9",
+    "img_filename": "e681f295-a4b7-43e1-9e71-cf3ba305d5a9.jpg"
   },
   {
     "Product ID": 201,
@@ -3287,8 +3411,10 @@ export const products = [
     "Summary": "Papel Blunt Wrap Gin y juice para armar cigarillos con sabores y aromas distintos. Se trata de un papel de fumador fabricado con pasta de tabaco y saborizado ideal para enmascarar el aroma a tabaco así como también darle un gusto especial. En Parainfernalia tenemos toda la variedad de Blunt Wraps para que puedas elegir entre ellas la que más te gusta y que ti experiencia como fumador sea única y original.",
     "Description": "Papel Blunt Wrap Gin y juice para armar cigarillos con sabores y aromas distintos. Se trata de un papel de fumador fabricado con pasta de tabaco y saborizado ideal para enmascarar el aroma a tabaco así como también darle un gusto especial. En Parainfernalia tenemos toda la variedad de Blunt Wraps para que puedas elegir entre ellas la que más te gusta y que ti experiencia como fumador sea única y original.</p><p>Papel saborizado\nVariedad Gin y Jugo\nCombustión Lenta\n40mm x 110mm\nEl paquete contiene 2 papeles (wraps)",
     "Meta description": "",
-    "Image URLs": "https://parainfernalia.com.ar/headshop/blunts/papel-blunt-wrap-gin-juice/",
-    "Category": "Smoke Shop; Enrolado; Blunt Wrap"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/651bbea6-fcea-44bb-a585-02ef446f558d.jpg",
+    "Category": "Smoke Shop; Enrolado; Blunt Wrap",
+    "uuid": "651bbea6-fcea-44bb-a585-02ef446f558d",
+    "img_filename": "651bbea6-fcea-44bb-a585-02ef446f558d.jpg"
   },
   {
     "Product ID": 202,
@@ -3302,8 +3428,10 @@ export const products = [
     "Summary": "Blunt Wrap es un envoltorio de papel laminado para rolar, enrollados en forma de espiral, similar a los papeles de fumar, pero estos son más resistentes, con una combustión más lenta, uniforme y aromática, permitiendo una fusión perfecta entre tu tabaco favorito, combinado con el delicioso sabor gourmet exótico de tu elección.",
     "Description": "Blunt Wrap es un envoltorio de papel laminado para rolar, enrollados en forma de espiral, similar a los papeles de fumar, pero estos son más resistentes, con una combustión más lenta, uniforme y aromática, permitiendo una fusión perfecta entre tu tabaco favorito, combinado con el delicioso sabor gourmet exótico de tu elección.",
     "Meta description": "",
-    "Image URLs": "https://www.pikishop.cl/tabaqueria/197-blunt-wrap-platinum-x2-xo-cognac-papel-25uds.html",
-    "Category": "Smoke Shop; Enrolado; Blunt Wrap"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/b8fd8672-84ab-410c-975d-62ecd48577bd.jpg",
+    "Category": "Smoke Shop; Enrolado; Blunt Wrap",
+    "uuid": "b8fd8672-84ab-410c-975d-62ecd48577bd",
+    "img_filename": "b8fd8672-84ab-410c-975d-62ecd48577bd.jpg"
   },
   {
     "Product ID": 203,
@@ -3317,8 +3445,10 @@ export const products = [
     "Summary": "Papel Blunt Wrap Peach para armar cigarrillos con sabor a durazno. Blunt Wrap tiene una enorme variedad de sabores que permiten disfrtar de cigarrillos armados con sabores y aromas diferentes. Este papel para armar está fabricado con pasta de tabaco y con la humedad suficiente para que la hoja no se quiebre.",
     "Description": "Papel Blunt Wrap Peach para armar cigarrillos con sabor a durazno. Blunt Wrap tiene una enorme variedad de sabores que permiten disfrtar de cigarrillos armados con sabores y aromas diferentes. Este papel para armar está fabricado con pasta de tabaco y con la humedad suficiente para que la hoja no se quiebre. Son de combustión lenta y vienen pre-enrollados para que armarlos sea mucho más sencillo. Conocé toda la variedad de Blunt Wrap que tenemos en Parainfernalia.</p><p>Papel saborizado\nVariedad Durazno\nCombustión Lenta\n40mm x 110mm\nEl paquete contiene 2 papeles (wraps)",
     "Meta description": "",
-    "Image URLs": "https://parainfernalia.com.ar/headshop/blunts/papel-blunt-wrap-peach/",
-    "Category": "Smoke Shop; Enrolado; Blunt Wrap"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/e37ff8fb-189d-4d9a-9c31-0201bc390e8f.jpg",
+    "Category": "Smoke Shop; Enrolado; Blunt Wrap",
+    "uuid": "e37ff8fb-189d-4d9a-9c31-0201bc390e8f",
+    "img_filename": "e37ff8fb-189d-4d9a-9c31-0201bc390e8f.jpg"
   },
   {
     "Product ID": 204,
@@ -3332,8 +3462,10 @@ export const products = [
     "Summary": "Papel Blunt Wrap Mojito  para armar cigarrillos saborizados con el famoso trago. Siendo uno de los papeles para armar más populares, Blunt wrap presenta una gran variedad de sabores y aromas para que tus cigarrillos tengan un sabor original y enmascaren el olor a tabaco; ideales para fumadores ocasionales que disfrutan de un buen cigarrillo armado.",
     "Description": "Papel Blunt Wrap Mojito  para armar cigarrillos saborizados con el famoso trago. Siendo uno de los papeles para armar más populares, Blunt wrap presenta una gran variedad de sabores y aromas para que tus cigarrillos tengan un sabor original y enmascaren el olor a tabaco; ideales para fumadores ocasionales que disfrutan de un buen cigarrillo armado. Las láminas de tabaco de Blunt Wrap son de combustión lenta y si el cigarrillo queda prendido sin fumarse, se apaga.</p><p>Papel saborizado\nVariedad Mojito\nCombustión Lenta\n40mm x 110mm\nEl paquete contiene 2 papeles (wraps)",
     "Meta description": "",
-    "Image URLs": "https://parainfernalia.com.ar/headshop/blunts/papel-blunt-wrap-mojito/",
-    "Category": "Smoke Shop; Enrolado; Blunt Wrap"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/be10857f-40db-47e2-a52c-4bceb04342dc.jpg",
+    "Category": "Smoke Shop; Enrolado; Blunt Wrap",
+    "uuid": "be10857f-40db-47e2-a52c-4bceb04342dc",
+    "img_filename": "be10857f-40db-47e2-a52c-4bceb04342dc.jpg"
   },
   {
     "Product ID": 205,
@@ -3347,8 +3479,10 @@ export const products = [
     "Summary": "Papel Blunt Wrap wet Cherry es un papel para armar cigarillos con sabor y aroma a cereza. Similares a los papeles tradicionales para armar cigarrillos pero mucho más resistentes, los Blunt wrap vienen en una gran variedad de variedades que se fusionan con el tabaco para darle a tu cigarrillo un sabor único.",
     "Description": "Papel Blunt Wrap wet Cherry es un papel para armar cigarillos con sabor y aroma a cereza. Similares a los papeles tradicionales para armar cigarrillos pero mucho más resistentes, los Blunt wrap vienen en una gran variedad de variedades que se fusionan con el tabaco para darle a tu cigarrillo un sabor único. Además, enmascara el aroma del tabaco y como vienen pre-enrollados son más fáciles de armar.</p><p>Papel saborizado\nVariedad Cereza\nCombustión\n40mm x 110mm\nEl paquete contiene 2 papeles (wraps)",
     "Meta description": "",
-    "Image URLs": "https://parainfernalia.com.ar/headshop/blunts/papel-blunt-wrap-wet-cherry/",
-    "Category": "Smoke Shop; Enrolado; Blunt Wrap"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/a643439a-51ea-4fc2-8205-e1a0fe96d968.jpg",
+    "Category": "Smoke Shop; Enrolado; Blunt Wrap",
+    "uuid": "a643439a-51ea-4fc2-8205-e1a0fe96d968",
+    "img_filename": "a643439a-51ea-4fc2-8205-e1a0fe96d968.jpg"
   },
   {
     "Product ID": 206,
@@ -3362,8 +3496,10 @@ export const products = [
     "Summary": "Hojas de cañamo sabor Lemonade ( Limonada)\nSin tabaco, sin nicotina\nCierre Tipo Ziploc\nHecho con Cañamo Canadiense\n2 hojas c/u",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "https://www.rincondeltabaco.cl/producto/kush-hemp-wrap-x2-lemonade/",
-    "Category": "Smoke Shop; Enrolado; Kush Hemp Wraps"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/0f5a5902-1608-4bd0-835d-53dbf65cec59.jpg",
+    "Category": "Smoke Shop; Enrolado; Kush Hemp Wraps",
+    "uuid": "0f5a5902-1608-4bd0-835d-53dbf65cec59",
+    "img_filename": "0f5a5902-1608-4bd0-835d-53dbf65cec59.jpg"
   },
   {
     "Product ID": 207,
@@ -3377,8 +3513,10 @@ export const products = [
     "Summary": "",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "https://store.tiendaeleven.cl/index.php?id_product=666&id_product_attribute=0&rewrite=kush-hemp-wrap-x2-kiwi-strawberry&controller=product",
-    "Category": "Smoke Shop; Enrolado; Kush Hemp Wraps"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/098722f5-f95f-4020-9a46-078b835127ba.jpg",
+    "Category": "Smoke Shop; Enrolado; Kush Hemp Wraps",
+    "uuid": "098722f5-f95f-4020-9a46-078b835127ba",
+    "img_filename": "098722f5-f95f-4020-9a46-078b835127ba.jpg"
   },
   {
     "Product ID": 208,
@@ -3392,8 +3530,10 @@ export const products = [
     "Summary": "Los Kush Hemp Wraps son blunts de cáñamo provenientes de Canadá, absolutamente libres de tabaco y nicotina. Tienen un diseño libre de pegamento, incluye 2 piezas por pack y cuentan con cierre hermético tipo ziploc.",
     "Description": "Los Kush Hemp Wraps son blunts de cáñamo provenientes de Canadá, absolutamente libres de tabaco y nicotina. Tienen un diseño libre de pegamento, incluye 2 piezas por pack y cuentan con cierre hermético tipo ziploc.",
     "Meta description": "",
-    "Image URLs": "https://ozeta.cl/producto/kush-hemp-wraps-zero/",
-    "Category": "Smoke Shop; Enrolado; Kush Hemp Wraps"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/6324d17f-6c32-459c-b02f-a20ef5e046e4.jpg",
+    "Category": "Smoke Shop; Enrolado; Kush Hemp Wraps",
+    "uuid": "6324d17f-6c32-459c-b02f-a20ef5e046e4",
+    "img_filename": "6324d17f-6c32-459c-b02f-a20ef5e046e4.jpg"
   },
   {
     "Product ID": 209,
@@ -3407,8 +3547,10 @@ export const products = [
     "Summary": "",
     "Description": "",
     "Meta description": "",
-    "Image URLs": "https://store.tiendaeleven.cl/index.php?id_product=664&id_product_attribute=0&rewrite=kush-hemp-wrap-x2-mixed-grape&controller=product",
-    "Category": "Smoke Shop; Enrolado; Kush Hemp Wraps"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/d270480d-9d71-4aed-8bd6-74c3b9cc5e27.jpg",
+    "Category": "Smoke Shop; Enrolado; Kush Hemp Wraps",
+    "uuid": "d270480d-9d71-4aed-8bd6-74c3b9cc5e27",
+    "img_filename": "d270480d-9d71-4aed-8bd6-74c3b9cc5e27.jpg"
   },
   {
     "Product ID": 210,
@@ -3422,8 +3564,10 @@ export const products = [
     "Summary": "<div id=\"short_description_block\"><div id=\"short_description_content\" class=\"rte align_justify\"><p>Boquilla con&nbsp;33 cartones para filtros&nbsp;fabricados en material ecológico de la prestigiosa marca&nbsp;The Bulldog&nbsp;con el tamaño ideal para fabricar la boquilla perfecta.&nbsp;</p></div></div>",
     "Description": "<div class=\"rte\" itemprop=\"description\"><div id=\"short_description_block\"><div id=\"short_description_content\" class=\"rte align_justify\"><p>Boquilla con&nbsp;33 cartones para filtros&nbsp;fabricados en material ecológico de la prestigiosa marca&nbsp;The Bulldog&nbsp;con el tamaño ideal para fabricar la boquilla perfecta.&nbsp;</p></div></div><h5>Descripción</h5><ul><li><span>Tips The <a href=\"https://www.lajuana.cl/the-bulldog-seeds/\" class=\"pmsil\" title=\"Semillas de marihuana The Bulldog Seeds\">Bulldog</a> Amsterdam</span></li><li><span>Boquillas de cartón</span></li><li><span>sin blanquear</span></li><li>con prepicado</li></ul><p><iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/sCxZHW5yRAY\" frameborder=\"0\"></iframe></p></div>",
     "Meta description": "",
-    "Image URLs": "https://www.lajuana.cl/boquillas/boquillas-eco-brown-the-bulldog-amsterdam.html",
-    "Category": "Smoke Shop; Papelería"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/c292dc08-eb69-4245-80e1-d4e8dfc98493.jpg",
+    "Category": "Smoke Shop; Papelería",
+    "uuid": "c292dc08-eb69-4245-80e1-d4e8dfc98493",
+    "img_filename": "c292dc08-eb69-4245-80e1-d4e8dfc98493.jpg"
   },
   {
     "Product ID": 211,
@@ -3437,8 +3581,10 @@ export const products = [
     "Summary": "Papelillos Elements Connoisseur 1 1/4 + TIPS\nPapel Elements Classic + Boquillas de cartón\n50 papelillos + 50 Tips",
     "Description": "Papelillos Elements Connoisseur 1 1/4 + TIPS\nPapel Elements Classic + Boquillas de cartón\n50 papelillos + 50 Tips",
     "Meta description": "",
-    "Image URLs": "https://laovejaverde.cl/papeleria/868-elements-papelillos-connoisseur-1-14-tips.html",
-    "Category": "Smoke Shop; Papelería"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/72a8f0a3-4514-44e4-8373-3b4a47f26572.jpg",
+    "Category": "Smoke Shop; Papelería",
+    "uuid": "72a8f0a3-4514-44e4-8373-3b4a47f26572",
+    "img_filename": "72a8f0a3-4514-44e4-8373-3b4a47f26572.jpg"
   },
   {
     "Product ID": 212,
@@ -3452,8 +3598,10 @@ export const products = [
     "Summary": "Boquillas, filtro o Tips para enrolar marca Elements con prepicado, para evitar que te quemes los dedos y puedas consumir toda la hierba enrolada.",
     "Description": "Los filtros o boquillas son ideales para enrolar y fumar toda la hierba sin quemarte los deodos.</p><p>Cada paquete de boquillas o filtros Dark Horse contiene 50 boquillas o tips para enrolar.",
     "Meta description": "",
-    "Image URLs": "https://bran.cl/filtros-y-boquillas/boquilla-elements.html",
-    "Category": "Smoke Shop; Papelería"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/6236afd7-8157-4cfd-a20d-b055a4dca399.jpg",
+    "Category": "Smoke Shop; Papelería",
+    "uuid": "6236afd7-8157-4cfd-a20d-b055a4dca399",
+    "img_filename": "6236afd7-8157-4cfd-a20d-b055a4dca399.jpg"
   },
   {
     "Product ID": 213,
@@ -3467,8 +3615,10 @@ export const products = [
     "Summary": "<p>RAW es la marca pionera en papelillos o Rolling paper para enrolar tu <a href=\"https://www.lajuana.cl/semillas-de-marihuana/\" class=\"pmsil\" title=\"marihuana\">marihuana</a> favorita, este es un papel libre de químicos y blanqueadores, fabricado en fibras de arroz, fibra de cáñamo y lino para tener una experiencia 100% natural sin componentes nocivos para tu salud. Incluye una bandeja desplegable y <a href=\"https://www.lajuana.cl/filtro-de-olor/\" class=\"pmsil\" title=\"Filtros de olor para cultivo\">filtros</a> de papel.</p>",
     "Description": "<div class=\"rte\" itemprop=\"description\"><p>RAW es la marca pionera en papelillos o Rolling paper para enrolar tu <a href=\"https://www.lajuana.cl/semillas-de-marihuana/\" class=\"pmsil\" title=\"marihuana\">marihuana</a> favorita, este es un papel libre de químicos y blanqueadores, fabricado en fibras de arroz, fibra de cáñamo y lino para tener una experiencia 100% natural sin componentes nocivos para tu salud. Incluye una bandeja desplegable y <a href=\"https://www.lajuana.cl/filtro-de-olor/\" class=\"pmsil\" title=\"Filtros de olor para cultivo\">filtros</a> de papel.</p><p><span>Este es uno de los mejores papelillos para fumar marihuana que hay en el mercado, con este kit tendrás una experiencia completa para enrolar, una bandeja desplegable que te da una base firme para colocar tus <a href=\"https://www.lajuana.cl/blog/auto-cultivo/como-agrandar-los-cogollos\" class=\"pmsil\" title=\"Cogollos\">cogollos</a>, 32 filtros o boquillas de cartón perforado y 32 rolling papers ultra delgados de 1 1/4, con un tamaño de 79 mm x 45 mm.</span></p><p><span>Los elementos naturales con los que se fabrica este papel hacen que la marihuana se queme lenta y uniformemente, son especialmente diseñados para quemar hierbas de marihuana, tienen una goma natural a base de azúcar para conseguir que tu cigarro de marihuana quede compacto y bien sellado.</span></p><p><strong><span>Características:</span></strong></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>32 papelillos RAW 1 ¼</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Tamaño: 79 mm x 45 mm</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>32 filtros o boquillas de cartón perforado</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Bandeja desplegable</span></p><p><iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/2YHNH5Sg8hU\" frameborder=\"0\"></iframe></p></div>",
     "Meta description": "",
-    "Image URLs": "https://www.lajuana.cl/papelillos-para-enrolar/papelillos-raw-artesano-1-1-4-filtros-bandeja-para-armar.html",
-    "Category": "Smoke Shop; Papelería"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/7fa3ff7b-9ea4-4ff1-8353-56904f2afa1f.jpg",
+    "Category": "Smoke Shop; Papelería",
+    "uuid": "7fa3ff7b-9ea4-4ff1-8353-56904f2afa1f",
+    "img_filename": "7fa3ff7b-9ea4-4ff1-8353-56904f2afa1f.jpg"
   },
   {
     "Product ID": 214,
@@ -3482,8 +3632,10 @@ export const products = [
     "Summary": "Una boquilla perfecta ahora es más fácil de hacer con los filtros Gummed Tips de la famosa casa de papel RAW.",
     "Description": "RAW Gummed Tips son los clásicos filtros libres de cloro del fabricante norteamericano, ahora con una pega en uno de los extremos para facilitar la tarea.</p><p>Una boquilla perfecta ahora es más fácil de hacer con los filtros Gummed Tips de la famosa casa de papel RAW.</p><p>Cada filtro incluye las perforaciones que caracterizan al modelo \"perforated\" y eliminan el paso de restos de hierbas o tabaco a través del mismo.</p><p>Al enrollarlo podrás dejar una forma perfecta con la pega del extremo que corresponde.</p><p>Especificaciones de RAW Gummed Tips:\nFabricante: RAW\n100% libre de cloro y químicos\n33 boquillas por paquete\nExtremo con goma arábiga natural",
     "Meta description": "",
-    "Image URLs": "https://www.growlobby.com/raw-tips-gummed-33-boquillas.html",
-    "Category": "Smoke Shop; Papelería"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/00277dd9-c4b1-4b66-96e0-5642ec7fbb72.jpg",
+    "Category": "Smoke Shop; Papelería",
+    "uuid": "00277dd9-c4b1-4b66-96e0-5642ec7fbb72",
+    "img_filename": "00277dd9-c4b1-4b66-96e0-5642ec7fbb72.jpg"
   },
   {
     "Product ID": 215,
@@ -3497,8 +3649,10 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\"><p><span>Este librillo de 50 papeles para enrolar tu <a href=\"https://www.lajuana.cl/semillas-de-marihuana/\" class=\"pmsil\" title=\"marihuana\">marihuana</a> favorita tiene una envoltura de cartón duro con cierre magnético que le da mayor calidad y estilo a tus Rolling papers. Su papel ultra delgado está libre de químicos y blanqueadores",
     "Description": "<div class=\"rte\" itemprop=\"description\"><p><span>Este librillo de 50 papeles para enrolar tu <a href=\"https://www.lajuana.cl/semillas-de-marihuana/\" class=\"pmsil\" title=\"marihuana\">marihuana</a> favorita tiene una envoltura de cartón duro con cierre magnético que le da mayor calidad y estilo a tus Rolling papers. Su papel ultra delgado está libre de químicos y blanqueadores, </span></p><p><span>Elements 1 ¼ está fabricado en fibras de arroz, fibra de cáñamo y lino para tener una experiencia 100% natural sin componentes nocivos para tu salud.</span></p><p><span>Este es uno de los mejores papelillos para fumar marihuana que hay en el mercado, un rolling paper ultra delgado de 1 1/4, con un tamaño de 79 mm x 45 mm que te da la mejor experiencia al fumar.</span></p><p><strong><span>Características:</span></strong></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Cada librito contiene 50 papeles Elements 1 ¼</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Tamaño: 79 mm x 45 mm</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Goma natural arábiga</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Sin cloro ni aditivos, ni blanqueador</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Cada libro tiene un cierre magnético que protege los papeles</span></p><p><iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/l3UsKRVcn5Q\" frameborder=\"0\"></iframe></p></div>",
     "Meta description": "",
-    "Image URLs": "https://www.lajuana.cl/papelillos-para-enrolar/elements-1-1-4-cierre-magnetico-1-unidad.html",
-    "Category": "Smoke Shop; Papelería"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/a0623f33-23cf-4161-99cd-33bea2602a83.jpg",
+    "Category": "Smoke Shop; Papelería",
+    "uuid": "a0623f33-23cf-4161-99cd-33bea2602a83",
+    "img_filename": "a0623f33-23cf-4161-99cd-33bea2602a83.jpg"
   },
   {
     "Product ID": 216,
@@ -3512,8 +3666,10 @@ export const products = [
     "Summary": "Papel natural Greengo 1 1/4</p><p>Papel natural Greengo 1 1/4 (78 mm). 100% natural.",
     "Description": "Papel natural Greengo 1 1/4</p><p>Papel natural Greengo 1 1/4 (78 mm). 100% natural.</p><p>Olvida las demás marcas, los papeles 1 ¼  de Greengo son los mejores papeles, hechos únicamente de papel sin químicos ni blanqueantes. Con certificado FSC.",
     "Meta description": "",
-    "Image URLs": "https://dlds.cl/papeles-y-celulosas/20186-greengo-papelillo-1-14-50u.html",
-    "Category": "Smoke Shop; Papelería"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/967bf100-aa00-4d28-8394-68c50a0ebecf.jpg",
+    "Category": "Smoke Shop; Papelería",
+    "uuid": "967bf100-aa00-4d28-8394-68c50a0ebecf",
+    "img_filename": "967bf100-aa00-4d28-8394-68c50a0ebecf.jpg"
   },
   {
     "Product ID": 217,
@@ -3527,8 +3683,10 @@ export const products = [
     "Summary": "El papel de Premium de OCB está hecho de arroz procesado, engomado con goma arábiga natural y blanqueado. Además ya es un clásico para los fumetas debido a que es un papel ultra fino sin aditivos químicos dañinos para la salud.",
     "Description": "El papel de Premium de OCB está hecho de arroz procesado, engomado con goma arábiga natural y blanqueado. Además ya es un clásico para los fumetas debido a que es un papel ultra fino sin aditivos químicos dañinos para la salud.",
     "Meta description": "",
-    "Image URLs": "https://fumetas.cl/papelillo-ocb-premium-1-14",
-    "Category": "Smoke Shop; Papelería"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/108e9c1b-217a-4d93-8f26-d2dab140f27a.jpg",
+    "Category": "Smoke Shop; Papelería",
+    "uuid": "108e9c1b-217a-4d93-8f26-d2dab140f27a",
+    "img_filename": "108e9c1b-217a-4d93-8f26-d2dab140f27a.jpg"
   },
   {
     "Product ID": 218,
@@ -3542,8 +3700,10 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\"><p><span>El <a href=\"https://www.lajuana.cl/papelillos-y-filtros/\" class=\"pmsil\" title=\"Papelillos para fumar\">papelillo</a> para fumar <a href=\"https://www.lajuana.cl/manufacturers/ocb.html\" class=\"pmsil\" title=\"Papelillos Ocb\">OCB</a> Silver X-pert de 1 ¼ es ultra fino con un formato de 77 x 44 mm, ideal para fumar tus mejores hierbas de <a href=\"https://www.lajuana.cl/semillas-de-marihuana/\" class=\"pmsil\" title=\"marihuana\">marihuana</a> con calidad ya que no tiene aditivos químicos que modifiquen su aroma o sabor. Es otro papel de alta calidad de la marca OCB para fumetas profesionales.",
     "Description": "<div class=\"rte\" itemprop=\"description\"><p><span>El <a href=\"https://www.lajuana.cl/papelillos-y-filtros/\" class=\"pmsil\" title=\"Papelillos para fumar\">papelillo</a> para fumar <a href=\"https://www.lajuana.cl/manufacturers/ocb.html\" class=\"pmsil\" title=\"Papelillos Ocb\">OCB</a> Silver X-pert de 1 ¼ es ultra fino con un formato de 77 x 44 mm, ideal para fumar tus mejores hierbas de <a href=\"https://www.lajuana.cl/semillas-de-marihuana/\" class=\"pmsil\" title=\"marihuana\">marihuana</a> con calidad ya que no tiene aditivos químicos que modifiquen su aroma o sabor. Es otro papel de alta calidad de la marca OCB para fumetas profesionales.</span></p><p><span>OCB Silver X-pert 1 ¼ tiene combustión lenta para que disfrutes al máximo de tu marihuana, además es totalmente <a href=\"https://www.lajuana.cl/buscar?controller=search&amp;orderby=position&amp;orderway=desc&amp;search_query_cat=0&amp;search_query=org%C3%A1nico&amp;submit_search=\" class=\"pmsil\" title=\"Orgánicos\">orgánico</a> hecho a base de fibra de arroz con una banda de<span>&nbsp; </span>goma arábiga para cerrar tu caño con firmeza.</span></p><p><span>Con los papelillos de OCB estarás fumando material 100% natural sin químicos dañinos para tu salud, estos Rolling papers están pensados para el fumador ecológico que busca compatibilidad entre sus preciadas hierbas de marihuana y un papel orgánico.</span></p><p><strong><span>Características:</span></strong></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Tamaño: 77 x 44 mm</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Cada librillo contiene 50 papelillos</span></p><p><iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/QZfCPV5MdXI\" frameborder=\"0\"></iframe></p></div>",
     "Meta description": "",
-    "Image URLs": "https://www.lajuana.cl/papelillos-para-enrolar/ocb-silver-xpert-1-1-4-1-unidad.html",
-    "Category": "Smoke Shop; Papelería"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/4fd0dcda-0e1f-4f13-92e2-92e6647e298a.jpg",
+    "Category": "Smoke Shop; Papelería",
+    "uuid": "4fd0dcda-0e1f-4f13-92e2-92e6647e298a",
+    "img_filename": "4fd0dcda-0e1f-4f13-92e2-92e6647e298a.jpg"
   },
   {
     "Product ID": 219,
@@ -3557,8 +3717,10 @@ export const products = [
     "Summary": "<div class=\"tab_content\"><div class=\"rte\" itemprop=\"description\"><p><span>El <a href=\"https://www.lajuana.cl/papelillos-y-filtros/\" class=\"pmsil\" title=\"Papelillos para fumar\">papelillo</a> para fumar <a href=\"https://www.lajuana.cl/manufacturers/ocb.html\" class=\"pmsil\" title=\"Papelillos Ocb\">OCB</a> Ultimate de 1 ¼ es ultra fino con un formato de 77 x 44 mm, ideal para fumar tus mejores hierbas de <a href=\"https://www.lajuana.cl/semillas-de-marihuana/\" class=\"pmsil\" title=\"marihuana\">marihuana</a> con calidad ya que no tiene aditivos químicos que modifiquen su aroma o sabor. Es otro papel de alta calidad de la marca OCB para fumetas profesionales.",
     "Description": "<div class=\"tab_content\"><div class=\"rte\" itemprop=\"description\"><p><span>El <a href=\"https://www.lajuana.cl/papelillos-y-filtros/\" class=\"pmsil\" title=\"Papelillos para fumar\">papelillo</a> para fumar <a href=\"https://www.lajuana.cl/manufacturers/ocb.html\" class=\"pmsil\" title=\"Papelillos Ocb\">OCB</a> Ultimate de 1 ¼ es ultra fino con un formato de 77 x 44 mm, ideal para fumar tus mejores hierbas de <a href=\"https://www.lajuana.cl/semillas-de-marihuana/\" class=\"pmsil\" title=\"marihuana\">marihuana</a> con calidad ya que no tiene aditivos químicos que modifiquen su aroma o sabor. Es otro papel de alta calidad de la marca OCB para fumetas profesionales.</span></p><p><span>OCB Ultimate 1 ¼ tiene combustión lenta para que disfrutes al máximo de tu marihuana, además es totalmente <a href=\"https://www.lajuana.cl/buscar?controller=search&amp;orderby=position&amp;orderway=desc&amp;search_query_cat=0&amp;search_query=org%C3%A1nico&amp;submit_search=\" class=\"pmsil\" title=\"Orgánicos\">orgánico</a> hecho a base de fibra de arroz con una banda de<span>&nbsp; </span>goma arábiga para cerrar tu caño con firmeza.</span></p><p><span>Con los papelillos de OCB estarás fumando material 100% natural sin químicos dañinos para tu salud, estos Rolling papers están pensados para el fumador ecológico que busca compatibilidad entre sus preciadas hierbas de marihuana y un papel orgánico.</span></p><p><strong><span>Características:</span></strong></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Tamaño: 77 x 44 mm</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Cada librillo contiene 50 papelillos</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Goma arábiga 100% natural</span></p><p><iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/CSHVRwsMJnQ\" frameborder=\"0\"></iframe></p></div> </div>",
     "Meta description": "",
-    "Image URLs": "https://www.lajuana.cl/papelillos-para-enrolar/ocb-ultimate-1-1-4-1-unidad.html",
-    "Category": "Smoke Shop; Papelería"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/8cb172c2-2529-486c-93b5-9cba11034b21.jpg",
+    "Category": "Smoke Shop; Papelería",
+    "uuid": "8cb172c2-2529-486c-93b5-9cba11034b21",
+    "img_filename": "8cb172c2-2529-486c-93b5-9cba11034b21.jpg"
   },
   {
     "Product ID": 220,
@@ -3572,8 +3734,10 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\"><p><span>El papel de cáñamo de <a href=\"https://www.lajuana.cl/manufacturers/ocb.html\" class=\"pmsil\" title=\"Papelillos Ocb\">OCB</a> es totalmente natural incluso su caja está hecha con cartón reciclado, este papel <a href=\"https://www.lajuana.cl/buscar?controller=search&amp;orderby=position&amp;orderway=desc&amp;search_query_cat=0&amp;search_query=org%C3%A1nico&amp;submit_search=\" class=\"pmsil\" title=\"Orgánicos\">orgánico</a> te da una experiencia mucho más sana que la mayoría de papeles o Rolling papers del mercado. Su tamaño es de 1 ¼ .",
     "Description": "<div class=\"rte\" itemprop=\"description\"><p><span>El papel de cáñamo de <a href=\"https://www.lajuana.cl/manufacturers/ocb.html\" class=\"pmsil\" title=\"Papelillos Ocb\">OCB</a> es totalmente natural incluso su caja está hecha con cartón reciclado, este papel <a href=\"https://www.lajuana.cl/buscar?controller=search&amp;orderby=position&amp;orderway=desc&amp;search_query_cat=0&amp;search_query=org%C3%A1nico&amp;submit_search=\" class=\"pmsil\" title=\"Orgánicos\">orgánico</a> te da una experiencia mucho más sana que la mayoría de papeles o Rolling papers del mercado. Su tamaño es de 1 ¼ .</span></p><p><span>Este papel o Rolling paper de la prestigiosa marca OCB están hecho 100% en fibra de cáñamo con la banda de goma arábiga adherente para cerrar tus caños con calidad. No tienen químicos ni se han utilizado blanqueadores dañinos para la salud. </span></p><p><span>Este papel es totalmente insípido e inodoro por lo que no afecta el sabor ni aroma de tus hierbas de <a href=\"https://www.lajuana.cl/semillas-de-marihuana/\" class=\"pmsil\" title=\"marihuana\">marihuana</a> favoritas. Este es un producto que está pensado para ser lo más ecológico posible, al mismo tiempo te entrega una mejor calidad que el resto de papelillos para marihuana.</span></p><p><strong><span>Características:</span></strong></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Tamaño: 1 ¼</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Contiene 50 papeles</span></p><p></p><p></p><p><iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/U8BBBcNGdQg\" frameborder=\"0\"></iframe></p></div>",
     "Meta description": "",
-    "Image URLs": "https://www.lajuana.cl/papelillos-para-enrolar/ocb-canamo-1-1-4-1-unidad.html",
-    "Category": "Smoke Shop; Papelería"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/8229acb3-96c6-4932-8c61-4e44c369a44a.jpg",
+    "Category": "Smoke Shop; Papelería",
+    "uuid": "8229acb3-96c6-4932-8c61-4e44c369a44a",
+    "img_filename": "8229acb3-96c6-4932-8c61-4e44c369a44a.jpg"
   },
   {
     "Product ID": 221,
@@ -3587,8 +3751,10 @@ export const products = [
     "Summary": "<div class=\"rte\" itemprop=\"description\"><p><span>El papel <a href=\"https://www.lajuana.cl/manufacturers/ocb.html\" class=\"pmsil\" title=\"Papelillos Ocb\">OCB</a> Virgin Unbleached 1 ¼ es totalmente orgánicos sin blanquear que sigue la línea OCB de papeles orgánicos sin aditivos químicos dañinos para la salud",
     "Description": "<div class=\"rte\" itemprop=\"description\"><p><span>El papel <a href=\"https://www.lajuana.cl/manufacturers/ocb.html\" class=\"pmsil\" title=\"Papelillos Ocb\">OCB</a> Virgin Unbleached 1 ¼ es totalmente orgánicos sin blanquear que sigue la línea OCB de papeles orgánicos sin aditivos químicos dañinos para la salud, Rolling papers naturalmente compatibles con tus hierbas de <a href=\"https://www.lajuana.cl/semillas-de-marihuana/\" class=\"pmsil\" title=\"marihuana\">marihuana</a>. Estos papelillos son ultra finos de color marrón.</span></p><p><span>OCB Virgin Unbleached 1 ¼ tiene unas dimensiones de 36 x 69 mm, cada librillo contiene 50 papeles para fumar. OCB Virgin te ofrece un quemado lento para que disfrutes al máximo de tu marihuana. </span></p><p><span>Este papel no tiene sabor ni olor agregado, disfrutarás de las características propias de tus <a href=\"https://www.lajuana.cl/blog/auto-cultivo/como-agrandar-los-cogollos\" class=\"pmsil\" title=\"Cogollos\">cogollos</a> de marihuana. Están hechos con fibra de arroz 100% natural con una línea de goma arábiga para cerrar tus caños.</span></p><p><strong><span>Características:</span></strong></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Tamaño: 36 x 69 mm</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Cada librillo contiene 50 papeles</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span><a href=\"https://www.lajuana.cl/papelillos-y-filtros/\" class=\"pmsil\" title=\"Papelillos para fumar\">Papelillo</a> sin blanquear</span></p><p><span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>100% natural</span></p><p></p><p></p><p><iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/s6iTsfh8Gcs\" frameborder=\"0\"></iframe></p></div>",
     "Meta description": "",
-    "Image URLs": "https://www.lajuana.cl/papelillos-para-enrolar/ocb-virgin-unbleached-1-1-4-1-unidad.html",
-    "Category": "Smoke Shop; Papelería"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/17997345-d67b-408a-9f12-04b2d095d36a.jpg",
+    "Category": "Smoke Shop; Papelería",
+    "uuid": "17997345-d67b-408a-9f12-04b2d095d36a",
+    "img_filename": "17997345-d67b-408a-9f12-04b2d095d36a.jpg"
   },
   {
     "Product ID": 222,
@@ -3602,8 +3768,10 @@ export const products = [
     "Summary": "RAW Black se presiona extrafino para ser el papel laminado sin blanquear más delgado que hayan fabricado.",
     "Description": "RAW Black se presiona extrafino para ser el papel laminado sin blanquear más delgado que hayan fabricado. Diseñado para la nueva generación de materiales para fumar increíblemente de alta calidad y hecho de fibras vegetales naturales con la goma de savia de árbol natural más pura. ¡Los papeles negros CRUDOS son tan delgados que le permiten saborear realmente sus terpenos!",
     "Meta description": "",
-    "Image URLs": "https://fumetas.cl/papelillos-raw-black-1-14",
-    "Category": "Smoke Shop; Papelería"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/c34c84a4-ed17-4490-817b-4891cb892f37",
+    "Category": "Smoke Shop; Papelería",
+    "uuid": "c34c84a4-ed17-4490-817b-4891cb892f37",
+    "img_filename": "c34c84a4-ed17-4490-817b-4891cb892f37"
   },
   {
     "Product ID": 223,
@@ -3617,8 +3785,10 @@ export const products = [
     "Summary": "<div class=\"product-description\"><h2>Medidor PH Milwaukee con sonda</h2>\n<p style=\"text-align:justify;\">El <strong>Medidor de PH Milwaukee</strong> es un medidor con Sonda profesional, si necesitas realizar una medición precisa de PH aquí tienes la solución. Es muy preciso y se utiliza en varios sectores. Normalmente es utilizado en Aeroponía y Hidroponía, pero se puede utilizar en cualquier medio de cultivo.</p>",
     "Description": "<div class=\"product-description\"><h2>Medidor PH Milwaukee con sonda</h2>\n<p style=\"text-align:justify;\">El <strong>Medidor de PH Milwaukee</strong> es un medidor con Sonda profesional, si necesitas realizar una medición precisa de PH aquí tienes la solución. Es muy preciso y se utiliza en varios sectores. Normalmente es utilizado en Aeroponía y Hidroponía, pero se puede utilizar en cualquier medio de cultivo.</p>\n<p style=\"text-align:justify;\">Consta de una Sonda de 1 metro sumergible,esta sonda lleva un tapón que debemos quitar para hacer la inmersión en el agua, si no vamos a utilizarla durante un periodo de tiempo es mejor introducirla en líquido de mantenimiento. Utiliza la conexión universal : BCN de 1,4 12mm.</p>\n<p style=\"text-align:justify;\">Dispone de 1 pantalla grande (display) para tener una visualización rápida y correcta, 1 correa de sujeción, 1 pila 9V, 1 Líquido de calibración PH7.</p>\n<p style=\"text-align:justify;\">Su calibración es manual y se realiza por medio de 2 ruletas una de ellas PH4 y PH7. El rango de calibración es de 0,0 - 14,0 PH.</p></div>",
     "Meta description": "",
-    "Image URLs": "https://brotesverdesonline.com/instrumentos-de-medida/670-medidor-ph-con-sonda-milwaukee.html",
-    "Category": "Medición y Control; Calibradores"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/69061676-1f64-4e0f-b087-112a399d79d6.jpg",
+    "Category": "Medición y Control; Calibradores",
+    "uuid": "69061676-1f64-4e0f-b087-112a399d79d6",
+    "img_filename": "69061676-1f64-4e0f-b087-112a399d79d6.jpg"
   },
   {
     "Product ID": 224,
@@ -3632,8 +3802,10 @@ export const products = [
     "Summary": "El Mega Bud, se trata de un aporte para la planta compuesto de fósforo y potasio. Con este suplemento conseguirás un notable aumento del volumen y del peso del cogollo.",
     "Description": "El Mega Bud, se trata de un aporte para la planta compuesto de fósforo y potasio. Con este suplemento conseguirás un notable aumento del volumen y del peso del cogollo.\nAparte de su alto contenido en fósforo y potasio NPK (0-52-33) también contiene microelementos y materia orgánica que proceden de algas marinas. Estos suplementos le aportan a los cogollos un gran suplemento de resina creando flores totalmente llenas de THC. El Mega Bud, también ayuda en la fotosíntesis de la planta y la refuerza ante enfermedades y situaciones de estrés como la sequía.\nEs un producto perfecto para hidroponía ya que es muy soluble y combina perfectamente con la gran mayoría de fertilizantes hidropónicos.",
     "Meta description": "",
-    "Image URLs": "https://demitierra.cl/index.php?id_product=1923&rewrite=mega-bud-100gr-thc&controller=product",
-    "Category": "Fertilizantes y Abonos; Potenciadores y Aditivos"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/caaf910c-7db4-4460-9d85-e6db641f79f0.jpg",
+    "Category": "Fertilizantes y Abonos; Potenciadores y Aditivos",
+    "uuid": "caaf910c-7db4-4460-9d85-e6db641f79f0",
+    "img_filename": "caaf910c-7db4-4460-9d85-e6db641f79f0.jpg"
   },
   {
     "Product ID": 225,
@@ -3647,8 +3819,10 @@ export const products = [
     "Summary": "Siempre listo para limpiar el bong, pipa, vaporizador o herramientas de los residuos de resina y la combustión del cannabis.",
     "Description": "Siempre listo para limpiar el bong, pipa, vaporizador o herramientas de los residuos de resina y la combustión del cannabis. Por lo que traemos este poderoso líquido limpiador con tecnología bio-degradable capaz de eliminar hasta el 99% de residuos en 1 minuto. DabCleaner es una solución definitiva que remueve impurezas y residuos adheridos a nuestras herramientas o accesorios para fumar flores o concentrados, fórmula diseñada para eliminar el 99% de residuos adheridos al VIDRIO, CERÁMICA, METAL y SILICONA.</p><p>Cuando se trata de disfrutar el sabor del cannabis, es muy importante usar instrumentos limpios, ¡Los terpenos no se sienten cuando el bong esta sucio! a más limpieza…. más terpenos.</p><p>FORMATO: 250cc</p><p>INSTRUCCIONES DE USO \nVierta una pequeña cantidad de Super Dab Cleaner en el bong sin agua.\nEl líquido debe tener contacto con los rincones mas sucios.\nDejar reposar 1 minuto.\nMover enérgicamente (shake shake).\nEliminar el contenido.\nLavar con lavalozas y abundante agua tibia.\nRECOMENDACIONES \nSe recomienda usar guantes de silicona o latex, en caso de contacto con la piel, lavar con agua y jabón\nTapar los dos orificios del bong antes de agitar enérgicamente \nSi el bong esta muy sucio, se recomienda dejar reposar por mas tiempo el líquido en los rincones mas difíciles\nRepetir el proceso de ser necesario\nPRECAUCIONES\nLíquido inflamable , no dejar al alcance de los niños o animales, en caso de contacto con los ojos, lavar con abundante agua por 15 minutos, en caso de ingestion accidental, no inducir al vomito, no contiene destilados de petróleo.",
     "Meta description": "",
-    "Image URLs": "https://www.kushbreak.cl/dab-cleaner-limpiador-bong-vidrio-cannabis",
-    "Category": "Smoke Shop; Parafernalia; Aseo"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/6c9f57dc-c18d-46e9-9db5-cb42c23674ab.jpg",
+    "Category": "Smoke Shop; Parafernalia; Aseo",
+    "uuid": "6c9f57dc-c18d-46e9-9db5-cb42c23674ab",
+    "img_filename": "6c9f57dc-c18d-46e9-9db5-cb42c23674ab.jpg"
   },
   {
     "Product ID": 226,
@@ -3662,8 +3836,10 @@ export const products = [
     "Summary": "El nuevo kit de limpieza de Thievery, combina perfecto con Dab Cleaner.",
     "Description": "El nuevo kit de limpieza de Thievery, combina perfecto con Dab Cleaner. Incluye los accesorios para mejorar y facilitar la experiencia al limpiar instrumentos de uso 420 y 710. </p><p>Cada kit contiene:</p><p>2  x Gloves (Guantes)\n12 x Cotonitos (Algodón)\n8  x Clean Sticks (Palitos limpios)",
     "Meta description": "",
-    "Image URLs": "https://www.kushbreak.cl/kit-limpieza-dab-cleaner",
-    "Category": "Smoke Shop; Parafernalia; Aseo"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/6726ba16-4f32-4bd8-a633-bb8a48aca76a.jpg",
+    "Category": "Smoke Shop; Parafernalia; Aseo",
+    "uuid": "6726ba16-4f32-4bd8-a633-bb8a48aca76a",
+    "img_filename": "6726ba16-4f32-4bd8-a633-bb8a48aca76a.jpg"
   },
   {
     "Product ID": 227,
@@ -3677,7 +3853,9 @@ export const products = [
     "Summary": "Concentrado biodegradable con alto poder de limpieza, remueve y elimina residuos 420 adheridos por combustión al glass pyrex, ceramic & metal\nSolución 100% biodegradable, se usa una y otra vez.",
     "Description": "Concentrado biodegradable con alto poder de limpieza, remueve y elimina residuos 420 adheridos por combustión al glass pyrex, ceramic & metal\nSolución 100% biodegradable, se usa una y otra vez.\nVierte una cantidad de ECO Dab cleaner en su bong sin agua.\nReposa el líquido.\nAgite enérgicamente.\nGuarda el contenido.\nLava el bong con lavaloza.\nNunca fue tan fácil limpiar tu bong.",
     "Meta description": "",
-    "Image URLs": "https://www.growshopchile.cl/thievery-super-dab-cleaner-eco-500ml-limpiador-bong-pipa/",
-    "Category": "Smoke Shop; Parafernalia; Aseo"
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/7fc07977-7389-463f-8170-40f3cd51f0a9.jpg",
+    "Category": "Smoke Shop; Parafernalia; Aseo",
+    "uuid": "7fc07977-7389-463f-8170-40f3cd51f0a9",
+    "img_filename": "7fc07977-7389-463f-8170-40f3cd51f0a9.jpg"
   }
 ]
