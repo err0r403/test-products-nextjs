@@ -26,7 +26,7 @@ const Product = ({ product }) => {
   const { id } = router.query
   const [summary, setSummary] = useState([''])
   const [description, setDescription] = useState([''])
-  const prev = (id == 1) ? 138 :parseInt(id) - 1
+  const prev = (id == 1) ? 138 : parseInt(id) - 1
   const next = (id == 138) ? 0 : parseInt(id) + 1
 
   const { data, error } = useSWR(
@@ -34,16 +34,15 @@ const Product = ({ product }) => {
     fetcher, { refreshInterval: 2 }
   )
 
-  
+
   useEffect(() => {
-    
-    if (data)
-    {
+
+    if (data) {
       setSummary(data['Summary'])
       setDescription(data['Description'])
     }
-   
-   }, [data])
+
+  }, [data])
 
   function onChangeSummary(code) {
     setSummary(code);
@@ -52,7 +51,7 @@ const Product = ({ product }) => {
   function onChangeDescription(code) {
     setDescription(code);
   }
-  
+
 
   if (error) return <div>{error.message}</div>
   if (!data) return <div>Loading...</div>
@@ -117,29 +116,33 @@ const Product = ({ product }) => {
                       <div className="product-price h5 ">
 
                         <div className="current-price">
-                          <span>15.990&nbsp;$</span>
-
+                          <span>$ {Math.ceil((parseInt(data['Price tax excluded'])))}</span>
                         </div>
-
                       </div>
+                      <p><strong>Impuestos excluidos</strong></p>
 
+                      <div className="product-price h5 ">
+                        <div className="current-price">
+                          <span>$ {Math.ceil((parseInt(data['Price tax excluded']) * 1.19))}</span>
+                        </div>
+                      </div>
+                      <p><strong>Impuestos incluidos</strong></p>
 
-                      <div className="tax-shipping-delivery-label">
-                        Impuestos incluidos
-                  </div>
+                      <p><strong>Manufacturer:</strong> {data['Manufacturer']}</p>
+                      <p><strong>Quantity:</strong> {data['Quantity']}</p>
                       <strong>SHORT DESCRIPTION:</strong>
                     </div>
                     <div id="product-description-short" itemProp="description" dangerouslySetInnerHTML={{ __html: summary }}>
                       {/* PRODUCT SHORT DESCRIPTION dangerouslySetInnerHTML={{ __html: summary}} */}
                     </div>
-                    <TextEditor
+                    {/* <TextEditor
                       mode='html'
                       theme="monokai"
                       onChange={onChangeSummary}
                       name={`summary-${id}`}
                       value={summary}
                       height='200px'
-                    />
+                    /> */}
                   </div>
                 </div>
               </div>
@@ -152,14 +155,14 @@ const Product = ({ product }) => {
                       <div className="product-description" dangerouslySetInnerHTML={{ __html: description }}>
                         {/* PRODUCT LARGE DESCRIPTION dangerouslySetInnerHTML={{ __html: description}} */}
                       </div>
-                      <TextEditor
+                      {/* <TextEditor
                         mode='html'
                         theme="monokai"
                         onChange={onChangeDescription}
                         name={`description-${id}`}
                         value={description}
                         height='800px'
-                      />
+                      /> */}
 
                     </div>
                   </div>

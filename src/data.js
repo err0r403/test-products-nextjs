@@ -8903,9 +8903,9 @@ export const products = [
     "Summary": "<p>Doble cara pulpo flippable Muñeca Niños Peluche Muñeca Niño Niña Regalo Juguetes de Año Nuevo Pulpo Simulado.</p>",
     "Description": "<p><strong>Pulpo de peluche reversible adorable y tierno,</strong> que mostrará una cara linda y feliz en un lado, mientras se da la vuelta, usted lo verá enojado!. Material suave, este producto está hecho de material de felpa de alta calidad, suave y cómodo al tacto.Excelente regalo para bebés, niños, parejas y adultos. Sorprende a los niños o a esa persona especial con este lindo y adorable púlpito</p>",
     "Meta description": "Una de las mejores opciones para la extracción/intracción de tu cultivo. Con un caudal suficiente para la mayoría de armarios este extractor dispone de 2 velocidades. Imprescindible para un óptimo funcionamiento de tu armario de cultivo. Las plantas dejan de crecer si la temperatura es excesiva. El rango ideal de temperatura del aire entre 26 y 28 grados asegura un crecimiento vigoroso y sano de las plantas. Modelo: TT-150 Caudal de aire: 595-560 m3/h Presión sonora: 40 dA/B Potencia: 24W Revol./Min:...",
-    "Image URLs": "http://konkatienda.cl/img/uuidimg/aee4a498-930f-4caf-8b2b-99d8e99f47c8.jpg",
+    "Image URLs": "http://konkatienda.cl/img/uuidimg/pulpo.png",
     "Category": "Ventilación y Extracción;Control de Clima;",
-    "uuid": "aee4a498-930f-4caf-8b2b-99d8e99f47c8",
-    "img_filename": "aee4a498-930f-4caf-8b2b-99d8e99f47c8.jpg"
+    "uuid": "pulpo",
+    "img_filename": "pulpo.png"
   }
 ]
